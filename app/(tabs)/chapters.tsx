@@ -23,7 +23,7 @@ import {
     BOSS_NODE_SIZE,
     TOTAL_LEVELS,
 } from '../../src/components/map/mapLayout';
-import AnimatedMapBackground from '../../src/components/map/AnimatedMapBackground';
+import JourneyBackground from '../../src/components/map/JourneyBackground';
 
 const { height: SCREEN_H, width: SCREEN_W } = Dimensions.get('window');
 
@@ -107,21 +107,8 @@ export default function ChaptersScreen() {
 
     return (
         <View style={styles.container}>
-            {/* Layer 1: Deep multi-stop base gradient */}
-            <LinearGradient
-                colors={
-                    isDark
-                        ? ['#020617', '#0A1128', '#0F1A3E', '#160E3A', '#0D0F28', '#050714']
-                        : [theme.background, theme.surface2, theme.background]
-                }
-                locations={isDark ? [0, 0.15, 0.35, 0.55, 0.78, 1] : [0, 0.5, 1]}
-                start={{ x: 0, y: 0 }}
-                end={{ x: 0.4, y: 1 }}
-                style={StyleSheet.absoluteFill}
-            />
-
-            {/* Animated particles + glow blobs */}
-            <AnimatedMapBackground />
+            {/* Cinematic space background */}
+            <JourneyBackground />
 
             <SafeAreaView style={styles.flex} edges={['top']}>
                 {/* ── Premium Header ── */}
