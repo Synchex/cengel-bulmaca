@@ -10,13 +10,14 @@ import { Puzzle, Chapter } from '../types';
 import { buildPuzzleFromSpec } from '../puzzleBuilder';
 import { allChapterSpecs, chapterGroups } from './generated';
 import { allNewSpecs, newChapterGroups } from './generated_new';
+import { allUltraSpecs, ultraChapterGroups } from './generated_ultra';
 
-// Build all puzzles from specs (original + generated)
-const allSpecs = [...allChapterSpecs, ...allNewSpecs];
+// Build all puzzles from specs (original + generated + ultra)
+const allSpecs = [...allChapterSpecs, ...allNewSpecs, ...allUltraSpecs];
 export const allPuzzles: Puzzle[] = allSpecs.map(spec => buildPuzzleFromSpec(spec));
 
 // Export chapters (groupings for UI)
-const allGroups = [...chapterGroups, ...newChapterGroups];
+const allGroups = [...chapterGroups, ...newChapterGroups, ...ultraChapterGroups];
 export const chapters: Chapter[] = allGroups.map(g => ({
     id: g.puzzleIds[0] || 'unknown',
     title: g.title,
