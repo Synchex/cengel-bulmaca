@@ -1,5 +1,5 @@
 import { LevelProgress } from '../game/types';
-import { IS_DEV } from '../config/devConfig';
+import { IS_DEV, DEV_UNLOCK_ALL } from '../config/devConfig';
 
 /**
  * Get the resume target puzzle ID from çengel puzzle progress.
@@ -21,7 +21,7 @@ export function getResumePuzzleId(
         const completed = p?.completed ?? false;
 
         // Unlock: first puzzle always unlocked, otherwise previous must be completed
-        const unlocked = i === 0 || (puzzleProgress[allPuzzleIds[i - 1]]?.completed ?? false);
+        const unlocked = DEV_UNLOCK_ALL || i === 0 || (puzzleProgress[allPuzzleIds[i - 1]]?.completed ?? false);
 
         if (unlocked && !completed) {
             return id;

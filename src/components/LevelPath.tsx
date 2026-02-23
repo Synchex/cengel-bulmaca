@@ -7,6 +7,7 @@ import LevelNode from './ui/LevelNode';
 import { colors } from '../theme/colors';
 import { spacing } from '../theme/spacing';
 import { LevelProgress } from '../game/types';
+import { DEV_UNLOCK_ALL } from '../config/devConfig';
 
 const { width: SCREEN_W } = Dimensions.get('window');
 
@@ -65,7 +66,7 @@ export default function LevelPath() {
                 const p: LevelProgress | undefined = progress.find(
                     (pr) => pr.levelId === level.id
                 );
-                const unlocked = p?.unlocked ?? false;
+                const unlocked = DEV_UNLOCK_ALL || (p?.unlocked ?? false);
                 const completed = p?.completed ?? false;
                 const stars = p?.stars ?? 0;
                 const isNext = level.id === nextLevelId;

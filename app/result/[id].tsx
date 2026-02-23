@@ -3,6 +3,7 @@ import {
   View,
   Text,
   StyleSheet,
+  Pressable,
   Animated,
   Easing,
 } from 'react-native';
@@ -12,6 +13,7 @@ import * as Haptics from 'expo-haptics';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { Ionicons } from '@expo/vector-icons';
 import { levels } from '../../src/levels/levels';
+import { allPuzzles } from '../../src/cengel/puzzles/index';
 import { spacing } from '../../src/theme/spacing';
 import { radius } from '../../src/theme/radius';
 import { typography } from '../../src/theme/typography';
@@ -177,7 +179,29 @@ export default function ResultScreen() {
   const newLevel = parseInt(params.newLevel ?? '1', 10);
   const leagueRank = parseInt(params.leagueRank ?? '0', 10);
   const streakIncreased = params.streakIncreased === '1';
-  const hasNextLevel = !isCengel && levelId < levels.length;
+
+  // ── Next level logic (works for both çengel and classic) ──
+  // rawId for çengel comes as "ch-{puzzleId}" (e.g. "ch-ch01_01")
+  // but allPuzzles stores IDs without the "ch-" prefix (e.g. "ch01_01")
+  const cengelPuzzleId = isCengel ? rawId.replace(/^ch-/, '') : '';
+  const nextLevelInfo = useMemo(() => {
+    if (isCengel) {
+      const currentIndex = allPuzzles.findIndex(p => p.id === cengelPuzzleId);
+      if (currentIndex >= 0 && currentIndex < allPuzzles.length - 1) {
+        const nextPuzzle = allPuzzles[currentIndex + 1];
+        return { hasNext: true, nextId: nextPuzzle.id, isLast: false };
+      }
+      return { hasNext: false, nextId: null, isLast: currentIndex === allPuzzles.length - 1 };
+    } else {
+      if (levelId < levels.length) {
+        return { hasNext: true, nextId: String(levelId + 1), isLast: false };
+      }
+      return { hasNext: false, nextId: null, isLast: levelId >= levels.length };
+    }
+  }, [cengelPuzzleId, isCengel, levelId]);
+
+  const hasNextLevel = nextLevelInfo.hasNext;
+  const isLastLevel = nextLevelInfo.isLast;
 
   // Random headline (stable per mount)
   const headline = useMemo(
@@ -647,15 +671,36 @@ export default function ResultScreen() {
               },
             ]}
           >
+            {/* Primary CTA: Next Level */}
             {hasNextLevel && (
-              <PrimaryButton
-                title="Sonraki Bölüm →"
-                onPress={() => router.replace(`/game/${levelId + 1}`)}
-                variant="secondary"
-                size="lg"
-              />
+              <Pressable
+                onPress={() => {
+                  Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium);
+                  const target = isCengel
+                    ? `/game/${nextLevelInfo.nextId}`
+                    : `/game/${nextLevelInfo.nextId}`;
+                  router.replace(target as any);
+                }}
+              >
+                <LinearGradient
+                  colors={['#4F46E5', '#7C3AED'] as readonly [string, string]}
+                  start={{ x: 0, y: 0 }}
+                  end={{ x: 1, y: 0 }}
+                  style={styles.nextLevelButton}
+                >
+                  <Text style={styles.nextLevelButtonText}>Sonraki Bölüm →</Text>
+                </LinearGradient>
+              </Pressable>
             )}
 
+            {/* Last level congratulations */}
+            {isLastLevel && (
+              <View style={styles.congratsBadge}>
+                <Text style={styles.congratsText}>🎉 Tebrikler! Tüm Bölümler Tamamlandı 🎉</Text>
+              </View>
+            )}
+
+            {/* Secondary CTA: Home */}
             <PrimaryButton
               title="Ana Menü"
               onPress={() => router.replace('/')}
@@ -665,6 +710,7 @@ export default function ResultScreen() {
               textStyle={styles.outlineTextOnDark}
             />
 
+            {/* Tertiary CTA: Replay */}
             {!isCengel && (
               <PrimaryButton
                 title="Tekrar Oyna"
@@ -846,6 +892,38 @@ const styles = StyleSheet.create({
     marginTop: spacing.xl,
     width: '100%',
     gap: spacing.sm,
+  },
+  nextLevelButton: {
+    height: 56,
+    borderRadius: radius.xl,
+    justifyContent: 'center' as const,
+    alignItems: 'center' as const,
+    shadowColor: '#7C3AED',
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.4,
+    shadowRadius: 12,
+    elevation: 8,
+  },
+  nextLevelButtonText: {
+    color: '#FFFFFF',
+    fontSize: 17,
+    fontWeight: '800' as const,
+    letterSpacing: 0.5,
+  },
+  congratsBadge: {
+    backgroundColor: 'rgba(255,255,255,0.15)',
+    paddingVertical: 14,
+    paddingHorizontal: 20,
+    borderRadius: radius.lg,
+    borderWidth: 1,
+    borderColor: 'rgba(255,255,255,0.25)',
+    alignItems: 'center' as const,
+  },
+  congratsText: {
+    color: '#FFFFFF',
+    fontSize: 15,
+    fontWeight: '700' as const,
+    textAlign: 'center' as const,
   },
   outlineOnDark: {
     borderColor: 'rgba(255,255,255,0.4)',

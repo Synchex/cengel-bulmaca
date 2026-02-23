@@ -12,5 +12,15 @@
 export const IS_DEV =
     process.env.EXPO_PUBLIC_DEV_MODE === 'true' || __DEV__;
 
+/**
+ * When true, all levels are playable without lock restrictions.
+ * Production behaviour is unchanged.
+ */
+export const DEV_UNLOCK_ALL: boolean = true;
+
+if (DEV_UNLOCK_ALL) {
+    console.log('DEV MODE: All levels unlocked');
+}
+
 /** Unlimited coin balance shown in DEV mode */
 export const DEV_COIN_BALANCE = 999_999;

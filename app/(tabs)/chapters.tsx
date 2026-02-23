@@ -11,6 +11,7 @@ import { allPuzzles } from '../../src/cengel/puzzles/index';
 import { usePuzzleProgressStore } from '../../src/store/usePuzzleProgressStore';
 import { useGamificationStore } from '../../src/store/useGamificationStore';
 import MapLevelNode, { NodeState } from '../../src/components/map/MapLevelNode';
+import { DEV_UNLOCK_ALL } from '../../src/config/devConfig';
 import MapPath from '../../src/components/map/MapPath';
 import PathEnergyFlow from '../../src/components/map/PathEnergyFlow';
 import WorldBanner from '../../src/components/map/WorldBanner';
@@ -50,7 +51,7 @@ export default function ChaptersScreen() {
             const completed = p?.completed ?? false;
             const stars = p?.stars ?? 0;
 
-            const unlocked = index === 0 || (progress[allPuzzles[index - 1]?.id]?.completed ?? false);
+            const unlocked = DEV_UNLOCK_ALL || index === 0 || (progress[allPuzzles[index - 1]?.id]?.completed ?? false);
 
             let state: NodeState;
             if (completed) {

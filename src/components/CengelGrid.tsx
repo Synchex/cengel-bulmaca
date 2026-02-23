@@ -237,7 +237,7 @@ const MemoCell = memo(function CellComponent({
                     ]}
                 >
                     {/* Text area — takes all space above arrows */}
-                    <View style={{ flex: 1, width: '100%', justifyContent: 'center' }}>
+                    <View style={{ flex: 1, width: '100%', justifyContent: 'center', overflow: 'hidden' }}>
                         <Text
                             style={[
                                 styles.clueText,
@@ -246,8 +246,9 @@ const MemoCell = memo(function CellComponent({
                                     color: '#4A3B2A',
                                 },
                             ]}
+                            numberOfLines={4}
                             adjustsFontSizeToFit
-                            minimumFontScale={gp.clueTextMinScale}
+                            minimumFontScale={0.3}
                         >
                             {displayClue}
                         </Text>
