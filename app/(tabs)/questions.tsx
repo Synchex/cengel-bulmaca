@@ -46,6 +46,7 @@ export default function QuestionsScreen() {
     const setLevel = useQuestionStore((s) => s.setLevel);
     const setDifficulty = useQuestionStore((s) => s.setDifficulty);
     const setType = useQuestionStore((s) => s.setType);
+    const setShowNewOnly = useQuestionStore((s) => s.setShowNewOnly);
     const clearFilters = useQuestionStore((s) => s.clearFilters);
     const filteredQuestions = useQuestionStore((s) => s.filteredQuestions);
     const selectQuestion = useQuestionStore((s) => s.selectQuestion);
@@ -104,6 +105,30 @@ export default function QuestionsScreen() {
                             </Text>
                         </TouchableOpacity>
                     ))}
+                </ScrollView>
+
+                <ScrollView
+                    horizontal
+                    showsHorizontalScrollIndicator={false}
+                    contentContainerStyle={styles.chipRow}
+                >
+                    <TouchableOpacity
+                        style={[
+                            styles.chip,
+                            filters.showNewOnly && styles.chipActiveSecondary,
+                            !filters.showNewOnly && { borderColor: colors.secondary },
+                        ]}
+                        onPress={() => setShowNewOnly(!filters.showNewOnly)}
+                    >
+                        <Text
+                            style={[
+                                styles.chipText,
+                                filters.showNewOnly ? styles.chipTextActive : { color: colors.secondary },
+                            ]}
+                        >
+                            ✨ Yeni Sorular
+                        </Text>
+                    </TouchableOpacity>
                 </ScrollView>
 
                 {/* Difficulty chips */}
@@ -287,6 +312,10 @@ const styles = StyleSheet.create({
     chipActivePrimary: {
         backgroundColor: colors.primaryLight,
         borderColor: colors.primary,
+    },
+    chipActiveSecondary: {
+        backgroundColor: colors.secondary + '20',
+        borderColor: colors.secondary,
     },
     chipText: {
         fontSize: 13,

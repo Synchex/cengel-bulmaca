@@ -1,0 +1,1121 @@
+{
+    "chapters_continued": true,
+    "chapters": [
+        {
+            "chapter": 13,
+            "target_band": "68-78",
+            "items": [
+                {
+                    "answer": "KUYRUKAÇAN",
+                    "clue": "Kuyruğunu hızlıca sallayan küçük kuş türü.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 73
+                },
+                {
+                    "answer": "TABANCA",
+                    "clue": "Tek elle kullanılan kısa namlulu ateşli silah.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 68
+                },
+                {
+                    "answer": "PABUÇCU",
+                    "clue": "Ayakkabı tamir eden veya yapan esnaf.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 69
+                },
+                {
+                    "answer": "ÇÖREKOTU",
+                    "clue": "Simit ve poğaçaya serpilen siyah küçük tohum.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 70
+                },
+                {
+                    "answer": "SERÇE",
+                    "clue": "Şehirlerde yaşayan küçük, kahverengi kuş.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 68
+                },
+                {
+                    "answer": "HAZNEDAR",
+                    "clue": "Sarayda hazine işlerini yöneten görevli.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 75
+                },
+                {
+                    "answer": "GERDANLIK",
+                    "clue": "Boyuna takılan süs zinciri veya boncuğu.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 70
+                },
+                {
+                    "answer": "DOLUNAY",
+                    "clue": "Ayın tamamen aydınlanmış hali.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 68
+                },
+                {
+                    "answer": "EDEBİYAT",
+                    "clue": "Yazılı ve sözlü sanat eserlerinin genel adı.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 70
+                },
+                {
+                    "answer": "KALDIRAÇ",
+                    "clue": "Az güçle ağır yük kaldıran basit makine.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 72
+                },
+                {
+                    "answer": "ANAHTAR",
+                    "clue": "Kilidi açıp kapamaya yarayan metal parça.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 68
+                },
+                {
+                    "answer": "CEVHER",
+                    "clue": "İçinden maden çıkarılan ham kaya.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 70
+                },
+                {
+                    "answer": "SALGIN",
+                    "clue": "Hızla yayılan bulaşıcı hastalık dalgası.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 69
+                },
+                {
+                    "answer": "MEZHEP",
+                    "clue": "Bir dinin farklı yorum ve inanç kolu.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 72
+                },
+                {
+                    "answer": "OYMACI",
+                    "clue": "Ahşap veya metal üzerine şekil kazıyan zanaatkâr.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 71
+                },
+                {
+                    "answer": "TEKERLEK",
+                    "clue": "Dönerek taşıtı ileri götüren yuvarlak parça.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 70
+                },
+                {
+                    "answer": "KIRLANGIC",
+                    "clue": "Kuyruklu, baharla gelen göçmen kuş.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 72
+                },
+                {
+                    "answer": "DURUŞMA",
+                    "clue": "Mahkemede yapılan resmi yargılama oturumu.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 70
+                },
+                {
+                    "answer": "SERAMIK",
+                    "clue": "Kil pişirilerek yapılan süs veya kaplama malzemesi.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 70
+                },
+                {
+                    "answer": "BOHÇACI",
+                    "clue": "Evlere kumaş ve tuhafiye satan gezgin satıcı.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 75
+                },
+                {
+                    "answer": "FASULYE",
+                    "clue": "Kabuğu soyularak yenen baklagil tanesi.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 68
+                },
+                {
+                    "answer": "SAVUNUCU",
+                    "clue": "Sanığı mahkemede temsil eden hukukçu.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 69
+                },
+                {
+                    "answer": "MERCAN",
+                    "clue": "Deniz altında koloni halinde yaşayan kırmızı canlı.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 69
+                },
+                {
+                    "answer": "MİSKET",
+                    "clue": "Çocukların yuvarlayarak oynadığı küçük cam bilye.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 69
+                },
+                {
+                    "answer": "ÇARŞAMBA",
+                    "clue": "Haftanın dördüncü günü.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 70
+                },
+                {
+                    "answer": "BOYACI",
+                    "clue": "Duvar veya ayakkabı boyayan esnaf.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 68
+                },
+                {
+                    "answer": "ÇEYİZ",
+                    "clue": "Geline verilen ev eşyaları toplamı.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 69
+                },
+                {
+                    "answer": "BERAAT",
+                    "clue": "Mahkûmiyetten kurtularak aklanma kararı.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 73
+                },
+                {
+                    "answer": "SAVAŞI",
+                    "clue": "Silahlı çatışma ve mücadele durumu.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 69
+                },
+                {
+                    "answer": "TARÇIN",
+                    "clue": "Kabuğundan elde edilen kahverengi baharat.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 68
+                }
+            ]
+        },
+        {
+            "chapter": 14,
+            "target_band": "70-80",
+            "items": [
+                {
+                    "answer": "KARANFIL",
+                    "clue": "Çay ve tatlıya lezzet katan sert çubuk baharat.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 72
+                },
+                {
+                    "answer": "PAYANDA",
+                    "clue": "Yapıyı destekleyip yıkılmasını önleyen eğik direk.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 76
+                },
+                {
+                    "answer": "ÇATIŞMA",
+                    "clue": "İki tarafın silahlı veya sözlü karşı karşıya gelmesi.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 72
+                },
+                {
+                    "answer": "MANDALI",
+                    "clue": "Çamaşırı ipe tutturan küçük kıskaç.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 71
+                },
+                {
+                    "answer": "ÇEKIRDEK",
+                    "clue": "Meyvenin ortasındaki sert tohum.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 72
+                },
+                {
+                    "answer": "MUHASIR",
+                    "clue": "Bir kaleyi kuşatma altına alan asker.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 78
+                },
+                {
+                    "answer": "TIRMANMAK",
+                    "clue": "El ve ayaklarla yukarı doğru çıkma eylemi.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 73
+                },
+                {
+                    "answer": "MÜSTEŞAR",
+                    "clue": "Bakanlıkta en üst düzey bürokratik yönetici.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 78
+                },
+                {
+                    "answer": "ÇÖKERTME",
+                    "clue": "Düşmanın savunmasını çökertme harekâtı.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 74
+                },
+                {
+                    "answer": "FISTIKÇI",
+                    "clue": "Kuruyemiş, özellikle fıstık satan esnaf.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 72
+                },
+                {
+                    "answer": "MENEKŞE",
+                    "clue": "Mor renkli, hoş kokulu küçük bahar çiçeği.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 71
+                },
+                {
+                    "answer": "ÇERÇEVE",
+                    "clue": "Resim veya fotoğrafın konulduğu kenar kalıbı.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 72
+                },
+                {
+                    "answer": "KUMANDAN",
+                    "clue": "Ordunun başında bulunan üst rütbeli subay.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 73
+                },
+                {
+                    "answer": "BEŞİK",
+                    "clue": "Bebeğin sallanarak uyutulduğu küçük yatak.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 70
+                },
+                {
+                    "answer": "TEKERLEME",
+                    "clue": "Kafiyeli, ritmik, eğlenceli söz dizisi.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 74
+                },
+                {
+                    "answer": "KOLEKSYON",
+                    "clue": "Belli türde nesnelerin biriktirildiği derleme.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 74
+                },
+                {
+                    "answer": "MAHKEME",
+                    "clue": "Davaların görüldüğü adalet kurumu.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 72
+                },
+                {
+                    "answer": "TAVŞAN",
+                    "clue": "Uzun kulaklı, hızlı koşan kemirgen.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 70
+                },
+                {
+                    "answer": "ÇELTİK",
+                    "clue": "Pirinç bitkisinin kabuğu soyulmamış hali.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 73
+                },
+                {
+                    "answer": "MECZUP",
+                    "clue": "Aklını yitirmiş, kendinden geçmiş garip kişi.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 77
+                },
+                {
+                    "answer": "KARAYEL",
+                    "clue": "Kuzeybatıdan esen sert ve soğuk rüzgâr.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 73
+                },
+                {
+                    "answer": "PUSAT",
+                    "clue": "Savaşta kullanılan silah ve zırh donanımı.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 76
+                },
+                {
+                    "answer": "VİNÇ",
+                    "clue": "Ağır yükleri kaldırıp taşıyan makine.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 70
+                },
+                {
+                    "answer": "MÜSVEDDE",
+                    "clue": "Temize çekilmeden önce yazılan ilk taslak.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 75
+                },
+                {
+                    "answer": "TESTERE",
+                    "clue": "Tahta veya metal kesmede kullanılan dişli alet.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 72
+                },
+                {
+                    "answer": "DUMANLIK",
+                    "clue": "Baca çekmeyince odada oluşan dumanlı ortam.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 73
+                },
+                {
+                    "answer": "PAÇAL",
+                    "clue": "Farklı cinslerin karıştırılmasıyla elde edilen tütün harmanı.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 78
+                },
+                {
+                    "answer": "ÇEKMECE",
+                    "clue": "Mobilyanın içine itilerek kapanan bölmesi.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 72
+                },
+                {
+                    "answer": "KAPLICA",
+                    "clue": "Doğal sıcak su çıkan şifalı termal banyo.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 72
+                },
+                {
+                    "answer": "MÜEZZIN",
+                    "clue": "Caminin minaresinden ezan okuyan görevli.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 73
+                }
+            ]
+        },
+        {
+            "chapter": 15,
+            "target_band": "73-83",
+            "items": [
+                {
+                    "answer": "KALAFAT",
+                    "clue": "Teknenin su geçiren yerlerini macunla tıkama işi.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "SOĞANLIK",
+                    "clue": "Soğan yetiştirilen tarla.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 74
+                },
+                {
+                    "answer": "TARHANA",
+                    "clue": "Kurutulmuş yoğurt ve sebze karışımından yapılan çorbalık.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 75
+                },
+                {
+                    "answer": "ÇEVGAN",
+                    "clue": "Atlı olarak oynanan eski Türk top oyunu.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "BAKIRCIL",
+                    "clue": "Bakır kap imal eden veya tamircisi olan esnaf.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 78
+                },
+                {
+                    "answer": "KALABALIK",
+                    "clue": "Çok sayıda insanın toplandığı yer veya durum.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 74
+                },
+                {
+                    "answer": "PEKMEZ",
+                    "clue": "Üzüm veya dut suyunun kaynatılarak koyulaştırılmış hali.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 73
+                },
+                {
+                    "answer": "MAHFİL",
+                    "clue": "Camide kadınlara ayrılan veya özel konuklara özel bölme.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "DEVŞIRME",
+                    "clue": "Osmanlı'da Hristiyan çocuklarını askere alma sistemi.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 78
+                },
+                {
+                    "answer": "SİPERLİK",
+                    "clue": "Güneşten korunmak için şapkanın ön çıkıntısı.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 75
+                },
+                {
+                    "answer": "ÇIRÇIR",
+                    "clue": "Pamuğun çekirdeğini ayıran makine.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "VARAKÇI",
+                    "clue": "Altın yaprağıyla süsleme yapan zanaatkâr.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "KARSAK",
+                    "clue": "Bozkırlarda yaşayan küçük çöl tilkisi.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 81
+                },
+                {
+                    "answer": "KALENDER",
+                    "clue": "Dünya nimetlerine aldırmayan, serbest yaşayan kişi.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 76
+                },
+                {
+                    "answer": "MUŞAMBA",
+                    "clue": "Suya dayanıklı, masaya serilen plastik örtü.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 74
+                },
+                {
+                    "answer": "ŞAHMERDANİ",
+                    "clue": "Ağır demir dövme tokmağı.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 83
+                },
+                {
+                    "answer": "TAHTEREVALLİ",
+                    "clue": "Ortası destekli, iki ucunda oturup sallanılan çocuk oyuncağı.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 78
+                },
+                {
+                    "answer": "MISIR",
+                    "clue": "Koçan üzerinde yetişen sarı taneli tahıl bitkisi.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 73
+                },
+                {
+                    "answer": "MALHURDAçI",
+                    "clue": "Hurda metal ve eski eşya toplayan kişi.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 76
+                },
+                {
+                    "answer": "PERGEL",
+                    "clue": "Çember çizmekte kullanılan iki kollu araç.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 73
+                },
+                {
+                    "answer": "KARSILAM",
+                    "clue": "Trakya yöresine özgü hareketli halk oyunu.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "SEBZE",
+                    "clue": "Yemeklerde kullanılan bitkisel besin maddesi.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 73
+                },
+                {
+                    "answer": "KERPETEN",
+                    "clue": "Teli veya çiviyi sıkıp çıkaran kıskaçlı alet.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 75
+                },
+                {
+                    "answer": "MUMYACI",
+                    "clue": "Eski Mısır'da ölüleri mumyalayan uzman.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "TAHKIKAT",
+                    "clue": "Resmi kurumların yaptığı inceleme soruşturması.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 78
+                },
+                {
+                    "answer": "KAMBUR",
+                    "clue": "Sırtı doğal olmayan biçimde öne eğik olan.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 74
+                },
+                {
+                    "answer": "PANCAR",
+                    "clue": "Şeker üretiminde kullanılan yumru köklü bitki.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 73
+                },
+                {
+                    "answer": "ÇALGI",
+                    "clue": "Müzik yapmak için kullanılan enstrüman.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 73
+                },
+                {
+                    "answer": "TAKUNYA",
+                    "clue": "Tahtadan yapılmış geleneksel hamam ayakkabısı.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 76
+                },
+                {
+                    "answer": "MÜDERRİS",
+                    "clue": "Medresede ders veren hoca.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 80
+                }
+            ]
+        },
+        {
+            "chapter": 16,
+            "target_band": "75-85",
+            "items": [
+                {
+                    "answer": "KAYIRAN",
+                    "clue": "Birine haksız ayrıcalık tanıyan, torpilci.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 76
+                },
+                {
+                    "answer": "ÇULHACI",
+                    "clue": "Kilim veya çul dokuyan zanaatkâr.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "SARAYBURNU",
+                    "clue": "İstanbul'da Haliç ile Marmara'nın buluştuğu burun.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "TOPAÇ",
+                    "clue": "Çocukların ipli döndürdüğü konik oyuncak.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 76
+                },
+                {
+                    "answer": "DOĞANLIK",
+                    "clue": "Avcılıkta doğan kuşunun eğitildiği yer.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 83
+                },
+                {
+                    "answer": "FIÇICI",
+                    "clue": "Fıçı yapım veya tamir ustası.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "KEÇEBORLU",
+                    "clue": "Isparta iline bağlı küçük ilçe.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 84
+                },
+                {
+                    "answer": "BARBUNYA",
+                    "clue": "Benekli kabuğu olan kırmızı fasulye türü.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 76
+                },
+                {
+                    "answer": "KARAMAN",
+                    "clue": "İç Anadolu'da bulunan tarihî şehir.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 76
+                },
+                {
+                    "answer": "SEDEFKÂRİ",
+                    "clue": "Sedeften süsleme yapan ince işçilik ustası.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 84
+                },
+                {
+                    "answer": "KELAYNAK",
+                    "clue": "Kel başlı, uzun gagalı nadir kuş türü.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "ÇEŞMELERI",
+                    "clue": "Suyu akarak halka sunan çok sayıda kamusal yapı.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 77
+                },
+                {
+                    "answer": "PARŞÖMEN",
+                    "clue": "Hayvani deriden yapılan eski yazı malzemesi.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "İSTİHBARAT",
+                    "clue": "Devletin gizli bilgi toplama faaliyeti.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 78
+                },
+                {
+                    "answer": "TURFANDA",
+                    "clue": "Mevsiminden önce pazara çıkan erken ürün.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 78
+                },
+                {
+                    "answer": "ÇARMIH",
+                    "clue": "İsa'nın gerildiğine inanılan haç biçimli direk.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "KALYONCU",
+                    "clue": "Osmanlı donanmasında kalyon gemisinde görev yapan asker.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "GÜMRAH",
+                    "clue": "Besili, gür ve canlı büyüyen bitki.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 78
+                },
+                {
+                    "answer": "TOKMAK",
+                    "clue": "Kapıyı çalmak veya çivi çakmak için kullanılan ağır baş.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 76
+                },
+                {
+                    "answer": "KORUCU",
+                    "clue": "Devlet ormanını gözeten, koruyan memur.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 77
+                },
+                {
+                    "answer": "ÇERKEŞ",
+                    "clue": "Çankırı iline bağlı tarihî ilçe.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "BUĞULANMA",
+                    "clue": "Sıcak havanın soğuk yüzeyde su damlacıklarına dönüşmesi.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 78
+                },
+                {
+                    "answer": "PEŞTAMAL",
+                    "clue": "Hamamda bele sarılan ince düz kumaş.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 78
+                },
+                {
+                    "answer": "KAPAKLI",
+                    "clue": "Üzeri örtülebilecek şekilde yapılmış olan.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 76
+                },
+                {
+                    "answer": "YELPAZE",
+                    "clue": "Açılıp kapanan serinletme aracı.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 76
+                },
+                {
+                    "answer": "SALYANGOZ",
+                    "clue": "Kabuklu, nemli yerlerde yaşayan yavaş yumuşakça.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 78
+                },
+                {
+                    "answer": "MANGANEZ",
+                    "clue": "Çelik üretiminde kullanılan gri metalik element.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "ÇÖREGEN",
+                    "clue": "Paskalya bayramında pişirilen yumurtalı tatlı çörek.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 83
+                },
+                {
+                    "answer": "KAYMAKAM",
+                    "clue": "İlçenin en üst sivil mülki amiri.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 78
+                },
+                {
+                    "answer": "DARÜŞŞIFA",
+                    "clue": "Osmanlı döneminde hasta tedavi edilen kurum, eski hastane.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 85
+                }
+            ]
+        },
+        {
+            "chapter": 17,
+            "target_band": "78-88",
+            "items": [
+                {
+                    "answer": "KEÇEÇI",
+                    "clue": "Yünü bastırıp sıkıştırarak keçe üreten zanaatkâr.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "ÇARŞAMBA",
+                    "clue": "Samsun iline bağlı verimli ovalı ilçe.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "ÇUHADAR",
+                    "clue": "Osmanlı sarayında padişahın kıyafetlerinden sorumlu görevli.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 86
+                },
+                {
+                    "answer": "KARABIBER",
+                    "clue": "Yemeklere acılık veren siyah toz baharat.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 78
+                },
+                {
+                    "answer": "MÜCEVHER",
+                    "clue": "Değerli taşlardan yapılmış süs eşyası.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 79
+                },
+                {
+                    "answer": "ÇATALKAYA",
+                    "clue": "Çatal biçiminde ikiye ayrılmış sarp kaya oluşumu.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 84
+                },
+                {
+                    "answer": "TAHTAKALE",
+                    "clue": "İstanbul'da ticaretle ünlü eski çarşı semti.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 84
+                },
+                {
+                    "answer": "BAKIRCILI",
+                    "clue": "Bakır madeni bulunan veya bakırla örtülü olan.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "GÖBEKTAŞI",
+                    "clue": "Hamamın ortasındaki ısıtılmış yassı mermer.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 84
+                },
+                {
+                    "answer": "PEÇETELIK",
+                    "clue": "Masada peçetelerin düzenli durması için kullanılan tutucu.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "KELEBEK",
+                    "clue": "Renkli kanatlarıyla uçan zararsız böcek.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 78
+                },
+                {
+                    "answer": "ÇAMURLUK",
+                    "clue": "Araç tekerinin üzerindeki sıçrama önleyici kapak.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "KANTARCI",
+                    "clue": "Büyük terazide mal tartan esnaf.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "TUĞRACI",
+                    "clue": "Padişahın tuğrasını çizen saray hattatı.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 86
+                },
+                {
+                    "answer": "ÇARPINTI",
+                    "clue": "Kalbin hızlı ve düzensiz atması.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "DALGAKIRAN",
+                    "clue": "Limanı dalgalardan koruyan taş veya beton yapı.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "MISINACI",
+                    "clue": "Bakır kapları kalaylayla kaplayan gezgin zanaatkâr.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 87
+                },
+                {
+                    "answer": "KARAGÖZ",
+                    "clue": "Perdede gölge ile oynanan geleneksel Türk oyunu.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "BOŞANMAK",
+                    "clue": "Evliliğin resmi olarak sona erdirilmesi.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "POYRAZ",
+                    "clue": "Kuzeydoğudan esen sert ve soğuk mevsim rüzgârı.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "BURGACI",
+                    "clue": "Suda oluşan döne döne çekici girdap.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 84
+                },
+                {
+                    "answer": "MÜFETTİŞ",
+                    "clue": "Resmi kurumları denetleyen yetkili.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "TEĞMEN",
+                    "clue": "Subay rütbelerinin en küçüğü.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "ÇARPIŞMAK",
+                    "clue": "İki nesnenin birbirine şiddetle temas etmesi.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "TAŞKESEN",
+                    "clue": "Taşı yontup biçimlendiren en ilkel el aleti.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 84
+                },
+                {
+                    "answer": "NALBURCU",
+                    "clue": "Hırdavat malzemeleri satan dükkânıcı.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "SORGUÇ",
+                    "clue": "Sarığa veya kavuğa takılan süs tüyü.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 84
+                },
+                {
+                    "answer": "MEYDAN",
+                    "clue": "Şehirlerde halkın toplandığı geniş açık alan.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 78
+                },
+                {
+                    "answer": "KALAYCILI",
+                    "clue": "Kalaylanarak kaplamaya tabi tutulmuş olan.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "HAMARAT",
+                    "clue": "Ev işlerini çok becerikli ve düzenli yapan kişi.",
+                    "difficulty_tag": "hard",
+                    "difficulty_score": 80
+                }
+            ]
+        },
+        {
+            "chapter": 18,
+            "target_band": "80-90",
+            "items": [
+                {
+                    "answer": "KALDIRIMI",
+                    "clue": "Yayaların yürümesine ayrılan yükseltilmiş yol kenarı.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "SERTÇESİNE",
+                    "clue": "Yumuşak olmayan, kaba ve acımasız bir biçimde.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 88
+                },
+                {
+                    "answer": "SALTANAT",
+                    "clue": "Padişahın hüküm sürdüğü dönem ve yönetim biçimi.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "TERASTA",
+                    "clue": "Binanın üstündeki açık oturma platformunda.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "OYLUMLU",
+                    "clue": "Hacimli, büyük ve yer kaplayan olan.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 84
+                },
+                {
+                    "answer": "ÇANAKKALE",
+                    "clue": "Boğazıyla ve savaşıyla ünlü Marmara ili.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "TEKNECILIK",
+                    "clue": "Denizde küçük teknelerle yapılan uğraş veya hobi.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 86
+                },
+                {
+                    "answer": "KARAKUCAK",
+                    "clue": "Yağsız olarak yapılan geleneksel güreş türü.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 88
+                },
+                {
+                    "answer": "MÜNECCİM",
+                    "clue": "Yıldızlara bakarak gelecek okuduğuna inanılan kişi.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 86
+                },
+                {
+                    "answer": "ÇALIŞKANLIK",
+                    "clue": "Bir işe yürekten sarılıp azimle sürdürme erdemi.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 84
+                },
+                {
+                    "answer": "KEMANKEŞ",
+                    "clue": "Osmanlı'da ok atıcılığında usta olan yeniçeri.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 90
+                },
+                {
+                    "answer": "DİLMAÇ",
+                    "clue": "Konuşma sırasında sözlü çeviri yapan kişi.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 84
+                },
+                {
+                    "answer": "SEMERCI",
+                    "clue": "Binek ve yük hayvanı için semer yapan zanaatkâr.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 84
+                },
+                {
+                    "answer": "KARINCALI",
+                    "clue": "Derideki uyuşma ve iğnelenme hissi olan.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "KAPTIDERYA",
+                    "clue": "Osmanlı donanmasının en üst rütbeli amirali.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 90
+                },
+                {
+                    "answer": "PAZARBAŞ",
+                    "clue": "Esnaf loncasında düzeni sağlayan baş gözetmen.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 88
+                },
+                {
+                    "answer": "ÇIKMAZI",
+                    "clue": "Çıkışı olmayan kapalı sokak veya durum.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "MIRASYEDI",
+                    "clue": "Babasından kalan malı har vurup harman savuran kişi.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 84
+                },
+                {
+                    "answer": "GELIN",
+                    "clue": "Nikâh töreninde beyaz giyinen kadın.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 80
+                },
+                {
+                    "answer": "SIPAHILER",
+                    "clue": "Osmanlı'da tımarlı atlı asker sınıfı.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 86
+                },
+                {
+                    "answer": "ÇENGELKÖY",
+                    "clue": "İstanbul Boğazı'nda hıyarıyla ünlü semt.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 86
+                },
+                {
+                    "answer": "BUYRULTU",
+                    "clue": "Padişah veya sadrazamın verdiği resmi yazılı emir.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 90
+                },
+                {
+                    "answer": "KARADÜZEN",
+                    "clue": "İdare eder şekilde, el yordamıyla yapılan iş.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 86
+                },
+                {
+                    "answer": "SARIMSAK",
+                    "clue": "Yemeklere koku ve lezzet veren keskin kokulu soğansı bitki.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "DÜŞÜNCELI",
+                    "clue": "Başkalarını gözeten, ilgili ve nazik olan kişi.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "MERHAMET",
+                    "clue": "Bir başkasının acısına ortak olma duygusu.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "ÇEKINMEK",
+                    "clue": "Bir şeyi yapmaktan gönülsüz, ürkerek kaçınmak.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "YÜZBAŞI",
+                    "clue": "Bölük komutanlığı yapan orta rütbeli subay.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 82
+                },
+                {
+                    "answer": "TORIKÇI",
+                    "clue": "Uskumrugillerden büyük balık avlayan balıkçı.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 88
+                },
+                {
+                    "answer": "MÜNÂDİ",
+                    "clue": "Osmanlı'da çarşıda bağırarak haber duyuran kişi.",
+                    "difficulty_tag": "expert",
+                    "difficulty_score": 88
+                }
+            ]
+        }
+    ]
+}

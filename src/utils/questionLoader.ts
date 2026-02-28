@@ -88,6 +88,7 @@ export interface UIQuestion {
     options?: string[];
     correctAnswer: string;
     createdAt: string;
+    tags?: string[];
 }
 
 
@@ -109,6 +110,7 @@ export function getAllQuestionsForUI(): UIQuestion[] {
         prompt: `${q.clue} (${q.answerLength} harf)`,
         correctAnswer: q.answer,
         createdAt: q.createdAt,
+        tags: q.tags,
     }));
 
     const oldConverted: UIQuestion[] = oldQuestions.map(q => ({
@@ -120,6 +122,7 @@ export function getAllQuestionsForUI(): UIQuestion[] {
         options: q.options,
         correctAnswer: q.correctAnswer,
         createdAt: q.createdAt,
+        tags: (q as any).tags,
     }));
 
     return [...newQuestions, ...oldConverted];

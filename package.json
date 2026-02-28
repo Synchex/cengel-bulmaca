@@ -11,6 +11,8 @@
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",
     "@react-native-async-storage/async-storage": "2.2.0",
+    "an-array-of-turkish-words": "^1.2.0",
+    "axios": "^1.13.5",
     "expo": "~54.0.33",
     "expo-av": "~16.0.8",
     "expo-blur": "~15.0.8",
@@ -30,6 +32,7 @@
     "react-native-screens": "~4.16.0",
     "react-native-svg": "15.12.1",
     "react-native-web": "^0.21.0",
+    "turkce": "^2.0.1",
     "zustand": "^5.0.11"
   },
   "devDependencies": {

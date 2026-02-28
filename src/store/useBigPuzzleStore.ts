@@ -12,7 +12,7 @@ import { PREBUILT_BIG_PUZZLES } from '../data/prebuiltBigPuzzles';
 
 // ── Config ──
 
-export type BigPuzzleSize = 15 | 17 | 21;
+export type BigPuzzleSize = 15 | 17 | 20;
 export type BigPuzzleDifficulty = 'easy' | 'medium' | 'hard';
 
 export interface BigPuzzleConfig {

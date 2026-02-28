@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-02-25T18:15:38.621Z",
+  "mode": "report",
+  "total": 9424,
+  "accept": 5944,
+  "fix": 3259,
+  "reject": 221,
+  "acceptPct": "63.1",
+  "fixPct": "34.6",
+  "rejectPct": "2.3",
+  "scoreDistribution": {
+    "0-19": 1,
+    "20-39": 74,
+    "40-59": 1109,
+    "60-79": 2296,
+    "80-100": 5944
+  },
+  "topRejectReasons": [
+    {
+      "reason": "Clue contains the answer directly",
+      "count": 219
+    },
+    {
+      "reason": "Clue too short (2 words, need ≥3)",
+      "count": 73
+    },
+    {
+      "reason": "Overly long clue (28 words)",
+      "count": 14
+    },
+    {
+      "reason": "Overly long clue (42 words)",
+      "count": 8
+    },
+    {
+      "reason": "Overly long clue (32 words)",
+      "count": 6
+    }
+  ]
+}

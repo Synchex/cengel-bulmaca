@@ -45,7 +45,50 @@ export function useCengelGame(puzzle: Puzzle) {
         (row: number, col: number) => {
             setState((s) => {
                 const cell = s.gameGrid[row]?.[col];
-                if (!cell || cell.type !== 'LETTER') return s;
+                if (!cell) return s;
+
+                // ── CLUE cell tapped → select corresponding entry's first letter cell ──
+                if (cell.type === 'CLUE') {
+                    // Find entries whose clueCell matches this cell
+                    const matchingEntries = s.entries.filter(
+                        (e) => e.clueCell.row === row && e.clueCell.col === col,
+                    );
+                    if (matchingEntries.length === 0) return s;
+
+                    // If current active entry is one of the matching entries, toggle to the other
+                    let targetEntry: Entry;
+                    if (
+                        matchingEntries.length > 1 &&
+                        s.activeEntryId &&
+                        matchingEntries.some((e) => e.id === s.activeEntryId)
+                    ) {
+                        // Toggle: pick the one that's NOT currently active
+                        targetEntry = matchingEntries.find((e) => e.id !== s.activeEntryId) || matchingEntries[0];
+                    } else {
+                        // Default: prefer across, fallback to down
+                        targetEntry = matchingEntries.find((e) => e.direction === 'across') || matchingEntries[0];
+                    }
+
+                    // Find first unfilled cell in entry, fallback to first cell
+                    let targetCell = targetEntry.cells[0];
+                    for (const c of targetEntry.cells) {
+                        const gc = s.gameGrid[c.row]?.[c.col];
+                        if (gc?.type === 'LETTER' && !gc.isLocked && (!gc.userLetter || gc.userLetter === '')) {
+                            targetCell = c;
+                            break;
+                        }
+                    }
+
+                    return {
+                        ...s,
+                        selectedCell: { row: targetCell.row, col: targetCell.col },
+                        activeEntryId: targetEntry.id,
+                        activeDirection: targetEntry.direction,
+                    };
+                }
+
+                // ── LETTER cell handling (unchanged) ──
+                if (cell.type !== 'LETTER') return s;
 
                 // Same cell tapped → toggle direction
                 if (s.selectedCell?.row === row && s.selectedCell?.col === col) {

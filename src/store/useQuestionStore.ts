@@ -10,6 +10,7 @@ interface Filters {
     level: number | null;
     difficulty: Difficulty | null;
     type: QuestionType | null;
+    showNewOnly: boolean;
 }
 
 interface QuestionStore {
@@ -20,6 +21,7 @@ interface QuestionStore {
     setLevel: (level: number | null) => void;
     setDifficulty: (d: Difficulty | null) => void;
     setType: (t: QuestionType | null) => void;
+    setShowNewOnly: (v: boolean) => void;
     clearFilters: () => void;
 
     // ── Selectors ──
@@ -36,7 +38,7 @@ interface QuestionStore {
 
 export const useQuestionStore = create<QuestionStore>((set, get) => ({
     questions: getAllQuestionsForUI(),
-    filters: { level: null, difficulty: null, type: null },
+    filters: { level: null, difficulty: null, type: null, showNewOnly: false },
 
     setLevel: (level) =>
         set((s) => ({ filters: { ...s.filters, level } })),
@@ -44,8 +46,10 @@ export const useQuestionStore = create<QuestionStore>((set, get) => ({
         set((s) => ({ filters: { ...s.filters, difficulty } })),
     setType: (type) =>
         set((s) => ({ filters: { ...s.filters, type } })),
+    setShowNewOnly: (showNewOnly) =>
+        set((s) => ({ filters: { ...s.filters, showNewOnly } })),
     clearFilters: () =>
-        set({ filters: { level: null, difficulty: null, type: null } }),
+        set({ filters: { level: null, difficulty: null, type: null, showNewOnly: false } }),
 
     filteredQuestions: () => {
         const { questions, filters } = get();
@@ -53,6 +57,7 @@ export const useQuestionStore = create<QuestionStore>((set, get) => ({
             if (filters.level !== null && q.level !== filters.level) return false;
             if (filters.difficulty && q.difficulty !== filters.difficulty) return false;
             if (filters.type && q.type !== filters.type) return false;
+            if (filters.showNewOnly && !q.tags?.includes('yeni-sorular-tdk')) return false;
             return true;
         });
     },

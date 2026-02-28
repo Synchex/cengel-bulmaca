@@ -1,0 +1,5075 @@
+[
+  {
+    "id": "tr_kw_9474",
+    "answer": "BESÜLLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'besülli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'besülli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9475",
+    "answer": "HÜSFİLAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'hüsfi̇lan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'hüsfi̇lan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9478",
+    "answer": "DERCİHBE",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'derci̇hbe'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'derci̇hbe'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9487",
+    "answer": "NÜFCİHBA",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'nüfci̇hba'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'nüfci̇hba'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9491",
+    "answer": "MECİHZAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'meci̇hzar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'meci̇hzar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9495",
+    "answer": "CİHTECAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇htecan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇htecan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9496",
+    "answer": "RESBİRŞA",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'resbi̇rşa'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'resbi̇rşa'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9501",
+    "answer": "FERKÜNİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ferküni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ferküni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9503",
+    "answer": "KUBİRRAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kubi̇rran'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kubi̇rran'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9505",
+    "answer": "TARCİHZİ",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tarci̇hzi̇'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tarci̇hzi̇'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9506",
+    "answer": "BİRNÜFLE",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rnüfle'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rnüfle'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9518",
+    "answer": "ZAMCİHBE",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zamci̇hbe'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zamci̇hbe'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9529",
+    "answer": "BİRKUDAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rkudan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rkudan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9532",
+    "answer": "BİRLEBAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rleban'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rleban'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9533",
+    "answer": "FİDERKÜL",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇derkül'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇derkül'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9536",
+    "answer": "CİHZERLE",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hzerle'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hzerle'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9538",
+    "answer": "CİHRERAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hreran'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hreran'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9539",
+    "answer": "TACİHGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'taci̇hgi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'taci̇hgi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9541",
+    "answer": "ZERFİMAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zerfi̇man'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zerfi̇man'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9544",
+    "answer": "FECİHMAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'feci̇hman'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'feci̇hman'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9546",
+    "answer": "ŞERCİHZE",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şerci̇hze'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şerci̇hze'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9550",
+    "answer": "ZİKABHAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇kabhan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇kabhan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9551",
+    "answer": "MAKABNİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'makabni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'makabni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9552",
+    "answer": "CİHREHAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hrehan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hrehan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9553",
+    "answer": "BAHÜSGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bahüsgi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bahüsgi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9555",
+    "answer": "TEBFİDAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tebfi̇dar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tebfi̇dar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9563",
+    "answer": "CİHTADAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇htadar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇htadar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9568",
+    "answer": "ZERLAGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zerlagi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zerlagi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9571",
+    "answer": "FENÜFLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fenüfli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fenüfli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9572",
+    "answer": "SÜLŞENİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'sülşeni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'sülşeni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9574",
+    "answer": "SÜLZİDAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'sülzi̇dar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'sülzi̇dar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9577",
+    "answer": "CİHKÜMEN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hkümen'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hkümen'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9578",
+    "answer": "RACİHMAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'raci̇hman'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'raci̇hman'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9587",
+    "answer": "BİRLABAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rlaban'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rlaban'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9588",
+    "answer": "ZİZERLAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇zerlan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇zerlan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9595",
+    "answer": "FERBELİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ferbeli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ferbeli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9600",
+    "answer": "CİHMEKTE",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hmekte'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hmekte'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9603",
+    "answer": "KABBİRRA",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kabbi̇rra'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kabbi̇rra'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9604",
+    "answer": "CİHNÜFKÜ",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hnüfkü'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hnüfkü'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9606",
+    "answer": "RÜZCİHŞE",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rüzci̇hşe'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rüzci̇hşe'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9613",
+    "answer": "NÜFCİHLA",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'nüfci̇hla'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'nüfci̇hla'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9615",
+    "answer": "TEZERGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tezergi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tezergi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9618",
+    "answer": "SÜLCİHMU",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'sülci̇hmu'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'sülci̇hmu'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9619",
+    "answer": "BİRNÜFKU",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rnüfku'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rnüfku'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9621",
+    "answer": "CİHFEDAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hfedan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hfedan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9622",
+    "answer": "MÜŞERLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'müşerli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'müşerli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9631",
+    "answer": "ZİDERZAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇derzar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇derzar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9632",
+    "answer": "SÜLMUGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'sülmugi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'sülmugi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9634",
+    "answer": "CİHTARŞA",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇htarşa'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇htarşa'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9635",
+    "answer": "ZİBİRHAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇bi̇rhan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇bi̇rhan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9642",
+    "answer": "KURESGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kuresgi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kuresgi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9643",
+    "answer": "MEKŞAGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mekşagi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mekşagi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9645",
+    "answer": "RESFİCAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'resfi̇can'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'resfi̇can'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9648",
+    "answer": "RÜZBİRMA",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rüzbi̇rma'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rüzbi̇rma'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9652",
+    "answer": "MABİRTAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mabi̇rtan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mabi̇rtan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9658",
+    "answer": "RÜZBİRFİ",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rüzbi̇rfi̇'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rüzbi̇rfi̇'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9663",
+    "answer": "FİBİRRAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇bi̇rran'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇bi̇rran'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9671",
+    "answer": "ZERCİHRA",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zerci̇hra'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zerci̇hra'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9674",
+    "answer": "ŞERFİBAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şerfi̇ban'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şerfi̇ban'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9677",
+    "answer": "TECİHLAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'teci̇hlan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'teci̇hlan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9685",
+    "answer": "BİRZETAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rzetan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rzetan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9688",
+    "answer": "CİHMECTA",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hmecta'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hmecta'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9693",
+    "answer": "MEKFİTAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mekfi̇tan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mekfi̇tan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9698",
+    "answer": "FERZİKÜL",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ferzi̇kül'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ferzi̇kül'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9704",
+    "answer": "MECFİGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mecfi̇gi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mecfi̇gi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9708",
+    "answer": "BİRKULİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rkuli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rkuli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9712",
+    "answer": "RÜZŞALİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rüzşali̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rüzşali̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9714",
+    "answer": "DAMEKLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'damekli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'damekli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9717",
+    "answer": "CİHDEVER",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hdever'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hdever'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9720",
+    "answer": "BİRMEKŞE",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rmekşe'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rmekşe'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9723",
+    "answer": "DERZİMAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'derzi̇man'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'derzi̇man'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9733",
+    "answer": "CİHDEKÜL",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hdekül'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hdekül'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9738",
+    "answer": "GÜLFİTAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'gülfi̇tan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'gülfi̇tan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9739",
+    "answer": "CİHKUKÜL",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hkukül'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hkukül'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9740",
+    "answer": "ZİHÜSBAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇hüsban'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇hüsban'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9745",
+    "answer": "RÜZRELİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rüzreli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rüzreli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9748",
+    "answer": "KUSÜLNİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kusülni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kusülni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9757",
+    "answer": "RECİHRAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'reci̇hran'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'reci̇hran'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9758",
+    "answer": "ZAMFİBAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zamfi̇ban'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zamfi̇ban'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9762",
+    "answer": "KUŞERGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kuşergi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kuşergi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9763",
+    "answer": "ZİTARHAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇tarhan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇tarhan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9764",
+    "answer": "HÜSZİDAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'hüszi̇dan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'hüszi̇dan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9766",
+    "answer": "TEBZELİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tebzeli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tebzeli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9767",
+    "answer": "BİRŞECAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rşecan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rşecan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9771",
+    "answer": "CİHGÜLDA",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hgülda'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hgülda'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9776",
+    "answer": "ZAMZİCAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zamzi̇can'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zamzi̇can'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9781",
+    "answer": "REGÜLGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'regülgi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'regülgi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9782",
+    "answer": "CİHTEBKU",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇htebku'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇htebku'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9789",
+    "answer": "CİHSÜLKÜ",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hsülkü'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hsülkü'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9795",
+    "answer": "ZAMKULİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zamkuli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zamkuli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9800",
+    "answer": "ZERZİKÜL",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zerzi̇kül'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zerzi̇kül'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9801",
+    "answer": "MEKTAGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mektagi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mektagi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9804",
+    "answer": "ZETARLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zetarli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zetarli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9808",
+    "answer": "LEHÜSGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'lehüsgi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'lehüsgi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9809",
+    "answer": "CİHDERAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hderan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hderan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9810",
+    "answer": "KÜTARGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kütargi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kütargi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9812",
+    "answer": "FİRESLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇resli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇resli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9813",
+    "answer": "REBİRZAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rebi̇rzar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rebi̇rzar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9822",
+    "answer": "CİHTARKÜ",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇htarkü'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇htarkü'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9823",
+    "answer": "BİRTARDE",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rtarde'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rtarde'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9824",
+    "answer": "FİZERZAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇zerzar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇zerzar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9825",
+    "answer": "ZİBİRTAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇bi̇rtan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇bi̇rtan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9826",
+    "answer": "CİHREKÜL",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hrekül'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hrekül'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9829",
+    "answer": "DERZİZAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'derzi̇zar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'derzi̇zar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9831",
+    "answer": "RANÜFNİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ranüfni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ranüfni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9832",
+    "answer": "DERZİVER",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'derzi̇ver'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'derzi̇ver'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9833",
+    "answer": "MEKCİHME",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mekci̇hme'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mekci̇hme'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9843",
+    "answer": "ZİMEKRAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇mekran'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇mekran'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9844",
+    "answer": "FİHÜSVER",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇hüsver'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇hüsver'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9850",
+    "answer": "ZİNÜFGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇nüfgi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇nüfgi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9856",
+    "answer": "RAMEKNİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ramekni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ramekni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9865",
+    "answer": "FEBİRHAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'febi̇rhan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'febi̇rhan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9867",
+    "answer": "TAKABLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'takabli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'takabli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9868",
+    "answer": "ŞEZERNİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şezerni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şezerni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9869",
+    "answer": "BİRRÜZRE",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rrüzre'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rrüzre'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9876",
+    "answer": "BİRNÜFFİ",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rnüffi̇'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rnüffi̇'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9881",
+    "answer": "DERLEGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'derlegi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'derlegi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9883",
+    "answer": "ŞEHÜSGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şehüsgi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şehüsgi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9884",
+    "answer": "BEBİRLAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bebi̇rlan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bebi̇rlan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9885",
+    "answer": "GÜLBANİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'gülbani̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'gülbani̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9886",
+    "answer": "LETARNİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'letarni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'letarni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9887",
+    "answer": "BEDERLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bederli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bederli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9890",
+    "answer": "BİRRESMA",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rresma'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rresma'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9893",
+    "answer": "ŞASÜLLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şasülli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şasülli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9897",
+    "answer": "RABİRLAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rabi̇rlan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rabi̇rlan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9909",
+    "answer": "ŞEBİRZAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şebi̇rzar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şebi̇rzar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9910",
+    "answer": "BİRTEBBA",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rtebba'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rtebba'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9917",
+    "answer": "BABİRHAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'babi̇rhan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'babi̇rhan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9919",
+    "answer": "CİHRESZİ",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hreszi̇'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hreszi̇'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9926",
+    "answer": "ZAMCİHDA",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zamci̇hda'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zamci̇hda'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9929",
+    "answer": "MEKFİDAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mekfi̇dan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mekfi̇dan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9932",
+    "answer": "MUZERLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'muzerli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'muzerli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9934",
+    "answer": "DERFİMEN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'derfi̇men'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'derfi̇men'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9942",
+    "answer": "GÜLKULİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'gülkuli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'gülkuli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9943",
+    "answer": "FEZAMLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fezamli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fezamli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9945",
+    "answer": "FİTEBVER",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇tebver'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇tebver'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9947",
+    "answer": "DABİRCAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'dabi̇rcan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'dabi̇rcan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9949",
+    "answer": "FİDERZAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇derzar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇derzar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9950",
+    "answer": "MEGÜLNİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'megülni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'megülni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9952",
+    "answer": "FERBİRLE",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ferbi̇rle'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ferbi̇rle'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9953",
+    "answer": "FİRÜZZAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇rüzzar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇rüzzar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9954",
+    "answer": "TADERLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'taderli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'taderli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9956",
+    "answer": "FİTARNİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇tarni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇tarni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9957",
+    "answer": "FİKABKÜL",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇kabkül'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇kabkül'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9959",
+    "answer": "BİRZEZAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rzezar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rzezar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9963",
+    "answer": "FESÜLNİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fesülni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fesülni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9966",
+    "answer": "MECMULİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mecmuli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mecmuli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9971",
+    "answer": "CİHDEDAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hdedan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hdedan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9974",
+    "answer": "RERESLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'reresli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'reresli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9983",
+    "answer": "ŞAKABGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şakabgi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şakabgi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9984",
+    "answer": "MÜCİHYAT",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'müci̇hyat'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'müci̇hyat'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9987",
+    "answer": "ZİCİHLAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇ci̇hlan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇ci̇hlan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9989",
+    "answer": "CİHŞABAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hşaban'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hşaban'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_9993",
+    "answer": "BİRFİMEN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rfi̇men'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rfi̇men'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10000",
+    "answer": "ŞERFİCAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şerfi̇can'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şerfi̇can'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10001",
+    "answer": "LEZAMNİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'lezamni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'lezamni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10007",
+    "answer": "FİRÜZDAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇rüzdar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇rüzdar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10009",
+    "answer": "ZİŞERLAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇şerlan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇şerlan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10010",
+    "answer": "BİRZEKÜL",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rzekül'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rzekül'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10012",
+    "answer": "BİRKUZAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rkuzar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rkuzar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10018",
+    "answer": "CİHDEHAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hdehan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hdehan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10029",
+    "answer": "RAKABLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rakabli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rakabli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10031",
+    "answer": "SÜLLELİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'sülleli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'sülleli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10038",
+    "answer": "LAMEKGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'lamekgi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'lamekgi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10040",
+    "answer": "MEKTALİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mektali̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mektali̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10046",
+    "answer": "ZERZİLAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zerzi̇lan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zerzi̇lan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10052",
+    "answer": "ŞEBİRLAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şebi̇rlan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şebi̇rlan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10058",
+    "answer": "CİHMUHAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hmuhan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hmuhan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10059",
+    "answer": "CİHRAKÜL",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hrakül'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hrakül'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10064",
+    "answer": "CİHFEGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hfegi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hfegi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10075",
+    "answer": "BİRSÜLKU",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rsülku'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rsülku'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10079",
+    "answer": "BİRZAMKÜ",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rzamkü'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rzamkü'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10082",
+    "answer": "KABLAGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kablagi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kablagi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10083",
+    "answer": "DERŞANİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'derşani̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'derşani̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10085",
+    "answer": "FERLANİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ferlani̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ferlani̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10089",
+    "answer": "BİRDEMAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rdeman'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rdeman'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10090",
+    "answer": "DACİHBAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'daci̇hban'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'daci̇hban'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10096",
+    "answer": "TARBİRFE",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tarbi̇rfe'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tarbi̇rfe'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10097",
+    "answer": "MUTEBNİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mutebni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mutebni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10100",
+    "answer": "MEHÜSGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mehüsgi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mehüsgi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10102",
+    "answer": "TEBİRLAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tebi̇rlan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tebi̇rlan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10109",
+    "answer": "RESCİHDA",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'resci̇hda'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'resci̇hda'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10115",
+    "answer": "BİRMAMAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rmaman'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rmaman'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10117",
+    "answer": "ZİŞERBAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇şerban'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇şerban'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10122",
+    "answer": "BİRKÜZAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rküzar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rküzar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10123",
+    "answer": "FİCİHCAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇ci̇hcan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇ci̇hcan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10126",
+    "answer": "MECBİRMA",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mecbi̇rma'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mecbi̇rma'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10130",
+    "answer": "BECİHMAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'beci̇hman'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'beci̇hman'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10131",
+    "answer": "CİHDERBE",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hderbe'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hderbe'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10135",
+    "answer": "CİHLAKÜL",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hlakül'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hlakül'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10136",
+    "answer": "KUCİHZAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kuci̇hzar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kuci̇hzar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10139",
+    "answer": "CİHMUDAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hmudar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hmudar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10140",
+    "answer": "ZERRAGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zerragi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zerragi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10148",
+    "answer": "CİHRÜZŞA",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hrüzşa'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hrüzşa'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10155",
+    "answer": "TEBŞEGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tebşegi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tebşegi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10157",
+    "answer": "TEBZİZAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tebzi̇zar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tebzi̇zar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10159",
+    "answer": "DEGÜLLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'degülli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'degülli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10160",
+    "answer": "ZİTARCAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇tarcan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇tarcan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10163",
+    "answer": "ZEZAMGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zezamgi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zezamgi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10165",
+    "answer": "MECCİHTA",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mecci̇hta'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mecci̇hta'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10167",
+    "answer": "CİHFİMEN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hfi̇men'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hfi̇men'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10170",
+    "answer": "TARCİHRA",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tarci̇hra'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tarci̇hra'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10171",
+    "answer": "ŞATARNİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şatarni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şatarni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10180",
+    "answer": "ŞEMECGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şemecgi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şemecgi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10190",
+    "answer": "CİHZEVER",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hzever'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hzever'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10198",
+    "answer": "ZENÜFGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zenüfgi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zenüfgi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10199",
+    "answer": "BAMECLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bamecli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bamecli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10201",
+    "answer": "BİRBATAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rbatan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rbatan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10202",
+    "answer": "FERZİDAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ferzi̇dar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ferzi̇dar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10205",
+    "answer": "RÜZMÜGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rüzmügi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rüzmügi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10209",
+    "answer": "ZEFERGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zefergi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zefergi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10211",
+    "answer": "TABİRVER",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tabi̇rver'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tabi̇rver'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10215",
+    "answer": "MUCİHLAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'muci̇hlan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'muci̇hlan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10217",
+    "answer": "DABİRMEN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'dabi̇rmen'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'dabi̇rmen'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10219",
+    "answer": "ŞAMEKGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şamekgi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şamekgi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10220",
+    "answer": "BİRRÜZKU",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rrüzku'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rrüzku'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10229",
+    "answer": "FİZAMTAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇zamtan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇zamtan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10231",
+    "answer": "LABİRKÜL",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'labi̇rkül'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'labi̇rkül'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10233",
+    "answer": "RAZAMLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'razamli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'razamli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10234",
+    "answer": "CİHBEDAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hbedan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hbedan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10237",
+    "answer": "TARCİHMÜ",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tarci̇hmü'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tarci̇hmü'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10240",
+    "answer": "ŞACİHKÜL",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şaci̇hkül'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şaci̇hkül'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10241",
+    "answer": "TEBFİCAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tebfi̇can'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tebfi̇can'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10245",
+    "answer": "RÜZCİHTE",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rüzci̇hte'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rüzci̇hte'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10246",
+    "answer": "BAŞERGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'başergi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'başergi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10248",
+    "answer": "LATEBLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'latebli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'latebli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10250",
+    "answer": "BİRFERKU",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rferku'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rferku'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10251",
+    "answer": "FİMECGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇mecgi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'fi̇mecgi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10258",
+    "answer": "KUGÜLLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kugülli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kugülli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10259",
+    "answer": "CİHTANİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇htani̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇htani̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10268",
+    "answer": "ZAMFİGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zamfi̇gi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zamfi̇gi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10270",
+    "answer": "MUMECGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mumecgi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mumecgi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10271",
+    "answer": "TEBRENİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tebreni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tebreni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10274",
+    "answer": "MECFİVER",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mecfi̇ver'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mecfi̇ver'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10275",
+    "answer": "TARRANİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tarrani̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tarrani̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10279",
+    "answer": "BETARNİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'betarni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'betarni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10281",
+    "answer": "FERBİRTA",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ferbi̇rta'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ferbi̇rta'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10283",
+    "answer": "MACİHMAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'maci̇hman'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'maci̇hman'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10284",
+    "answer": "FERCİHFE",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ferci̇hfe'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ferci̇hfe'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10285",
+    "answer": "MABİRKÜL",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mabi̇rkül'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mabi̇rkül'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10290",
+    "answer": "MECRANİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mecrani̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mecrani̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10293",
+    "answer": "MEKŞEGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mekşegi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'mekşegi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10294",
+    "answer": "BİRTARRE",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rtarre'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rtarre'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10301",
+    "answer": "TEBİRDAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tebi̇rdar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tebi̇rdar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10308",
+    "answer": "KABFİLAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kabfi̇lan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kabfi̇lan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10313",
+    "answer": "ZEMECNİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zemecni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zemecni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10320",
+    "answer": "BİRTEBAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rteban'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rteban'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10322",
+    "answer": "RATEBGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ratebgi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ratebgi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10323",
+    "answer": "ZİRÜZCAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇rüzcan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇rüzcan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10332",
+    "answer": "BİRBALİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rbali̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rbali̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10333",
+    "answer": "ZİBİRMEN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇bi̇rmen'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇bi̇rmen'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10336",
+    "answer": "BİRMEKMU",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rmekmu'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'bi̇rmekmu'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10337",
+    "answer": "ŞECİHDAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şeci̇hdan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'şeci̇hdan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10340",
+    "answer": "HÜSMÜNİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'hüsmüni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'hüsmüni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10342",
+    "answer": "TEBFİKÜL",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tebfi̇kül'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'tebfi̇kül'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10350",
+    "answer": "ZERKÜNİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zerküni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zerküni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10358",
+    "answer": "REBİRLİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rebi̇rli̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rebi̇rli̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10359",
+    "answer": "SÜLFİVER",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'sülfi̇ver'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'sülfi̇ver'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10361",
+    "answer": "RESZENİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'reszeni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'reszeni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10362",
+    "answer": "HÜSBİRZE",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'hüsbi̇rze'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'hüsbi̇rze'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10374",
+    "answer": "RÜZDEGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rüzdegi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'rüzdegi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10375",
+    "answer": "MUCİHNİY",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'muci̇hni̇y'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'muci̇hni̇y'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10393",
+    "answer": "KUMEKGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kumekgi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'kumekgi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10394",
+    "answer": "CİHRÜZZE",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hrüzze'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'ci̇hrüzze'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10396",
+    "answer": "ZİRESDAR",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇resdar'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zi̇resdar'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10401",
+    "answer": "ZEBİRDAN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zebi̇rdan'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'zebi̇rdan'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  },
+  {
+    "id": "tr_kw_10412",
+    "answer": "RESKUGİN",
+    "clue_original": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'reskugi̇n'",
+    "quality_score": 45,
+    "decision": "REJECT",
+    "reasons": [
+      "Banned template phrase: \"az bilinen, türetilmiş veya ağır yapılı \"",
+      "+5 ideal length bonus"
+    ],
+    "cleaned_clue": "Az bilinen, türetilmiş veya ağır yapılı kelime: 'reskugi̇n'",
+    "rewritten_clue": "",
+    "clue_word_count": 8,
+    "answer_length": 8,
+    "contains_meta": false,
+    "contains_answer_leak": false,
+    "profanity_hit": false,
+    "ambiguity_hit": false
+  }
+]

@@ -1,0 +1,1493 @@
+{
+  "regenerated_from_chapter": 5,
+  "chapters": [
+    {
+      "chapter": 5,
+      "target_band": "35-45",
+      "items": [
+        {
+          "answer": "AMDEN",
+          "clue": "Amden, İsviçre'nin St.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ABIDE",
+          "clue": "Önemli olayları hatırlatmak için yapılan büyük anıt.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÇOĞUL",
+          "clue": "İkiden fazla varlığı ifade eden.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "DEMIR",
+          "clue": "Koyu gri renkli, çok dayanıklı, endüstride en çok kullanılan maden.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ILAHI",
+          "clue": "Tanrısal olan, Allah'ı öven dinsel makamlı müzikal söylem/şiir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "VEREM",
+          "clue": "Ciğerlerde vb iz bırakan zayıflatıcı ince hastalık türü (tüberküloz enfeksiyonu).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "VEZIR",
+          "clue": "Padişahtan sonra gelen ve devleti yürütmede yetkili kıdemli bakan (sadrazam yardımcısı).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "PIYAS",
+          "clue": "Gösterişli, etrafta çalım satarak kabadayı bir edayla gezinme (özellikle Karadeniz/argo tabiri).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÜSTÜN",
+          "clue": "Benzerlerine göre daha yüksek, daha iyi seviyede veya aşamada olan.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "HATİM",
+          "clue": "Hatim, Kur'an'ın bakarak veya ezberden baştan sona okunmasıdır.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ANEMI",
+          "clue": "Kandaki alyuvar sayısının azalmasıyla oluşan hastalık, kansızlık.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "MEKİK",
+          "clue": "Mekik karın kaslarını güçlendirmek, sıkılaştırmak ve şekillendirmek için yapılan bir dayanıklılık antrenmanı egzersizidir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "HAMSI",
+          "clue": "Karadeniz'in sembolü olan çok lezzetli, zayıf, küçük balık.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "DELİL",
+          "clue": "Delil (kanıt ve delil kuralları olarak da bilinir!) hukuki işlemlerde bir şeyi teyit etmeye yönelik kullanılan ipuçlarıdır.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "MANTO",
+          "clue": "Manto şu anlamlara gelebilir: Manto (jeoloji), Dünya'nın veya başka bir gezegenin iç kısmındaki bir katman.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "DÖKÜM",
+          "clue": "Eritilmiş madenlerin kalıplara dökülerek dondurulması ile elde edilen metal sanayisi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "TULUM",
+          "clue": "Tulum ile şu maddeler kastedilmiş olabilir:.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "TANIK",
+          "clue": "Hakimin karşısında yeminli şekilde vuku eden eylemi, hadiseyiyada suçu veya kazayı vs gördüğünden ötürü gözlemleri üstünden ispat veya tarafsız mahkeme huzur ispatçısı/gözlemcisi, olay tanıklığı şahidi ve bilinci görgüsünün hakikat ifadecisi eylemcisidir kişi manadadır.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "TACIZ",
+          "clue": "Sözlü yahut fizik eylemiyle karşıdaki reşit ya da reşit olmayan bireyin psikolojisine rızasız korkutarak baskıcı iğrenç bedensel zarar yahut mobbing /rahatsızlık işi edimidir/kötü zevk veyahut saldırı teşebbüsüdür (sucun da kendisidir).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ASABI",
+          "clue": "Çabuk öfkelenen, sinirlerine hakim olamayan kişi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "DIŞÇI",
+          "clue": "Diş ve ağız hastalıklarını teşhis edip tedavi eden hekim, diş hekimi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "NADAS",
+          "clue": "Tarlanın verimi artsın ve dinlensin diye sürülüp bir veya birkaç yıl boş bırakılması işi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "DUYUM",
+          "clue": "Duyularla araçsız olarak gerçekleştirilmiş bilinç olgusu.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "YALTA",
+          "clue": "Yalta, (Kırım Tatarcası: Yalta, Ukraynaca: Ялта, Rusça: Ялта) Ukrayna'ya bağlı Kırım Özerk Cumhuriyeti'nin güney kısmında, Karadeniz kıyısında yer alan bir sahil şehridir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "INANÇ",
+          "clue": "Düşüncede körü körüne veya sonsuz idraki kanaatle duyulan manevi bağlanma itikadı.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "YAVUZ",
+          "clue": "Merhametsiz asabi ve yırtıcı çok haşin bir tabiata hakim, korkusuz ulu haşmetli mert bir kimsede er cesaretliliğihissiyatrıdır.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "AKTAR",
+          "clue": "Baharat, şifalı otlar vb. satan dükkân veya kişi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "BARUT",
+          "clue": "Ateşli silahlarda itici güç olarak kullanılan patlayıcı madde.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÇÖZÜM",
+          "clue": "Bir sorunu halletme, düğümü açma yolu.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "HAPPY",
+          "clue": "Happy şu anlamlara gelebilir:.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "target_band": "36-46",
+      "items": [
+        {
+          "answer": "SEDEF",
+          "clue": "İstiridye kabuğu iç yüzeyindeki parıltılı ve rengârenk görünümlü kıymetli döşeme süsü ve maddesi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "EVRİM",
+          "clue": "Evrim, popülasyondaki gen ve özellik dağılımının nesiller içerisinde seçilim baskısıyla değişmesidir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "HASAN",
+          "clue": "Hasan aşağıdaki anlamlara gelebilir:.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "URGAN",
+          "clue": "Keten veya kenevirden yapılmış, kalın ipten daha sağlam halat türü.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÇILIP",
+          "clue": "Türkçe sözlüğümüzde yer alan, genel kültür ve günlük hayat dağarcığımıza ait sözcük .",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "URADA",
+          "clue": "Türkçe sözlüğümüzde yer alan, genel kültür ve günlük hayat dağarcığımıza ait sözcük .",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "DURUM",
+          "clue": "Bir şeyin, kişinin içinde bulunduğu o anki şartların, hallerin tümü, vaziyet.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "RAHNE",
+          "clue": "Gedik, bina duvarında vs açılmış tahrip edilmiş yırtık, bozukluk (eski dil).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "PASTA",
+          "clue": "Genellikle kremalı, çikolatalı ve meyveli olarak doğum günlerinde yapılan özel tatlı çeşidi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÖRÇEN",
+          "clue": "Küçük kuşların veya bazı sürüngenlerin adı.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "SELAM",
+          "clue": "Selamlaşma, bir iletişim türüdür.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "MECAZ",
+          "clue": "Bir ilgi veya benzetme sonucu gerçek anlamından başka anlamda kullanılan sözlere veya kavramlara Türkçe eğretileme; Arapça mecaz, istiare; Fransızca trope denir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "PAPAZ",
+          "clue": "Papaz, Hristiyan din adamları için kullanılan sözcük.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "AMBAR",
+          "clue": "Tahılların veya malzemelerin saklandığı büyük depo.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "DEVİR",
+          "clue": "Devir veya dönem, kronoloji veya tarihyazımı amacıyla tanımlanan bir zaman aralığıdır.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "SİRKE",
+          "clue": "Sirke, yemeklerde, salatalarda tatlandırıcı olarak veya salamura gibi koruyucu olarak kullanılan su, asetik asit ve doğal aromalar içeren, kokulu, ekşi meyve suyudur.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÖRDEN",
+          "clue": "Sıra, diziliş, nizam anlamına gelen bir kelime.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "KREMA",
+          "clue": "Krema, homojenizasyondan önce süt yüzeyinden toplanan yüksek yağ içeriğine sahip kaymak veya süt ürünü.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "BADET",
+          "clue": "Türkçe sözlüğümüzde yer alan, genel kültür ve günlük hayat dağarcığımıza ait sözcük .",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "SINIR",
+          "clue": "Biyolojik sistemlerde uyartı ileten ağ, veya olaylar karşısında aniden tepkilenen huzursuzluk ve hiddet gerilimi kalkanı.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ALICI",
+          "clue": "Bir malı veya hizmeti bedelini ödeyerek satın alan, almak isteyen kimse, müşteri.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "KASET",
+          "clue": "Kaset, bir manyetik analog ses kayıt ortamıdır.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "DUBLE",
+          "clue": "Türkçe sözlüğümüzde yer alan, genel kültür ve günlük hayat dağarcığımıza ait sözcük .",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "VIRÜS",
+          "clue": "Hücre organelleri olmayan ve bitki, hayvan, insana girip salgın yapan çok minik zararlı parazit etmeni.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "FETIH",
+          "clue": "Düşman elinde olan önemli bir şehri stratejik vuruşma yoluyla kale/sur yıkıp hakimiyeti ele alıp fetih eylemi kazanma ordusu yengisi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "YASAK",
+          "clue": "Yasak veya yasaq, bazen iasak (Rusça: ясак), İmparatorluk Rusya'sında Sibirya'nın yerli halklarından alınan kürk haraçını belirtmek için kullanılan \"haraç\" için Türkçe bir kelimedir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "DIZIN",
+          "clue": "Bir kitabın sonunda yer alan kavram haritası veya indeks.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ANGEL",
+          "clue": "Angel şu anlamlara gelebilir:.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "SIMIT",
+          "clue": "Gevrek fırın ateşinde kavrulmuş, halka gibi susamla hazırlanan eski sokak atıştırma çöreği yiyeceği.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "MEKAP",
+          "clue": "Mekap, 1972 yılında kurulan, Türkiye merkezli bir ayakkabı üreticisi olup Türkiye'nin ilk poliüretan tabanlı ayakkabısını üreten firmadır.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "target_band": "38-48",
+      "items": [
+        {
+          "answer": "ÜLGEN",
+          "clue": "Ülgen (Hakasça: Ӱлген, Kırgızca: Ульгень, Rusça: Ульге́нь, Ul'gen'), Türk ve Altay mitolojisinde iyilik tanrısıdır.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "YEMEN",
+          "clue": "Yemen (Arapça: اليَمَن, romanize: el-Yemen), resmî adıyla Yemen Cumhuriyeti (Arapça: الجمهورية اليمنية, romanize: el-Cumhuriyyetü'l-Yemeniyye), Orta Doğu'da yer alan bir ülke.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "KURUL",
+          "clue": "Kurul, heyet veya konsey; bir işi yapmak, yönetmek ve o işle ilgilenmekle veya bir kurumu temsil etmekle görevli topluluğa verilen isim.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "FIYAT",
+          "clue": "Alım ve satım işleminde mal için biçilen paha oranı etiket, parasal değiri ve karşılık bulma ödemesi tutarı maddi (para bedele değeri).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ARŞIV",
+          "clue": "Resmi veya edebi belgelerin saklandığı yer, belgelik.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "VOLVO",
+          "clue": "Volvo, tır, otobüs, otomobil, iş makinesi, deniz motoru ve endüstriyel motor üreten firma.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ŞAMAR",
+          "clue": "Açıkhüküm ile kızdığı şahsa suratına şiddetli vurulan keskin ve yüksek ses çıaran şaklamak eylemli sert vurma tokadı tepki cezası.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "MAKET",
+          "clue": "Bir yapının, aracın veya eserin orantılı küçük modeli.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "UCKER",
+          "clue": "Türkçe sözlüğümüzde yer alan, genel kültür ve günlük hayat dağarcığımıza ait sözcük .",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "HANDE",
+          "clue": "Hande (Farsça: خنده; gülme veya gülüş), kadınlara verilen Türkçe bir isim ve şu anlamlara gelebilir:.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "GÜNAH",
+          "clue": "Dinin kurallarına uymayan veya vicdana aykırı hareket.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "BENİN",
+          "clue": "Benin ya da resmî adı ile Benin Cumhuriyeti, Afrika kıtasının batı bölümünde yer alan bir ülkedir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "YUFKA",
+          "clue": "Bu madde, hamur işi yapımında kullanılan yaprak hamur ile ilgilidir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "STRES",
+          "clue": "Daralma hissi ruhi sıkışkanlık gerilimleri (yoğun anksiyete, telaş sinirsel yorulma basıncı ve bozukluk).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÇÖPÇÜ",
+          "clue": "Sokakları süpüren, çöpleri toplayan temizlik görevlisi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "TEZEK",
+          "clue": "Tezek, yakıt olarak kullanılan kurutulmuş hayvan dışkısıdır.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ARAZI",
+          "clue": "Büyük toprak parçası, yeryüzü parçası.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "UYSAL",
+          "clue": "Başkalarına kolayca ayak uyduran, yumuşak başlı ve söz dinleyen.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "APLİK",
+          "clue": "Aplik ya da duvar şamdanı, duvar yüzeyi üzerine sabitlenen bir tür aydınlatma armatürüdür.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "VAHŞI",
+          "clue": "Doğada evcilleştirilmeden özgürce yaşayan, insana alışkın olmayan canlı.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ESNAF",
+          "clue": "Küçük sermaye veya usta zanaatıyla ticaret yapıp geçinen serbest çalışan.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÇEŞNI",
+          "clue": "Yemeğin içindeki baharatların verdiği ağızda bıraktığı his, aroma.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "DEVIR",
+          "clue": "Başlangıcı ve sonu belirli bir olayla belirtilen zaman dönemi, çağ.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "TONUN",
+          "clue": "Türkçe sözlüğümüzde yer alan, genel kültür ve günlük hayat dağarcığımıza ait sözcük .",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "NIKAP",
+          "clue": "Kadınların yüzlerini örtmek için kullandıkları peçe.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "HAFIF",
+          "clue": "Ağırlığı veya etkisi az olan, taşınması kolay olan.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÖNERI",
+          "clue": "Bir sorunu çözmek için sunulan teklif, tavsiye.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "HARAM",
+          "clue": "Din kurallarına göre yapılması kesin yasak olan davranış.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "DELIK",
+          "clue": "Bir yüzeyi baştan başa geçen yırtık, yıpranmış veya oyuk açıklık.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "KATAR",
+          "clue": "Katar (Arapça: قطر, Katar), resmî adıyla Katar Devleti (Arapça: دولة قطر, Devletü'l Katar), Arap Yarımadası'nın doğusunda bulunan bir Basra Körfezi ülkesidir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "target_band": "39-49",
+      "items": [
+        {
+          "answer": "ORKUT",
+          "clue": "Türkçe sözlüğümüzde yer alan, genel kültür ve günlük hayat dağarcığımıza ait sözcük .",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "AĞBEY",
+          "clue": "Büyük erkek kardeş.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "HARAÇ",
+          "clue": "Haraç, Osmanlı Devleti'nde gayrimüslim tebaadan alınan arazi vergisidir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "EVKUR",
+          "clue": "Evkur, 1972 yılında Türkiye'de perakende mağazacılığa başlamış, internet aracılığı ile de hizmet veren, müşterilerine sözleşme dahilinde taksitle alışveriş olanağı sunan ticari bir kuruluştur.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "DÜZEN",
+          "clue": "Bir şeylerin belli kural veya plana uygun, yerli yerinde durma hali, ahenk, nizam.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "PABUÇ",
+          "clue": "Ayağa giyilen dayanıklı, kapalı dış giyim, ayakkabı.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "SOYLU",
+          "clue": "Ailesini uzun yıllardır temiz sicille, bey, hanım efendi titizliği ve asaleti ile donatmış kişi ve elitliği (aristokrat vb).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "VALID",
+          "clue": "Eski dilde baba anlamına gelen, saygı bildiren söz.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ŞEKIL",
+          "clue": "Etrafımızdaki çetrefilli cisim objelerinin sınır, dış ve biçimsellik tasviri geometrik olan hali silüeti dış çizgisel görüntü taslak resmiselliği.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "DRAMA",
+          "clue": "Tiyatro sahnelerinde acıklı, hüzünlü ve etkileyici olayları anlatan gerçekçi oyun türü.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "TEĞET",
+          "clue": "Teğet, iki geometrik cismin, birbirlerine sadece bir noktadan temas ettiklerinde oluşan geometrik durum.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÜMRAN",
+          "clue": "Bayındırlık, gelişmişlik, medeniyet ve refah (eski dil).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "VEKIL",
+          "clue": "Bir kimsenin, işini yürütebilmesi için resmi olarak yetki verdiği temsilci (milletvekili).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "KUTLU",
+          "clue": "Kutlu, bir yer ismi, erkek ismi ve soyadı, şu anlamlara gelebilir:.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ALARM",
+          "clue": "Bir tehlikeyi veya uyarıyı bildiren işaret.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "NUTUK",
+          "clue": "Nutuk aşağıdaki anlamlara gelebilir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "AŞAMA",
+          "clue": "Bir işin gelişmesindeki her bir evre, kademe.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "RANCO",
+          "clue": "Ranco, İtalya'nın Lombardiya bölgesine bağlı Varese ilinde bulunan bir komündür.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "AKLIN",
+          "clue": "Türkçe sözlüğümüzde yer alan, genel kültür ve günlük hayat dağarcığımıza ait sözcük .",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "KESME",
+          "clue": "Erişte Kesme işareti Kesme (bilgisayar).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ARDON",
+          "clue": "Türkçe sözlüğümüzde yer alan, genel kültür ve günlük hayat dağarcığımıza ait sözcük .",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ANTEN",
+          "clue": "Elektromanyetik dalgaları alan veya yayan tel.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ADEDİ",
+          "clue": "Türkçe sözlüğümüzde yer alan, genel kültür ve günlük hayat dağarcığımıza ait sözcük .",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "GOTİK",
+          "clue": "Gotik ile şu maddeler kastedilmiş olabilir: Goth Gotik mimari Gotik metal Gotik rock Gotik doom metal Gotik sanat Gotik sanat (heykel) Gotik kurgu (gotik roman, gotik öykü, gotik şiir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "AYNİA",
+          "clue": "Aynia Asteraceae familyasına bağlı bir cinstir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÇÖREK",
+          "clue": "Çörek, az yağlı, yumurtalı, bazı çeşitleri şekerli bazıları ise tuzlu, gevrekçe bir hamur işi türü.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "NEBAT",
+          "clue": "Toprakta yetişen her türlü bitki.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "KABUS",
+          "clue": "Ağır basarak uykuda kişiyi paniğe sürükleyen dehşetli kötü ve ağır rüya silsilesi, karabasan.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "KİTİN",
+          "clue": "Kitin önemli polisakkaritlerden biridir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "OKAPİ",
+          "clue": "Okapi (Okapia johnstoni), zürafagiller (Giraffidae) familyasından geviş getiren bir çift toynaklı türü.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "target_band": "41-51",
+      "items": [
+        {
+          "answer": "TARİF",
+          "clue": "Tarif, aşağıdaki anlamlara gelebilir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ANKET",
+          "clue": "Toplumun bir konudaki fikrini öğrenmek için sorular sorarak yapılan araştırma.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "TEKNE",
+          "clue": "Su üstünde batmadan seyrederek kürekle yelkenle yahut küçük motur idaresi ile yolculuğunu ucu sivriltimşi kavisletilmiş, sahil sularında tatlı sularda sandaldan falan az daha büyük (balıkçılık falan işlerine kullanılan kütük tahta kereste vbden suda yüzer yapılmış nakil sandal/yatın küçüğü kaba deniz gezi aygıtı ve gemicik su salı yahudi binek aracı deniz üstüne sığışması yapılan teknedir vasıtasıdr falan filandır).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ARSIY",
+          "clue": "İşsiz, güçsüz veya laftan sözden utanmayan arsız kimse (arsız kelimesinin yöresel tınısı).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "SERUM",
+          "clue": "Hastanedeki zayıf hastaya mineral sıvı takviyesi için doğrudan kana şiringalı serum suyu.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "POLIS",
+          "clue": "Halkın kent içi güvenliğini, asayişini, düzeni sağlayan ve devleti temsil eden silahlı resmi memur.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "BASTA",
+          "clue": "Vasili Mihayloviç Vakulenko (Rusça: Василий Михайлович Вакуленко; d.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "BASUR",
+          "clue": "Basur veya hemoroid ayrıca halk arasında bilinen adıyla mayasıl, anal kanalda dışkı kontrolüne yardımcı olan vasküler yapılardır.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "RİGİN",
+          "clue": "Türkçe sözlüğümüzde yer alan, genel kültür ve günlük hayat dağarcığımıza ait sözcük .",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "DELTA",
+          "clue": "Delta şu anlamlara gelebilir: Delta (harf), Yunan alfabesinin dördüncü harfi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "AMBER",
+          "clue": "Amber (değerli taş), ağaç reçinesinin fosilleşmesi sonucu oluşan değerli taş.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "SCRUM",
+          "clue": "Scrum (İngilizce: \"itişip kakışma“), yazılım geliştirme ve yazılım Mühendisliği'nde bir uygulama geliştirme çerçevesidir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "NIYET",
+          "clue": "Kişinin bir işi önceden gönlünden koparak amaç edindiği, karar kıldığı iyi ya da kötü tasarı.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "OKULA",
+          "clue": "Eğitim veya öğretim amacıyla binaların tebeşirli masalı kara tahtalı mektebe doğru yola çıkışına doğru yönü eylemidir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "EVLAT",
+          "clue": "Anne babanın yetiştirip büyüttüğü yavrusu, çocuğu.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "IBRET",
+          "clue": "Kötü sonuçlanmış olaylardan ders alarak öyle davranmamayı öğütleme, çarpıcı sonuç.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "AFAKI",
+          "clue": "Belli bir konuya dayanmayan, havadan sudan, boş ve objektif olmayan (söz).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "YAKIT",
+          "clue": "Motorlarda pistonları tahrikletmek ve mekaik aksamı yürüttürüp enerjsin çıkarmak üzere otomobilerde kullanılan dizel petrol lpğ tarzı benzinli maddesine genel (taşır endüstirisinde) verilen ad yanıcı ürün grubudur enerji hammaddeisidir falandır filnadır.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "TARIH",
+          "clue": "Geçmişteki eski mazi nesilleri milletlerin devlet savaşları siyasetini ve kültürel büyük vuku kılındık olaylarını zaman ve kronolojik akışla irdeleyen belgelerek tetkikini sürdüren bilim ve hafızası bilimi akademik (geçmiş bilimi zaman bilimi tarihi süreç vs ansikolopedi disiplini vsdir vb manadadır.)",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "PAKET",
+          "clue": "İçine küçük eşya konularak kâğıda sarılmış kutu.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "HACIZ",
+          "clue": "Borçlunun malını ödeyene dek resmi olarak alıkoyma işlemi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "AHIZE",
+          "clue": "Telefon veya telgrafta sesi alıp kulağa ileten parça, alıcı.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "MUMBY",
+          "clue": "Mumby, İngiltere'nin Lincolnshire kontluğunda bulunan bir civil parish.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "TALIH",
+          "clue": "Ummadık bir kazancın kârın yahut güzel bir kısmet olayının kişinin iradesi haricinde ansızın bulması kader oyununun güzelyüzü vb manasına yorduğu şans tali ve baht yazgısının bir diğer kader formudur şanlılık (veya tersine talihsizliktir vs).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ALBAY",
+          "clue": "Yarbay ile Tuğgeneral arasındaki askeri rütbe.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ŞIMDI",
+          "clue": "Tam o anda, geçmişten ve gelecekten harici eldeki güncel, cari anı tabirlemede an içinde olup olagelen şimdiki dakika hissi anlağı zaman kelimesi tabir edimi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "SÜMÜK",
+          "clue": "Sümük, burun boşluklarında ve bronşlardan gelen yapışkan sıvı.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "SAKIZ",
+          "clue": "Çiğnemek için hoş kokulu özsuyundan yapılan lastiksi yiyecek maddesi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "DUYGU",
+          "clue": "İnsanın kalbinde hissettiği, sevgi, üzüntü vb. ruhani tepkilerin geneli, his.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ATAŞE",
+          "clue": "Büyükelçiliklerde belirli bir uzmanlık alanında görevli diplomat.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "target_band": "42-52",
+      "items": [
+        {
+          "answer": "PASAJ",
+          "clue": "Üstü kapalı, içinde dükkanlar bulunan çarşı sokağı veya yazıdan alınan parça (bölüm).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "BATIL",
+          "clue": "Haklı, doğru felsefesi hiçbir suretle bulunmayan, akıldan uzak sırf cahilliğe ve eskiden kalma saçmalığa batılmış din dışı asılsız şey uyduruk batıl şey inançdır boşdur.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "IDDIA",
+          "clue": "Henüz kesinlik kazanmamış olmakla birlikte karşı fikir, savunma veya atışma unsuru olan varsayım.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "UMMAN",
+          "clue": "Çok geniş, engin ve derin deniz kütlesi, okyanus.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "LKESİ",
+          "clue": "Türkçe sözlüğümüzde yer alan, genel kültür ve günlük hayat dağarcığımıza ait sözcük .",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "GÖZDE",
+          "clue": "Çok sevilen, değer verilen veya herkesin beğendiği (kişi).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÇİZİM",
+          "clue": "Çizim ya da desen, pek çok farklı araçla çeşitli yüzeylerin üstüne yapılan iki boyutlu biçimlemeleri içeren görsel sanattır.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "SIKIP",
+          "clue": "Türkçe sözlüğümüzde yer alan, genel kültür ve günlük hayat dağarcığımıza ait sözcük .",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ANDAÇ",
+          "clue": "Günlük olayların günü gününe kaydedildiği defter, ajanda veya anı yazısı.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "OPTIK",
+          "clue": "Işığın doğasını ve görme olayını inceleyen fizik branşı.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ARİFE",
+          "clue": "Türkçe sözlüğümüzde yer alan, genel kültür ve günlük hayat dağarcığımıza ait sözcük .",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÜZGÜN",
+          "clue": "Beklentisi karşılanmadığında veya kötü bir olayda içi acıyan, mahzun kimse.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ADALE",
+          "clue": "Kas, vücudun hareketini sağlayan etli bölüm.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÇEVIK",
+          "clue": "Hızlı ve kıvrak hareket edebilen.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "İLTER",
+          "clue": "İlter şu anlamlara gelebilir:.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "FENER",
+          "clue": "İçinde ışık kaynağı olan, aydınlatmaya yarayan saplı veya sapsız kap veya lamba.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "TONDO",
+          "clue": "Tondo (çoğulu: Tondi veya Tondos) yuvarlak biçimli resim ya da kabartmaları tanımlamakta kullanılan bir terimdir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "VARIL",
+          "clue": "Petrol, yağ gibi sıvıları taşımak veya depolamak için kullanılan büyük fıçı.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "MOURA",
+          "clue": "Moura Belediyesi, Portekiz'in Alentejo bölgesine bağlı Baixo Alentejo alt bölgesinin belediyelerinden biridir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÇÖKÜŞ",
+          "clue": "Zayıflayıp dağılma, yok olma süreci.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "SAHAR",
+          "clue": "Sabahın tan yeri ağarmadan hemen önceki vakti (eski sözcük).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ENDER",
+          "clue": "Nadir, nadiren, az bulunan, az rastlanan.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "INSAN",
+          "clue": "Düşünebilen varlık olan dünya üzerindeki memeliler türünden (homosapiens).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ARENA",
+          "clue": "Amfitiyatrolarda yarışların yapıldığı kum alan veya çekişmeli siyasi meydan mecazı.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "SKYPE",
+          "clue": "Skype, internet üzerinden anlık mesajlaşma ve telefon görüşmesi yapılmasını sağlayan bir internet hizmeti ve uygulamaydı.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "EVRIM",
+          "clue": "Canlıların zaman içerisindeki bedensel değişiklik süreci, tekâmül.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "AHENK",
+          "clue": "Uyum, düzen, seslerin veya renklerin uyumu.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "GİRLS",
+          "clue": "Girls, şu anlamlara gelebilir: Girls (TV dizisi), 2012 yapımı HBO dizisi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ALAKA",
+          "clue": "Bir şeye veya kimseye karşı duyulan ilgi, bağ.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "AKTIF",
+          "clue": "Sürekli çalışan, eylemsiz durmayan, çevik, canlı ve etken (pasif karşıtı).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "target_band": "44-54",
+      "items": [
+        {
+          "answer": "IMKAN",
+          "clue": "Bir olayın gerçekleşebilmesi ihtimali, fırsatı, yaratan durum avantajı.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "AŞLIK",
+          "clue": "Türkçe sözlüğümüzde yer alan, genel kültür ve günlük hayat dağarcığımıza ait sözcük .",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "VAKIT",
+          "clue": "Günün veya bir işin ayrılmış belirli olan zaman aralığı (vakit).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "LAZER",
+          "clue": "Lazer (İngilizce: Laser) ışığın uyarılmış radyasyon ile yükseltilmesini sağlayan bir optik düzenektir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ŞIFRE",
+          "clue": "Hesap kırılamaması eylemli güvenlik amacıyla paralo, kapı veya siber hesap sandığı vb dijital kilit açılması dizgesi sır kelime kombinasyon parolası karakterleri.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "BILIM",
+          "clue": "Evrenin veya olayların bir bölümünü konu alan sistematik bilgi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "SEKIZ",
+          "clue": "Yediden sonra, dokuzdan önce olan ve saymada onluk dizimde olan çift rakam.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "GÖBEK",
+          "clue": "Karın bölgesinin çukurumsu tam ortası.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "CALVE",
+          "clue": "Calvé Unilever grubuna ait mayonez ve ketçap markasıdır.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "SEBIL",
+          "clue": "Hayrat olsun diye sokakta, camide bedavaya ve sevap diye içme suyu sunulan halka açık musluklu yapı.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "USANÇ",
+          "clue": "Aynı şeyin tekrarlanmasından duyulan sıkıntı, bıkkınlık.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "KARYE",
+          "clue": "Karye, Osmanlı literatüründe resmî kayıtlarda köy yerine kullanılan kelime.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "RIZIK",
+          "clue": "İslam inancına veya teolojik kavramlara dayanarak: yaratıcının yarattığı tüm kul ve vahşi varlılara bahşettiği her türlü maddi / manevi gıda ile faydalar veya tüm hayat nimetleri taksimatı.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "EŞYAR",
+          "clue": "Şeyler, nesneler (eski tabir ve kelime manasında cemi nesneler).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÇÜRÜK",
+          "clue": "Zamanla bozulan, eski sağlamlığını yitiren nesne.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "TİSAN",
+          "clue": "Türkçe sözlüğümüzde yer alan, genel kültür ve günlük hayat dağarcığımıza ait sözcük .",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÖZNEL",
+          "clue": "Nesnel olmayan, kişiden kişiye göre değişen ve sadece birenci ilgilendiren fikir, subjektif.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "COŞKU",
+          "clue": "Sevinç ve heyebanın güçlü dalgalanması.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "INSAF",
+          "clue": "Yumuşak davranarak acıma ile vicdan ve ahlakın getirdiği hakkaniyeti uygulama eğilimi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "BİTTİ",
+          "clue": "Bitti (Sarduca: Bìtzi) Sardinya'nın Nuoro ilinde bir komün ve küçük kasabadır.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÜZÜCÜ",
+          "clue": "İnsanın içini burkan, keder ve üzüntü veren olumsuz durum (acı verici).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ERDEM",
+          "clue": "İyilik, doğruluk, alçakgönüllülük, ahlak ve yücelik gibi üstün manevi niteliklerin bütünü, fazilet.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "KAFES",
+          "clue": "Kafes, metal ya da ahşap gibi malzemelerle yapılmış ve içeride tutulan canlının kaçmasına engel olan yapıdır.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "DERBI",
+          "clue": "Aynı şehrin iki büyük takımı arasında oynanan iddialı maç (spor terimi).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "KOLPA",
+          "clue": "Kolpa, Adana kökenli bir Türk rock grubudur.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÇİFTİ",
+          "clue": "Türkçe sözlüğümüzde yer alan, genel kültür ve günlük hayat dağarcığımıza ait sözcük .",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ISLIK",
+          "clue": "Dudakları büzerek ve nefesi dışarıya güçlü üfleyerek çıkarılan keskin ses.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "FITRE",
+          "clue": "Ramazan ayında durumu iyi olanların yoksullara verdiği vacip olan dini sadaka.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÖLÇEK",
+          "clue": "Haritada veya planlardaki küçültme oranı veya tartı birimi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "PAPER",
+          "clue": "\"Paper\" (Türkçe: Kâğıt), 2017 Eurovision Şarkı Yarışması'nda İzlanda'yı temsil eden Svala tarafından seslendirilen şarkı.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "target_band": "45-55",
+      "items": [
+        {
+          "answer": "ÜLSER",
+          "clue": "Mide veya onikiparmak bağırsağının iç yüzeyinde oluşan asidik yara.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "MIRAS",
+          "clue": "Bir kimsenin ölümünden sonra varislerine kalan mal mülk.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "NEVIR",
+          "clue": "Yüz rengi, beniz, hal, derman.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "RETRO",
+          "clue": "Retro, bilinçli olarak yakın geçmişin akımlarını, modalarını türeten veya taklit eden tarz.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "AVLAK",
+          "clue": "Av sahası anlamına gelen Avlak aşağıdaki anlamlara da gelebilir:.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "NESIL",
+          "clue": "Aynı yıllarda doğmuş ve aynı çağın şartlarını yaşamış kuşak.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "HEVES",
+          "clue": "Gelgeç, ani ve süresi belli olmayan güçlü istek.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "RASAT",
+          "clue": "Gökyüzü hareketlerini, hava olaylarını planlı bir biçimde aletlerle veya çıplak gözle izleyip inceleme faaliyeti, gözlem.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "OTLAK",
+          "clue": "Hayvan sürülerinin otlayıp karınlarını doyurabilmesi için uygun çayır, mera.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "SAHIL",
+          "clue": "Deniz veya bu gibi suların kumsallı kıyısı tarafı.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÇUBUK",
+          "clue": "İnce uzun dal veya madeni değnek.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ARTIZ",
+          "clue": "Gereksiz yere poz kesen, gösteriş yapan veya sinema/tiyatro sanatçısı (artist).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "VERGI",
+          "clue": "Devletin kamu hizmeti yapmak için halktan ve ticaretten yasal oranda zorunlu kestiği pay.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ULUFE",
+          "clue": "Osmanlı'da kapıkulu askerlerine üç ayda bir verilen maaş.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "KASIK",
+          "clue": "Kasık, insan anatomisi'nde kasık kemiği'nin herhangi bir tarafında bulunan, batın ve uyluk/but arasındaki birleşme yeri.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "YAMAE",
+          "clue": "Yamae (Japonca: 五木村, romanize: Yamae-mura), Japonya'nın Kumamoto prefektörlüğünde bulunan bir köydür.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ABONE",
+          "clue": "Süreli yayınları parasını ödeyerek alan kimse.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ARAMO",
+          "clue": "Araştırma, sorma ve bir şeyi didik didik ederek inceleme işi (arama kelimesinin formu).",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ARIZA",
+          "clue": "Makinelerde veya sistemlerde meydana gelen bozukluk.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "SAYAN",
+          "clue": "Sayan, 1966 yılında Fahrettin Sayan tarafından kurulan Unkapanı merkezli bir Türk müzik şirketi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ORTAK",
+          "clue": "Bir işi, malı veya kârı beraber paylaşan hissedarlardan her biri.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ŞAHIN",
+          "clue": "Mükemmel görme ve avcılık hisleriyle sarp dağlardan avına fişek gibi pençesiyle sorti yapan avcı soylu küçük yırtıcı kuş türüdür.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "DOĞAÇ",
+          "clue": "Bir sözü veya şiiri doğaçlama (irticalen) okuyan şair veya anlatıcı.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ÖNDER",
+          "clue": "Toplumu, bir grubu arkasından sürükleyen lider, şef.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "RETİE",
+          "clue": "Retie, Belçika'nın Anvers eyaletinde bulunan bir belediyedir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "FIKIR",
+          "clue": "Zihinde oluşan ve geliştirilen düşünce, mefküre, olgulara bakış felsefesi kanaat düşünceleri yargısı kanaat hissi aklı muhakemesi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "NAZAR",
+          "clue": "Kıskanç ve kötü bakışın sebep olduğuna inanılan hastalık, göz değmesi.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "KALÇA",
+          "clue": "Kalça, uyluk ve leğen kemikleri arasındaki eklemdir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "ZAMLI",
+          "clue": "Eski tarifesi üstüne fazladan para farkının veya meblanın uygulandığı yüksek bedelli hizmet yahut pahallığa satılan mal faturabileyişidir.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        },
+        {
+          "answer": "BÖLÜK",
+          "clue": "Bölük, kelimesi aşağıdaki anlamlara gelebilir: Bölük (askerî birim) Bölük (matematik) Bölük, Osmanlı mülki idare birimi divan ile eşanlamlı terim.",
+          "difficulty_tag": "easy",
+          "difficulty_score": 25
+        }
+      ]
+    }
+  ]
+}

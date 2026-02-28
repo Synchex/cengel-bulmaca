@@ -53,9 +53,11 @@ import { useLeagueStore } from '../../src/store/useLeagueStore';
 import { useCellFeedback, cellKey } from '../../src/hooks/useCellFeedback';
 import { getGameplayLightTheme } from '../../src/theme/themes';
 import { ThemeContext } from '../../src/theme/ThemeContext';
+import BigCrosswordScreen from './BigCrosswordScreen';
 
 export default function GameScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();
+  const router = useRouter();
 
   // Detect çengel mode: puzzle IDs start with "ch"
   const isCengelMode = id?.startsWith('ch') ?? false;
@@ -64,7 +66,15 @@ export default function GameScreen() {
     return <CengelGameScreen puzzleId={id!} />;
   }
 
-  // Legacy mode — keep old game screen behavior
+  // Big Bulmaca mode → classic numbered crossword
+  if (id?.startsWith('big_')) {
+    const bigPuzzleId = id.slice(4);
+    const entry = useBigPuzzleStore.getState().getPuzzleById(bigPuzzleId);
+    const level = entry?.payload ?? levels[0];
+    return <BigCrosswordScreen level={level} onBack={() => router.back()} />;
+  }
+
+  // Legacy mode — normal levels
   return <LegacyGameScreen id={id ?? '1'} />;
 }
 
@@ -348,12 +358,7 @@ function CengelGameScreen({ puzzleId }: { puzzleId: string }) {
           <View style={{ flex: 1, backgroundColor: '#F9FAFB', borderRadius: 12, marginHorizontal: 4, marginTop: 2, paddingBottom: 4 }}>
             {/* ── Clue Bar or Hint Row ── */}
             {shouldShowKeyboard ? (
-              <View style={styles.clueBarWrapper}>
-                <ClueBar entry={activeEntry} canToggle={canToggle} onToggle={handleToggle} />
-                <TouchableOpacity onPress={exitSolvingMode} style={[styles.closeBtn, { backgroundColor: gt.fill }]}>
-                  <Ionicons name="close" size={20} color={gt.textSecondary} />
-                </TouchableOpacity>
-              </View>
+              <ClueBar entry={activeEntry} canToggle={canToggle} onToggle={handleToggle} onClose={exitSolvingMode} />
             ) : (
               <View style={styles.hintRow}>
                 <TouchableOpacity

@@ -1,0 +1,73 @@
+{
+  "timestamp": "2026-02-25T18:32:38.637Z",
+  "total": 8501,
+  "accepted": 6815,
+  "fix": 1419,
+  "rejected": 267,
+  "score_stats": {
+    "min": 45,
+    "max": 100,
+    "mean": 91.8,
+    "median": 100,
+    "p10": 75,
+    "p25": 95,
+    "p75": 100,
+    "p90": 100
+  },
+  "decision_by_bucket": {
+    "0-9": 0,
+    "10-19": 0,
+    "20-29": 0,
+    "30-39": 0,
+    "40-49": 267,
+    "50-59": 28,
+    "60-69": 401,
+    "70-79": 990,
+    "80-89": 309,
+    "90-100": 6506
+  },
+  "top_rejection_reasons": [
+    {
+      "reason": "Banned template phrase: \"…\"",
+      "count": 267
+    },
+    {
+      "reason": "ideal length bonus",
+      "count": 267
+    }
+  ],
+  "top_fix_reasons": [
+    {
+      "reason": "Clue too short (N words)",
+      "count": 1252
+    },
+    {
+      "reason": "Single-word clue",
+      "count": 284
+    },
+    {
+      "reason": "Clue contains the answer directly",
+      "count": 167
+    },
+    {
+      "reason": "ideal length bonus",
+      "count": 62
+    },
+    {
+      "reason": "dual-meaning bonus",
+      "count": 33
+    },
+    {
+      "reason": "Parenthetical meta-explanation",
+      "count": 20
+    },
+    {
+      "reason": "Overly long clue (N words)",
+      "count": 9
+    },
+    {
+      "reason": "Ambiguous/vague phrasing",
+      "count": 1
+    }
+  ]
+}

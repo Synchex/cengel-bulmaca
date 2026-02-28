@@ -20,6 +20,8 @@ function buildGrid(level: LevelData): CellData[][] {
     for (let i = 0; i < word.answer.length; i++) {
       const r = word.direction === 'down' ? word.startRow + i : word.startRow;
       const c = word.direction === 'across' ? word.startCol + i : word.startCol;
+      // Bounds check — skip words that somehow exceed grid dimensions
+      if (r < 0 || r >= gridSize || c < 0 || c >= gridSize) continue;
       const cell = grid[r][c];
       cell.isBlack = false;
       cell.letter = word.answer[i];

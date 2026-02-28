@@ -1,7 +1,7 @@
 /**
  * Deterministic layout for the Candy Crush–style level map.
  *
- * 160 nodes placed along a sinusoidal wave path, bottom to top.
+ * 200 nodes placed along a sinusoidal wave path, bottom to top.
  * Every 5th node is a "boss" node (larger, visually distinct).
  */
 
@@ -28,8 +28,8 @@ function seededRandom(seed: number): number {
 
 // ── World config ──
 export const LEVELS_PER_WORLD = 5;
-export const TOTAL_LEVELS = 160;
-export const TOTAL_WORLDS = TOTAL_LEVELS / LEVELS_PER_WORLD; // 32
+export const TOTAL_LEVELS = 200;
+export const TOTAL_WORLDS = TOTAL_LEVELS / LEVELS_PER_WORLD; // 40
 
 export const WORLD_NAMES = [
     // Part 1–8 (ch1–ch40)
@@ -41,31 +41,41 @@ export const WORLD_NAMES = [
     'Zirve',
     'Elit',
     'Efsane',
-    // Part 9–24 (ch41–ch120)
-    'Yeni Başlangıç',
-    'Keşif Yolu',
-    'Macera',
-    'İlerleme',
-    'Güçlenme',
-    'Ustalık Yolu',
-    'Derinlik',
-    'Çelik İrade',
-    'Doruklarda',
-    'Zirve Ötesi',
+    // Part 9–16 (ch41–ch80)
+    'Yeni Dünya',
     'Altın Çağ',
-    'Efsane Ötesi',
-    'Büyük Meydan',
-    'Son Sınav',
-    'Şampiyon',
-    'Ultra Zirve',
+    'Gümüş Ay',
+    'Bronz Devri',
+    'Demir İrade',
+    'Kristal Kale',
+    'Yakut Yolu',
+    'Zümrüt Vadi',
+    // Part 17–24 (ch81–ch120)
+    'Safir Denizi',
+    'Elmas Lig',
+    'Ametist',
+    'Opal Tepesi',
+    'Turkuaz',
+    'Kehribar',
+    'Kutup Yıldızı',
+    'Güney Rüzgarı',
     // Part 25–32 (ch121–ch160)
-    'Yeni Keşif',
-    'Cesur Adım',
-    'Derin Sular',
-    'Kaya Yüzü',
-    'Şimşek',
-    'Ejderha',
+    'Doğu Kapısı',
+    'Batı Ufku',
+    'Volkan',
+    'Okyanus',
+    'Göbeklitepe',
+    'Çatalhöyük',
+    'Truva',
+    'Efes',
+    // Part 33–40 (ch161–ch200)
+    'Kapadokya',
+    'Nemrut',
+    'Pamukkale',
+    'Aspendos',
+    'Pergamon',
     'Olimpos',
+    'Zeugma',
     'Efsanevi Son',
 ];
 
@@ -90,7 +100,7 @@ export interface NodePosition {
 }
 
 /**
- * Generate all 160 node positions, bottom-to-top.
+ * Generate all 200 node positions, bottom-to-top.
  * The first node is at the BOTTOM of the map, the last at the top.
  */
 export function generateNodePositions(): NodePosition[] {

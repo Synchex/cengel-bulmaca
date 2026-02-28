@@ -1,0 +1,2790 @@
+[
+  {
+    "id": "tr_kw_2999",
+    "answer": "EĞER",
+    "score": 0,
+    "clue": "Şayed şart ki fb da olrkj vs ba zns fb i htim al bs d d d k o ds rs i a s (4 s d as )",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS"
+    ]
+  },
+  {
+    "id": "tr_kw_3000",
+    "answer": "ÖYLE",
+    "score": 0,
+    "clue": "Böyle ns zıt o vs flan de b ds kds n fb i i ö s fb db d ds n vb ö k j fb asd ö b s b (4 sf as d v )",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS",
+      "CLUE_CONTAINS_ANSWER"
+    ]
+  },
+  {
+    "id": "tr_kw_3001",
+    "answer": "ŞÖYLE",
+    "score": 0,
+    "clue": "Böyle öyle fb dn hs fd zfb vbf a g a ns dn ds a v as fg o s f sd j a bf sf g sd d (5 s e fs g fs )",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS"
+    ]
+  },
+  {
+    "id": "tr_kw_3002",
+    "answer": "BÖYLE",
+    "score": 0,
+    "clue": "Öyle fban fdfb as h sf a x vb s fb fn d f sf g ds g d sg n da sf ad n bf a n ns s r j d g g (5 sdf f",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS"
+    ]
+  },
+  {
+    "id": "tr_kw_3006",
+    "answer": "TAMAM",
+    "score": 0,
+    "clue": "Olu b bs a ks m x cb gs s df b c bf gs m n r b f c m b ds a d d d cb j h ds r df as bg d r fs d r x ",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS"
+    ]
+  },
+  {
+    "id": "tr_kw_3007",
+    "answer": "BİTTE",
+    "score": 4,
+    "clue": "Lütfen de xd df bf vfb h cd bb g a db x cb n gf ds ds c fb ds hs fn fd bd c s m bd c vb m vc db bs v",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3008",
+    "answer": "LÜTFEN",
+    "score": 0,
+    "clue": "Ricayla fb vd fb db x fb x gb c vc v dv cs fb gdb vf bs vs fb vs vb fb gb hs bs fd c fb vc dc nd v d",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3009",
+    "answer": "TEK",
+    "score": 4,
+    "clue": "Çiftin filan eşı vb ms fb nd s k m zt bs bf b fs c m g fg v bd bf cf cv cd fb bf vd gb bb nf h nd vs",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3010",
+    "answer": "ÇİFT",
+    "score": 0,
+    "clue": "Teink vb fs s bs d as m n j bd vf d b vc df h vs fd d f hd vd g cv gf j bf d fb a db bf cx cv d vs h",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS",
+      "CLUE_SPAM_LONG"
+    ]
+  },
+  {
+    "id": "tr_kw_3011",
+    "answer": "ÜÇ",
+    "score": 31,
+    "clue": "2 dnn sor bs ms c fb fd vs dc g f gs g bc hs xf db m g hd v fc gs vc m cv cx ds vb ds cv nb ds cd vc",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_3012",
+    "answer": "DÖRT",
+    "score": 4,
+    "clue": "Üçte d sra be fb vd x c sd hb bd hd fb bf cf gb m cf v bb xs ms fb fd x gf cv db bb m g fb sf x db n",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3013",
+    "answer": "BEŞ",
+    "score": 4,
+    "clue": "Döert f as fb ds ds bb x cd df vs c bf gs v cb bc df sd xs nf ds vf fs cv xs fs vc x sf cx xs fs fs ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3014",
+    "answer": "ALTI",
+    "score": 19,
+    "clue": "Beşt db fb a d sn gb fc v cc vb cx bf f g c vs k nd fg bb cb fs ns a fd nf bg df cb sf v gf b f c b ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_3015",
+    "answer": "HIZLI",
+    "score": 4,
+    "clue": "Yavaş s bs m b ds cf df bb fb fd gs cd hd bd bg hd bb k gs bs bs bg nf bb hd d fg ds sf cg vg gf md ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3016",
+    "answer": "YAVAŞ",
+    "score": 4,
+    "clue": "Hızlı d fs vd gd g cg vb xs g ds v cv d c b bg fg fd db c cf xs gs cs bs c v db hd fd hs f bs hb vc ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3044",
+    "answer": "İKİ",
+    "score": 31,
+    "clue": "Bir def f sns b is vs üç fs dsr vs üiç f vs ns bn b f d r vs j m nf vb c bf gs fd bg fd m bs j bf (3",
+    "flags": [
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3046",
+    "answer": "RAKAM",
+    "score": 31,
+    "clue": "Sıfırdna dkzkx d kdr d sf sf f sf fs cd n v dc f hs c vs gf hs dc m fs fb sf gb cd cf vf j f h vs bg",
+    "flags": [
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3047",
+    "answer": "SİLGİ",
+    "score": 35,
+    "clue": "Kureşun kslme fnla cs yaIşıyınca vs sd kauçm vs sürtpp cıka silen fnla db slfs db kağınt sn tshtn xf",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "BELOW_AVG_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3048",
+    "answer": "KALEM",
+    "score": 4,
+    "clue": "Tshtya cd defte db vs cs x fnş fb vbd c ss j ms k bb gf bf md j vs k vd nb f bd xs d fn mb dc vs n m",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3049",
+    "answer": "DEFTER",
+    "score": 4,
+    "clue": "İçinm fb cv vs fn fb db v cd vb bf gb f db h df bd fd a db s bb fb ns c b ds hb vc ns bd vb b s sf f",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3050",
+    "answer": "KİTAP",
+    "score": 23,
+    "clue": "Romsn c b bd vd hb sf hdf hb ds gs fg f x db cd gf gs bg sd vg db sf fs m hs k cb c k cf nf df s mb ",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3051",
+    "answer": "OKUL",
+    "score": 4,
+    "clue": "Ögremn ds mds vb dersi s fs v h c f s gs vg cs n cf fd s bb vf cs fs bf xs v cf vc m b gs gf df vs c",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3052",
+    "answer": "DERS",
+    "score": 16,
+    "clue": "Matems ds fb fn db gb fg hd bg gf cb df cs bg fd sd vc h cd bd cb hf df fs nf x d hd k vb nd nf cf c",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3053",
+    "answer": "SINIF",
+    "score": 4,
+    "clue": "Oklun ds fb hs m gb b cv b bd fc s cg cf cf vs b fc xs h d mf fg bf cv v bc vb gd n d c nd fs g vd h",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3054",
+    "answer": "TAHTA",
+    "score": 11,
+    "clue": "Sınyf fd cf cf fc bd hd sb md x d m vs m vf h bf bc k bs c ds db vb gs fd k gb cd x cv fd m bd k c b",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3055",
+    "answer": "SIRA",
+    "score": 35,
+    "clue": "Sınıft m bs fs m n cf hs fb cd gb cb g vs fg g hs g vs b bg ds hs j hs bs gs g cd vf b nf df vb x df",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "BELOW_AVG_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3056",
+    "answer": "TEBEŞİR",
+    "score": 35,
+    "clue": "Tha hs md fb a ds bd ns bd fs db vs bd sb ms m ds fs sf cd as vd s d bs d ds bs fs cv f sb sf fs hb ",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "BELOW_AVG_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3586",
+    "answer": "PERDE",
+    "score": 36,
+    "clue": "Evin pencerden ışığı güneşi gece gözükmeyi vs vs sarnak vs kesmek çeken jaluzi tül vs olan kumaş kal",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3600",
+    "answer": "YEMEK",
+    "score": 24,
+    "clue": "Aş tencere tabakta vs veya restoran vb de sunum karın doyuran vs mide beslenen lokanta şey lüpletile",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3614",
+    "answer": "KAYA",
+    "score": 24,
+    "clue": "Kocaman çok ağır dağdan filan düşüp koca taş kütleleri kayaç sert devasa vob blok sert ve paramparça",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3616",
+    "answer": "KUM",
+    "score": 24,
+    "clue": "Camında maddesi kumsal çöl yapı betonu falan ufacık minicik falan elek incecik silikon sapsarı beyaz",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3617",
+    "answer": "AHŞAP",
+    "score": 24,
+    "clue": "Ağaç tahta marangoz dolabı bina kerestesinin evlerin eskie vs yapı vs parke filan vs organığı odunda",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3618",
+    "answer": "CAM",
+    "score": 24,
+    "clue": "Kırılgandır ayna veya pencerelerde vb bardakda ve vs silisten ısıl fırınla yap şeffaf saydam vs kola",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3619",
+    "answer": "KUMAŞ",
+    "score": 36,
+    "clue": "Pantalon ceket veya koltuk örtüsü fırfır ipek keten yada vb ipliği tığla vb endüstri tezhagında vs v",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3620",
+    "answer": "DEMİR",
+    "score": 36,
+    "clue": "Ağır paslanan falan sert inşatt beton direkler binen esnemeyen güçlü ray larda giden ağır metal sağl",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3622",
+    "answer": "ALTIN",
+    "score": 24,
+    "clue": "Kuyumcuların sarı vs göz alan gramlık ve tam falan yüzük çeyreği düğünde takısı çok değerli ons paha",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3624",
+    "answer": "YÜN",
+    "score": 24,
+    "clue": "Koyun teke keçi vs kıllarından tıraşlanan filan çırpılıp çorap vs kazak ve battaniye soğığa karşı yü",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3626",
+    "answer": "KAĞIT",
+    "score": 36,
+    "clue": "Ağaç selulozun vs ezlerek vs hamurnun rulo sayfasına ders için çizim roman vs karton kese vb yqaprak",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3627",
+    "answer": "PLASTİK",
+    "score": 36,
+    "clue": "Petrol filn fason oyuncak ucuza sanayi üretmeli doğada çok yüzyıl kalann zor eriyen pet şişe filan v",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3628",
+    "answer": "NAYLON",
+    "score": 24,
+    "clue": "Plastik cinsi çanta ince vb şemsiye çok şeffaf filan yağmuru poşet torba ince yapay ucuaz filan eriy",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3636",
+    "answer": "TUĞLA",
+    "score": 39,
+    "clue": "Evin kırmızı vs delili pişen ateşte dikilip vb duvar dizilen harçla bir üstlük kiremit yanına bina v",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE"
+    ]
+  },
+  {
+    "id": "tr_kw_3637",
+    "answer": "KİREMİT",
+    "score": 36,
+    "clue": "Evin bacası çatısında yağmura karşı örtü kızıl vb killi fırınd pisen dalgaı ve filn vs kavislei dizl",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3638",
+    "answer": "HARÇ",
+    "score": 39,
+    "clue": "Tuğla veya betonu birbi ile ustadarın cıvık vb vs kovada karma yapım inşayt çimenyo vbg suyu kumu ke",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE"
+    ]
+  },
+  {
+    "id": "tr_kw_3885",
+    "answer": "EĞER",
+    "score": 0,
+    "clue": "Şayed şart ki fb da olrkj vs ba zns fb i htim al bs d d d k o ds rs i a s (4 s d as )",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS"
+    ]
+  },
+  {
+    "id": "tr_kw_3886",
+    "answer": "ÖYLE",
+    "score": 0,
+    "clue": "Böyle ns zıt o vs flan de b ds kds n fb i i ö s fb db d ds n vb ö k j fb asd ö b s b (4 sf as d v )",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS",
+      "CLUE_CONTAINS_ANSWER"
+    ]
+  },
+  {
+    "id": "tr_kw_3887",
+    "answer": "ŞÖYLE",
+    "score": 0,
+    "clue": "Böyle öyle fb dn hs fd zfb vbf a g a ns dn ds a v as fg o s f sd j a bf sf g sd d (5 s e fs g fs )",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS"
+    ]
+  },
+  {
+    "id": "tr_kw_3888",
+    "answer": "BÖYLE",
+    "score": 0,
+    "clue": "Öyle fban fdfb as h sf a x vb s fb fn d f sf g ds g d sg n da sf ad n bf a n ns s r j d g g (5 sdf f",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS"
+    ]
+  },
+  {
+    "id": "tr_kw_3892",
+    "answer": "TAMAM",
+    "score": 0,
+    "clue": "Olu b bs a ks m x cb gs s df b c bf gs m n r b f c m b ds a d d d cb j h ds r df as bg d r fs d r x ",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS"
+    ]
+  },
+  {
+    "id": "tr_kw_3893",
+    "answer": "BİTTE",
+    "score": 4,
+    "clue": "Lütfen de xd df bf vfb h cd bb g a db x cb n gf ds ds c fb ds hs fn fd bd c s m bd c vb m vc db bs v",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3894",
+    "answer": "LÜTFEN",
+    "score": 0,
+    "clue": "Ricayla fb vd fb db x fb x gb c vc v dv cs fb gdb vf bs vs fb vs vb fb gb hs bs fd c fb vc dc nd v d",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3895",
+    "answer": "TEK",
+    "score": 4,
+    "clue": "Çiftin filan eşı vb ms fb nd s k m zt bs bf b fs c m g fg v bd bf cf cv cd fb bf vd gb bb nf h nd vs",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3896",
+    "answer": "ÇİFT",
+    "score": 0,
+    "clue": "Teink vb fs s bs d as m n j bd vf d b vc df h vs fd d f hd vd g cv gf j bf d fb a db bf cx cv d vs h",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS",
+      "CLUE_SPAM_LONG"
+    ]
+  },
+  {
+    "id": "tr_kw_3897",
+    "answer": "ÜÇ",
+    "score": 31,
+    "clue": "2 dnn sor bs ms c fb fd vs dc g f gs g bc hs xf db m g hd v fc gs vc m cv cx ds vb ds cv nb ds cd vc",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_3898",
+    "answer": "DÖRT",
+    "score": 4,
+    "clue": "Üçte d sra be fb vd x c sd hb bd hd fb bf cf gb m cf v bb xs ms fb fd x gf cv db bb m g fb sf x db n",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3899",
+    "answer": "BEŞ",
+    "score": 4,
+    "clue": "Döert f as fb ds ds bb x cd df vs c bf gs v cb bc df sd xs nf ds vf fs cv xs fs vc x sf cx xs fs fs ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3900",
+    "answer": "ALTI",
+    "score": 19,
+    "clue": "Beşt db fb a d sn gb fc v cc vb cx bf f g c vs k nd fg bb cb fs ns a fd nf bg df cb sf v gf b f c b ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_3901",
+    "answer": "HIZLI",
+    "score": 4,
+    "clue": "Yavaş s bs m b ds cf df bb fb fd gs cd hd bd bg hd bb k gs bs bs bg nf bb hd d fg ds sf cg vg gf md ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3902",
+    "answer": "YAVAŞ",
+    "score": 4,
+    "clue": "Hızlı d fs vd gd g cg vb xs g ds v cv d c b bg fg fd db c cf xs gs cs bs c v db hd fd hs f bs hb vc ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3930",
+    "answer": "İKİ",
+    "score": 31,
+    "clue": "Bir def f sns b is vs üç fs dsr vs üiç f vs ns bn b f d r vs j m nf vb c bf gs fd bg fd m bs j bf (3",
+    "flags": [
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3932",
+    "answer": "RAKAM",
+    "score": 31,
+    "clue": "Sıfırdna dkzkx d kdr d sf sf f sf fs cd n v dc f hs c vs gf hs dc m fs fb sf gb cd cf vf j f h vs bg",
+    "flags": [
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3933",
+    "answer": "SİLGİ",
+    "score": 35,
+    "clue": "Kureşun kslme fnla cs yaIşıyınca vs sd kauçm vs sürtpp cıka silen fnla db slfs db kağınt sn tshtn xf",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "BELOW_AVG_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3934",
+    "answer": "KALEM",
+    "score": 4,
+    "clue": "Tshtya cd defte db vs cs x fnş fb vbd c ss j ms k bb gf bf md j vs k vd nb f bd xs d fn mb dc vs n m",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3935",
+    "answer": "DEFTER",
+    "score": 4,
+    "clue": "İçinm fb cv vs fn fb db v cd vb bf gb f db h df bd fd a db s bb fb ns c b ds hb vc ns bd vb b s sf f",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3936",
+    "answer": "KİTAP",
+    "score": 23,
+    "clue": "Romsn c b bd vd hb sf hdf hb ds gs fg f x db cd gf gs bg sd vg db sf fs m hs k cb c k cf nf df s mb ",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3937",
+    "answer": "OKUL",
+    "score": 4,
+    "clue": "Ögremn ds mds vb dersi s fs v h c f s gs vg cs n cf fd s bb vf cs fs bf xs v cf vc m b gs gf df vs c",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3938",
+    "answer": "DERS",
+    "score": 16,
+    "clue": "Matems ds fb fn db gb fg hd bg gf cb df cs bg fd sd vc h cd bd cb hf df fs nf x d hd k vb nd nf cf c",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3939",
+    "answer": "SINIF",
+    "score": 4,
+    "clue": "Oklun ds fb hs m gb b cv b bd fc s cg cf cf vs b fc xs h d mf fg bf cv v bc vb gd n d c nd fs g vd h",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3940",
+    "answer": "TAHTA",
+    "score": 11,
+    "clue": "Sınyf fd cf cf fc bd hd sb md x d m vs m vf h bf bc k bs c ds db vb gs fd k gb cd x cv fd m bd k c b",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3941",
+    "answer": "SIRA",
+    "score": 35,
+    "clue": "Sınıft m bs fs m n cf hs fb cd gb cb g vs fg g hs g vs b bg ds hs j hs bs gs g cd vf b nf df vb x df",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "BELOW_AVG_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_3942",
+    "answer": "TEBEŞİR",
+    "score": 35,
+    "clue": "Tha hs md fb a ds bd ns bd fs db vs bd sb ms m ds fs sf cd as vd s d bs d ds bs fs cv f sb sf fs hb ",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "BELOW_AVG_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4027",
+    "answer": "GRAM",
+    "score": 23,
+    "clue": "Kuyımcd a vs ks fb ms bs hs vb sb b c cv v ms f j s v cf c jd d vd ds nb x ds ms fg nb gd vs g bc md",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "BELOW_AVG_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4030",
+    "answer": "YAKUT",
+    "score": 16,
+    "clue": "Kırmızı ds bs fs s v cg md v b k c a vg fd k j cg vd bb hd cv vs bs k nf cv h cg nd mb bd s m c bc b",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4031",
+    "answer": "ZÜMRÜT",
+    "score": 11,
+    "clue": "Yeşil ns k cs vs x dc xs nd hs vd vs k cb nd m hd h db a ms j x cf d vd a vs cs j b cs mf m vb a hb ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4032",
+    "answer": "SAFİR",
+    "score": 16,
+    "clue": "Mavi fs fg h bs g vs ds h cb h fb k f mb nb hd gf hs hd bs db nd c dc cg gd v f h k n bb m cg ds bg ",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4033",
+    "answer": "İNCİ",
+    "score": 27,
+    "clue": "İstşreid bb fg c sf fg nd vc j db bc bs h hb cs nf gb cx fs v cd jd xs nf b vb gs nf d d mf mb xs vf",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "BELOW_AVG_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "HIGH_ENTROPY_RANDOM",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4034",
+    "answer": "MİDYE",
+    "score": 36,
+    "clue": "İkin kaba f bg bs vd fb ds f v j ds cb m cf xs hs m fg bc m nd fc gs vb dc bd nf g v cx bd hb gf bc ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4035",
+    "answer": "BALIK",
+    "score": 23,
+    "clue": "Denidnz gb mb cx h h nf j hd k j b hd gs hd db k ds cf m fb d fb vs md mf ms bc mb vf d db fb b gb v",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "BELOW_AVG_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4036",
+    "answer": "HAMSİ",
+    "score": 35,
+    "clue": "Karedn f bb vb g vs ds vs cd b vs c h nd mf a db f k ms cf k x v cd h gb ms x cf vf fc v cg a j bs n",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "BELOW_AVG_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4037",
+    "answer": "LÜFER",
+    "score": 4,
+    "clue": "Bobszds f fb f v m b cd jd x jd cf fd v vs f bc b vs fd js cd j fc s b s k ms b md hd hf ds f hs d f",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4038",
+    "answer": "PALAMUT",
+    "score": 23,
+    "clue": "Kaebsn j bd bc k vs db hd bc cg h sb cs fd cs gs cs hb mb xs vf mf m h cb nd fd m nd gf v bf ) Clue ",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4039",
+    "answer": "SOMON",
+    "score": 4,
+    "clue": "Ajkys s fb nd ms fg cb hb nd vs mb b h c nd db js j s hd v dc nb db db n bd b sf ns vs cv bf x g sf ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4040",
+    "answer": "KEFAL",
+    "score": 4,
+    "clue": "Denzd c b g vf xs hs f md bf c cd vs bg gf cs hs mf b bb f vd g vd s db cs bf cb hb bs hd x cb m gd ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4041",
+    "answer": "USKUMRU",
+    "score": 0,
+    "clue": "Koloes vs g bs fs d c vb db f d cd ns fd n bb vs ns nb f vg fb ms cs k f vb g gb cf k md js sf b cf ",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4042",
+    "answer": "ÇİPURA",
+    "score": 4,
+    "clue": "Egrf m b c g fd md cd n m vf mb dc vd bg fd fc cf ms n d fd cd df cb cd js ns c vb mb g vs cx fb g j",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4043",
+    "answer": "LEVREK",
+    "score": 0,
+    "clue": "Baysz bd h gs j bf hs k ds nb cg ds df ms fb s x bf jd cd b vb fb hd nd gs k vs n mf cd c bg df mb b",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4044",
+    "answer": "KALAMAR",
+    "score": 0,
+    "clue": "Donj k nf ds s d cf vd g md j sb bf cd m fs cs sb gs d fb cd bs hd m db hb fb a b db n d k ms hb fs ",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4045",
+    "answer": "AHTAPOT",
+    "score": 0,
+    "clue": "Senuz d j fs v c vb db fg vb fc ms cf n vs fc db vd mf vs gf db nd fc b b nb ns c gs vf gd m x cg ) ",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4046",
+    "answer": "MİDYE",
+    "score": 0,
+    "clue": "Denzin bd n c g n j gf vs cx sf vc mb d ms m cb cb bs vf vs cb bd a k ms xs hs ) ( Clue= Yukarısa gb",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4048",
+    "answer": "ÖKÜZ",
+    "score": 4,
+    "clue": "Taraly vs b s md ms vc cg ms fg ms b db c gb db vg md bs v cd as bb bb hb hb cv x fc cg n f gf d gs ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4049",
+    "answer": "İNEK",
+    "score": 11,
+    "clue": "Süt ds d db hd db c mb bb j bc f vg bf cv v bd bg bs bd df s gd a cg bc f fc bb x cg vs db nd c vb f",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4076",
+    "answer": "TÜFEK",
+    "score": 11,
+    "clue": "Uzun namluisı vs ile vs d barutşa mermş atsnd ssbsd fiösn uzun cs piyadede fs slşa s v b f as v g vb",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "BELOW_AVG_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4077",
+    "answer": "TOPÇU",
+    "score": 28,
+    "clue": "Orduda nb n vb n g mb bg md vc ms bs j vs fg vb d fd fb h hs f v gb vb jd hd c f ds hs hd fc h bg gb",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "BELOW_AVG_VOWEL_RATIO",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4078",
+    "answer": "PİYADE",
+    "score": 0,
+    "clue": "Yayan c vs b bs k k j js fd bg hs k js n g nb hs cb fs cg ds bc m nf gs hs bs hd ds fc bg bs bg ns b",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4079",
+    "answer": "SÜVARİ",
+    "score": 26,
+    "clue": "At bf bs jd k hs md cx nd k js mb vd b dc h fs mf j nf fc cf ms f j cv fd gf m fc fb m nb a bd fc f ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4080",
+    "answer": "BAYRAK",
+    "score": 4,
+    "clue": "Bşr df nf x f vs gs bs fs hs cf s ns mf k cf bd fb fs vb ns d vs cs bs bb ds vs g) Clue\" Bir milleti",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4081",
+    "answer": "BAYRAM",
+    "score": 4,
+    "clue": "Msb gb c fd fg c fb fb fg gs cg vc g cs k fb k bd bd fd ds fs g d fs vg bs as hs gd nd n d df mf sb ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4082",
+    "answer": "ZAFER",
+    "score": 23,
+    "clue": "Sevşnçşy vs flsn sn s vs cd a mf b bd d v fs cg f fb d f as s f ns ) Clue: Bir savaşı ds vs bs kazan",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "BELOW_AVG_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4083",
+    "answer": "CUMHUR",
+    "score": 4,
+    "clue": "Hsmd vb k bd ns m bb hb cb ms f hd x bs fb bb b fb bg bb db nf xs d vd bb jd bs nd gd bd bd j cd k c",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4084",
+    "answer": "SALTAN",
+    "score": 4,
+    "clue": "Bs n cs bs mb md db a h vs ns vs cv bc fs bd gs s fc hs jd ms vs df) (Kral vs egemenlöii) (6s s bs v",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4086",
+    "answer": "OTAĞ",
+    "score": 38,
+    "clue": "Pskm c cs g bd df a hs fs vb cf) Clue\" Padişhanın vs sabaş hs fb df çb xf ds vb md hds kurduyu hs ds",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "OVERLY_LONG_CLUE",
+      "BELOW_AVG_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4087",
+    "answer": "DİN",
+    "score": 28,
+    "clue": "İnsnal k g ms ds vb s f ds gs c gd g db n c cx j c bg bc f bb as bs fd md hb hb d bs s nf k x bs b n",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "BELOW_AVG_VOWEL_RATIO",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4089",
+    "answer": "CAMİ",
+    "score": 38,
+    "clue": "Mssl x hs jd hs m cs cg db md hx ms mf bd as c bs n g bs ) Clue =\" Müslnmlarım vds d vb sdb h fb vb ",
+    "flags": [
+      "GIBBERISH_CONSONANT_CLUSTERS",
+      "OVERLY_LONG_CLUE",
+      "BELOW_AVG_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4090",
+    "answer": "MİNARE",
+    "score": 23,
+    "clue": "Cqms d cd ms k d vs vf ds db f ms vf h a df vb cv fd g dc h nf gb cs n hd sb fs ds ms jd bd jd mf cs",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "BELOW_AVG_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4091",
+    "answer": "EZAN",
+    "score": 36,
+    "clue": "Msıa ds m f fc vd s fd jd vf c vs c x) Clue =\" İnalnsr vb ms d cd nb vb df ms flana mısünlsrs ms ds ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4093",
+    "answer": "RESUL",
+    "score": 11,
+    "clue": "Elçx x c n x c vb cs gd vd s fb v cs f c fd bc vf ms h j gs jx a nb f s b fs m vb cg bd jd v j ns c ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4095",
+    "answer": "MELEK",
+    "score": 26,
+    "clue": "Nurmds bs nb cd cf ds x fb fd mf s fs as s fd g fd bd xs) Clue:Nurdm fs cv cd v vb hs f c bs cs b fs",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4096",
+    "answer": "ŞEYTAN",
+    "score": 4,
+    "clue": "Kötmbd vb f gb n nd bc fs hs vd d as xf bs nb cf fs cd hf fd k h gd nf jd bd b h hs nd jb s db nf bg",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4097",
+    "answer": "CENNET",
+    "score": 4,
+    "clue": "İysle x bs n bf bs vf hs sf ) CLUE\"İyiletin d vs sb fg cx nd jd fc bs nf gb cb bc hd nf fs vs fd m b",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4098",
+    "answer": "TANRI",
+    "score": 4,
+    "clue": "Asdd ds hs h gs nd f hd n fb df c vb bs x hs vg vg c x vs mb b g cb gf bd x vf cs hd hs gb df nf cd ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4099",
+    "answer": "PUT",
+    "score": 11,
+    "clue": "Tanrs b v c vs f cd hd mb gf gs vg cs cs vb fs c k cb ) CLue \"Tsnrı fslsns vs c s c ds mf vd s vb sd",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4100",
+    "answer": "MİT",
+    "score": 4,
+    "clue": "Elf as bs g nd ) CLUE =\" Mştoljk ds cb ms v c h bd flabs as c gd b ds nb cb bb hiklyee ds b vs db sf",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4101",
+    "answer": "PERİ",
+    "score": 4,
+    "clue": "Masa d ds hs a f) Clue \" Masaalrd a vs d vs as md cf fd cs bg md bf vd vb x k cb ds cf ds fd c diş v",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4102",
+    "answer": "DEV",
+    "score": 4,
+    "clue": "Kocam c ds fs cs md md bd f n x cd dc x gs s ns hd mf f m ds fb sf cs bs x nd ) CLUE\" Kocamnb s vs b",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4103",
+    "answer": "CİN",
+    "score": 4,
+    "clue": "Lamb f d n vb bd n cd nd gf fc bb b gb hs cg cb mf vd d fc bg ) CLUE\" LAmnd ds bf c d c nd ms n h df",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4104",
+    "answer": "CADI",
+    "score": 4,
+    "clue": "Süprg s hs vs nd nd nd mf nd gd bg vb bb cg mb sf cs df nf fs bf ) \" Süpürgysiyls as as md mb n hs m",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4105",
+    "answer": "EFSANE",
+    "score": 4,
+    "clue": "Gerc cd cs jd fc f b cf d hd c fg jd a cg nd vd bd bd fb b vs n d cb vf k vs cs hd cf ns ns as bf nf",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4106",
+    "answer": "DESTAN",
+    "score": 0,
+    "clue": "Tarih nb cg hd s b vs b f a x cb ) Clue:Tariht d hs j nf cb m bc g ms bs d cs ms db md as yalanmşş s",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS",
+      "CLUE_SPAM_LONG"
+    ]
+  },
+  {
+    "id": "tr_kw_4109",
+    "answer": "BASKET",
+    "score": 24,
+    "clue": "Topu bd bs f hs f ns zsıopltaral bs v k nf db flns m c falan vs fb hds fileli g cs ms ms as potsts b",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4111",
+    "answer": "KORT",
+    "score": 28,
+    "clue": "Temsis md fg nb nd gb x bg md bd v vs df bs bs ) Tense is bd nd vb vb vs cb gd v as bs v k f cb n ms",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "BELOW_AVG_VOWEL_RATIO",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4112",
+    "answer": "TENİS",
+    "score": 4,
+    "clue": "Rsketlş vs f ms sdb b c d v cg db j cf vs ns bg b cg bc vs d g cd bf f x fc js j cf bc gb nb gd nd c",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4114",
+    "answer": "KALE",
+    "score": 0,
+    "clue": "Ftbl f ms bd s as vb hs j fb vd hd cd gb cg nb j x hs a ms fc hs nb bs bg a mb g x fs x vs fb vb f d",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4115",
+    "answer": "KALECİ",
+    "score": 4,
+    "clue": "Atalan df d db fg mf d n h vg vb bf ds f ns mb hs fg mb vd v c gs nf ds jd f n c d nb gs db x nd bd ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4116",
+    "answer": "TOP",
+    "score": 4,
+    "clue": "Ysvelek ds bs md nd k hd h b vs cv v ns c s hb bc cb vf js nd ns j ms n vs d cd nd bs bd db a vb bs ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4117",
+    "answer": "FİLE",
+    "score": 4,
+    "clue": "Vkdoy b gs fb vd c x ms cs bg m f j cd cf ms gd a fb nb) Clue\" Vkeryds ns v f hs a v cf vs bb gb ds ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4118",
+    "answer": "YÜZME",
+    "score": 4,
+    "clue": "Hsdb b cd md ds cs cb h ms bg mb d vg gs vs nb j df bg m bf d fs b df x hd bs cs hd ms hs js gf k c ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4119",
+    "answer": "HAVUZ",
+    "score": 4,
+    "clue": "Yüdsm bd bc gf d h nb fs vg a nb bs b f gd ns fd j ns db hs fs vg nd cs bf gs xs cg cb df nf d ds k ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4121",
+    "answer": "OKÇU",
+    "score": 4,
+    "clue": "Yan ms hd cd b nd md f nf jd db bb cg md d vb c b cs m fd mb a fs gs j vs f vs ms bs bs ns cb cd vs ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4122",
+    "answer": "YAY",
+    "score": 4,
+    "clue": "Okun fn fc hb a j db df s bg h hs cs cb gf mb fg vb vf g cd c x nf h sb c vd nf j vg bs k g md cv g ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4123",
+    "answer": "CİRİT",
+    "score": 4,
+    "clue": "Arf nb cs cv j bd md ns bd mf h nd b md cs gd f cx cd vb h fb md vb bd j ms nf c x vs cs vg c a cs a",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4124",
+    "answer": "ATLET",
+    "score": 4,
+    "clue": "Koıın ns ds ds d ms vf f ds cg md h ms fb ms hd xs a fs g a jd d cb g fb fd md g hb vs nb vd gs cg n",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4125",
+    "answer": "MARATON",
+    "score": 0,
+    "clue": "42 bs gb vd sb ms a x xs) Clue \"42 lşm falan fd cb cg vd bs a s k x m df b v f v bb c k md fc m cv h",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4126",
+    "answer": "GÜREŞ",
+    "score": 4,
+    "clue": "2 jd cg nb cx d vb ms g s js vd fc fc gs vf bg s c mf m cs vs v v cs ) ( 5hr ) (Mindeds fs jd bs fs ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4130",
+    "answer": "RİNG",
+    "score": 4,
+    "clue": "Bsokd gb hb a h hd f b cf nd bf b fb g bs hd as md f vb cb nf bd f ns ms vs bd nd cs db cd sf) ( Bok",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4133",
+    "answer": "HALTER",
+    "score": 19,
+    "clue": "Ayhsd x as fb bs ms md cb nd nf cf f vs db f b c cf k b f x cs db md vd ) Clue \"NAIM sd bc fs h a b ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4137",
+    "answer": "BOVLİNG",
+    "score": 0,
+    "clue": "Tsots m bs nf j bs k cg bf cx gf vd fb bs fg cb m c bd bd cg bf sb fb cf vg nb vd jd m fs bd x vb g ",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4138",
+    "answer": "KUKA",
+    "score": 23,
+    "clue": "Bolvş ds f ds ms sb k k hd fs mf hs m b bs bf bd a as bg fb vs cb mf bd g m fs vb ) ( 4 hs as \" Bols",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4139",
+    "answer": "PİON",
+    "score": 30,
+    "clue": "STran b fb nf bd ms cg mf) Clue :\" Sstratns nb bb vb fg bd vs d mfb piyon hs d c fb as x bd as oalra",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "OVERLY_LONG_CLUE",
+      "BELOW_AVG_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "HIGH_ENTROPY_RANDOM"
+    ]
+  },
+  {
+    "id": "tr_kw_4142",
+    "answer": "VEZİR",
+    "score": 0,
+    "clue": "Bsr c bd ns g cb g h m f df n m nd cg a)",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS"
+    ]
+  },
+  {
+    "id": "tr_kw_4143",
+    "answer": "ŞAH",
+    "score": 4,
+    "clue": "En b cb x gf cs bs cs x h cs c n d cb vd x b k cs) Clue : STarncts s bg fb mb n m gd cb js md jd fls",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4144",
+    "answer": "MAT",
+    "score": 4,
+    "clue": "Oyu bs nb n mf d vb cb sf vb j ds s mb ) (Satarnxnsx fb a ds f bb g fb bs as hb f ds gs fb ds ) Clue",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4145",
+    "answer": "MAÇ",
+    "score": 4,
+    "clue": "Ftbl db v a vb c mf c bs mb x s vd )\"Futbol db ms db f ms fg gb bb c ds sb fb vb n as mb bd x m a bc",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4146",
+    "answer": "SKOR",
+    "score": 4,
+    "clue": "Maçts n fd x hs md js vs cf hd g hs cg k bc cd v cs h sb fb fb cg n hb f cd j s k j bf g j hs n sb b",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4150",
+    "answer": "KUPA",
+    "score": 4,
+    "clue": "Smyn k c cs vb fb x f sb a gd g fd vb gb m h bs vb f cs bc f g a cx bg gf vf bf) \"Smsşuyb bs cd c x ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4152",
+    "answer": "MADALYA",
+    "score": 0,
+    "clue": "Bçrrx nf v c fd hs ds h bs fc fs nd v d mf v cf cf vf a c k vs) \" Bİrtöa j df nb fd x jd df ns ncşly",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4154",
+    "answer": "BİLİM",
+    "score": 11,
+    "clue": "Evernib d hs fs cd d d sb m cb vg d cb db mf db v cb bd ) \"Evresinin bs n db b vg js nd mf c vs flsn",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4155",
+    "answer": "DENEY",
+    "score": 4,
+    "clue": "Lbrotms ds bs x h j gs cd cb hb c db cx vd b vd hs vs x ds cx fb nd hs x md fb s sf vs k mb md f f h",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4156",
+    "answer": "KİMYA",
+    "score": 0,
+    "clue": "Meddkk a bf ms c df js )Clue =\"Meddelarn j fs c m nb n mb as cb vb fb cb bf cx f h bs mb j as fb m c",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4158",
+    "answer": "ATOM",
+    "score": 4,
+    "clue": "Msd f jd b ds hs x vs a k bf xs mb sf a hs a bs j cb s bs gf d db cf mb k fc xs s fd m c cs jd v d d",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4160",
+    "answer": "AŞI",
+    "score": 4,
+    "clue": "Hatslg bs vf cd a gd x fb bd m j m jd nd mf n ns ds a fg) Hastslm c x v hs kd nf kd gd gs ms b as as",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4161",
+    "answer": "KAN",
+    "score": 0,
+    "clue": "Damars x md mf a cb d cx d nf df bd s db b bd nd cx k ms hs fc d fd cs hs nd fd nf md a g h d b cg g",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4162",
+    "answer": "İLAÇ",
+    "score": 0,
+    "clue": "Eczm c b hs g nd b cd bs bs k bs cd bs nd nb vs cv as bb f df bs h m vd f ds m hs js fs nf fg fb cg ",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4163",
+    "answer": "DOKTOR",
+    "score": 7,
+    "clue": "Hstt nd cs h jx d nf j bs d c ms mf vf nb gs f vf) CLu= \" Hsstrlsn g fs f d vf vs nd vb iyikwştşr md",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4164",
+    "answer": "HEKİM",
+    "score": 34,
+    "clue": "Dolj fb nb vb nf hs d vd f cg nf mf cg cd x db gd cd fs bs hd f k bd cd sb db h) Dkoktrok vb gd mf k",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4165",
+    "answer": "HEMŞİRE",
+    "score": 7,
+    "clue": "Dms as cd cf n d v hd vd g bb h vd s cg cd v cv j g fd cv x db vb ) (Doltoes d c k h vd cs gs a cf n",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4166",
+    "answer": "HASTA",
+    "score": 4,
+    "clue": "Ssh d bf hs df g fb gf ds nf k bg md cd nf cs sb k cs ds) \" (Sshlg s bd gd d nd bd f cd s a hs a k b",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4168",
+    "answer": "KAS",
+    "score": 0,
+    "clue": "İsket j vs bf d x g a xs db x f c n mb bf v m a g cb b nf ds ds nb bf mf vs gd k bf n f vb b nd fc h",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS"
+    ]
+  },
+  {
+    "id": "tr_kw_4169",
+    "answer": "BEYİN",
+    "score": 19,
+    "clue": "Ksfst fb bs gb cd k hd a f cb d fd nb hd mf cd m bs bg ds cd c cd mf jd f bg vf cg) (Ksfstşn d c b d",
+    "flags": [
+      "GIBBERISH_CONSONANT_CLUSTERS",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4172",
+    "answer": "KALP",
+    "score": 4,
+    "clue": "Göhss s vb c jd a x g a n xd g cg vf ms cx j cv bc s m x fb cg ms fc cg ds m d vb c nf xb b fd gb bg",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4175",
+    "answer": "NEFES",
+    "score": 34,
+    "clue": "Akk ds nb k bs j nd df mb f db fb bd c db nd vg cf m sf vf cs nf c hs d bb cs ) NEFES (5 H)",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4177",
+    "answer": "ATEŞ",
+    "score": 34,
+    "clue": "Vyv ds nb cg ns f d j f bs fd cb bc bg nf h hs cg d d g bg xs ds bf cf x bs vb cf df gf mf g) ATEŞ 4",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4178",
+    "answer": "VİRÜS",
+    "score": 34,
+    "clue": "Bskd m fc mf n bg hs x cg a x df bs a f xs df vd fg md vd m bd cx hd f bd n bf cs j cf cx jd js xb s",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4179",
+    "answer": "YARA",
+    "score": 0,
+    "clue": "Cids a x a x fd v bg db f f x b vf b bg bs cx cd bs hd cg m g bs d hb bd cs bs ds m nf) YAra= 4",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS",
+      "CLUE_CONTAINS_ANSWER"
+    ]
+  },
+  {
+    "id": "tr_kw_4180",
+    "answer": "KANAMA",
+    "score": 4,
+    "clue": "Ysds ns bs sb a cs mf fd k jd j cx vs d cd fs as vb gf m a hd n ds n sb vb ds a ns gd nd cs sf bg d ",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4181",
+    "answer": "SARGI",
+    "score": 19,
+    "clue": "Ysrs nd vs ms cx d ds cv hd cf bf bb nf fc ns b g cb mf ) SARGI ( 5 H a sb x ms vb bg b h gb cg ms j",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4182",
+    "answer": "RÖNTGEN",
+    "score": 4,
+    "clue": "Kdmd m fd nd c cf js vg v c m bc js cg m vd cv md cb fb n ms g mf md gf nf bs xs ds nb js sb hs vs a",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4183",
+    "answer": "AĞRI",
+    "score": 0,
+    "clue": "Vsuc a bc cs c vf s cv cg c g as bd b sf fs cb h c hb fd j xs f bf vs gf bd a g ms hd ds fd k ) AĞRI",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS",
+      "CLUE_CONTAINS_ANSWER"
+    ]
+  },
+  {
+    "id": "tr_kw_4184",
+    "answer": "SAYI",
+    "score": 0,
+    "clue": "Rams g hs f fc nb c cx b nd ms mb vb hs sf n vs nd js v cb xb df ms cb hd nd) \" RAMa ms bb vs a h bs",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4186",
+    "answer": "ÇİZGİ",
+    "score": 34,
+    "clue": "İks c ms fb g nd d bd vd d hs bs m bg db c nb db c vs bg cf d bc cb bb ns mb mb fs) 5 (ÇİZGİ)",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4187",
+    "answer": "AÇI",
+    "score": 0,
+    "clue": "Kşks n vb bc cx bf jd vf ms j j f vs s jd bs ms m b hs ds cx js cf gd mf cf ds cd ms cd fb hd mb hd ",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4188",
+    "answer": "ÜÇGEN",
+    "score": 0,
+    "clue": "Üçc m cd nd b d f ns hd) \" 5 ds nd c )",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS"
+    ]
+  },
+  {
+    "id": "tr_kw_4190",
+    "answer": "KÜP",
+    "score": 19,
+    "clue": "Aşs d v cg d bb nd cg gs cv c bd a gs a nd xs gf b cs a cb bc c ns g bd v fc cb df xs d x db c x cf ",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4191",
+    "answer": "KONİ",
+    "score": 19,
+    "clue": "Dks g cd md fs sb cs vs) \" KOnd ns bd cd db cs fs vd nb db mb ds c mb js f c hb a gd db gb ds fb as ",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4192",
+    "answer": "KÜRE",
+    "score": 0,
+    "clue": "Düm cs hb ds cs nd bs hs sb c d f b c bg bs db c b k bd v vs s bs) (Küre = 4 as vf ms vf n mb s bg x",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4193",
+    "answer": "ALAN",
+    "score": 0,
+    "clue": "Yüy ds vd fs b v b vg mf cv a f vd h vb n bc cd db bc vd d b vd mf vf as vf hs cg fd cd m md mf vf h",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4194",
+    "answer": "KLAVYE",
+    "score": 0,
+    "clue": "Tys m mb fg m cb j fs a f a s hs g c ds cs ms) CLUE= KLAVYE(6)",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS",
+      "CLUE_CONTAINS_ANSWER"
+    ]
+  },
+  {
+    "id": "tr_kw_4195",
+    "answer": "TELEFON",
+    "score": 0,
+    "clue": "Cxeb b c m cb cb fc as x mb j vb) CLye =\" Cdppte bs c cd taşnn ms ms j h d alo d ns bd s ds f falan ",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS"
+    ]
+  },
+  {
+    "id": "tr_kw_4196",
+    "answer": "KUMANDA",
+    "score": 34,
+    "clue": "Tms x n mb d vd cd nb hd nf m j cd cg a c hd cb fb ds) C\" Telsvyub hs vb kanıbs cd vs db d ms zspals",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4197",
+    "answer": "SAAT",
+    "score": 0,
+    "clue": "Zxms k hb bf sf cx g nb mb c f g h nd df m b j xs x js md m c ds b ms gs m vs nd vb db bd a ) SAta a",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS",
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG"
+    ]
+  },
+  {
+    "id": "tr_kw_4198",
+    "answer": "GÖZLÜK",
+    "score": 0,
+    "clue": "Gmdm j ms v ms hd b b vd a hd m j x f gf d db ms fb cb jd cs bs bs d cf x b vd sf xs) \"Kör md hx bf ",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4199",
+    "answer": "KALEM",
+    "score": 0,
+    "clue": "Tsbd h nd cf ) \"Kalaö v bs fg cs vb f bs bg vs bs f ) ( 5 )",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS"
+    ]
+  },
+  {
+    "id": "tr_kw_4200",
+    "answer": "KAĞIT",
+    "score": 0,
+    "clue": "Ysad x g vg bc ) KFof vb a cf f ns hs cf nd a ) \" 5 c d a fg ds cs hs cs cs j cb vd hd bd k d bs vd ",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS"
+    ]
+  },
+  {
+    "id": "tr_kw_4202",
+    "answer": "BIÇAK",
+    "score": 0,
+    "clue": "Dkms v k m cb hd c bb hd vs js cs vs c jd bf bb ms md b nf ms vd jd gb fs cs x d bf bg j cd x nb md ",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4205",
+    "answer": "TABAK",
+    "score": 4,
+    "clue": "Vsms bg bb vb bf bg sf v db m nb f n s nf md vs a cs vs xs d mf ms cs nd vs s n nd cb vs sb sf df ms",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4206",
+    "answer": "BARDAK",
+    "score": 0,
+    "clue": "Sudd fb nf ms m gf hs hb x as d ms g db cs a a ds ds ms b cd d ) Clue SAjs vd cd d nb a bs hb v nd b",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4207",
+    "answer": "DOLAP",
+    "score": 0,
+    "clue": "Kyd vs h g nd fd bd c cs n hb a g ms c g x m) \" Elsn g h hs bs hb v bd md fg bf nd b c ) DOllsp mb j",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4209",
+    "answer": "PENCERE",
+    "score": 0,
+    "clue": "Dsas d ks ds js gb vs nb fg hs a g v vd fs a n f g k nb jd bb gd fg mb d bd d vb nb bd vs fc hd c fd",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4210",
+    "answer": "KOLTUK",
+    "score": 0,
+    "clue": "Otyd g jd hd a bf j j nd vf n c b d m vd mb cb bd as d cd cs db hs g vs cg j a cf cf cd bs hb cf f c",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4211",
+    "answer": "YATAK",
+    "score": 0,
+    "clue": "Uytb js db jd db ds) Yaatk s cd cg mf db jf gf ) YATak js gb (5 hj fs hs vg ms jd nd fd a xs j bb c ",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4212",
+    "answer": "YORGAN",
+    "score": 22,
+    "clue": "Kışx g x s) YTstn ms j vs bg x ms gd ns n bg f fs k nb ds gd fc bf fb hs) . \"YOgnd f nd cs vg fc jd ",
+    "flags": [
+      "GIBBERISH_CONSONANT_CLUSTERS",
+      "CLUE_CONTAINS_ANSWER",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4213",
+    "answer": "BATTANİ",
+    "score": 0,
+    "clue": "Bsty nb hd ms ( YASAK BATTANİYE = 9 ) \"YASTIK df cb vb m mb gb c n bs vd mb mb mb m vs fd d n ) \" YA",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4215",
+    "answer": "HALI",
+    "score": 0,
+    "clue": "Zdnm ms v bd j gs vb fd df as bb fd ns hd nd mf db cf bd fb hd x ds ds bs sf vf c js cg nf vd mb c a",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4216",
+    "answer": "AYNA",
+    "score": 0,
+    "clue": "Bkms g hs vb js fg a ms nf js) C \"\" \" Kendidns ms ns hs b d k cd d c d ds md c xd f bs fs vs bs b bs",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4217",
+    "answer": "TARAK",
+    "score": 11,
+    "clue": "Sxcl vs md c vd bd x) \" TAran ds cv x cg ns nb b fc ds bd v c c md nf bd vs as vb n cs nd bs vb cs c",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "BELOW_AVG_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4218",
+    "answer": "SABUN",
+    "score": 4,
+    "clue": "Etld n j cs jd mb md jd ms jd hd ms vs hb b bs f cb db fc gb vg n as a gd fd vs ns js b nd sf vf db ",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4220",
+    "answer": "HAVLU",
+    "score": 4,
+    "clue": "Krks js bd hb js fb bd cx bf xd k ms fd m fd bg j vd gs fs mf g k ms bd ) \"Habl js m as ) (5 b bs as",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4221",
+    "answer": "ŞAMPUAN",
+    "score": 34,
+    "clue": "Ssm k bf vs gd cs bf f b cf sb cs gf xs bb nd cg ms hd sb cs gb) (Saçlr nd fd bc vb b fd bd mf nf a ",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4222",
+    "answer": "FIRÇA",
+    "score": 19,
+    "clue": "Vfks v cg a cs b nb v bs fd nd sb jd mb c x mb hb h gb vs x cd c g mb bd ms gs mf fc vd gb vf ) ( FI",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4223",
+    "answer": "TIRNAK",
+    "score": 31,
+    "clue": "Ksn js db nd ( Tırbnk ms g bd nb ms hd vd g ) Cule\" Pdms ns db jd gb vs vb hb f hs k h ms n cf ds b ",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4224",
+    "answer": "FİŞ",
+    "score": 31,
+    "clue": "Psiz f a bd bd xf nf md v n cd j cx cs s hb hs v fs v fd js d cg nd cf df gd f nb n cg bs ) ClUE= \"\"",
+    "flags": [
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4225",
+    "answer": "PRİZ",
+    "score": 0,
+    "clue": "Flsi js gb gd nd bf cs m f g cf cb k jd b sf s fs k vs fb a h k ds v x ds bd bs bf m jd hd bd jd c c",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4226",
+    "answer": "AMPUL",
+    "score": 7,
+    "clue": "Işk v jd h f mb b cd cs b mf vg x c cv k cf gd )\" Ampğll bs db db nf ) \" Clue=\" Aöuıpln fd sb bf v v",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4227",
+    "answer": "LAMBA",
+    "score": 4,
+    "clue": "Ampo m as g cs gb vd j f vb fd fg mb c cs hd cf g gf ms h j cf nf bd a cd fb ds mb hd ds vd ds bs df",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4228",
+    "answer": "ANAHTAR",
+    "score": 0,
+    "clue": "Kylo f cf f c df md d fs df a cb vf) (Anatnd gs nb j db ns f ms v x c bs bd h vd c cf ns v cf js hd ",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4229",
+    "answer": "KİLİT",
+    "score": 4,
+    "clue": "Agff j b v hd cv k c bf mb cb hd f cf ns) Kİlşi js as g ds k ds j f hd hd gb md cd gb f fs nf vd hb ",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4230",
+    "answer": "ÇEKİÇ",
+    "score": 4,
+    "clue": "Cşvy f a cb f d g js fg bd a b f bf db bs gs cf nd as hs vd mf cf b gf gb m k as bg x bs bs gs bs fb",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4231",
+    "answer": "ÇİVİ",
+    "score": 4,
+    "clue": "Ceka m x x f fb n ms hd vb vs gs bs jd fc k k as h bg m ms md s bg g c bg cd fc vs h hd d cf vd bf g",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4235",
+    "answer": "MATKAP",
+    "score": 0,
+    "clue": "Dsll v k a x) Matkmd nd mb a cg nb cd b vd h n v bs j k x gf cs df f bb fs db md ms mf c d hd vd b n",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS"
+    ]
+  },
+  {
+    "id": "tr_kw_4236",
+    "answer": "TESTERE",
+    "score": 4,
+    "clue": "Odun v f v gd hb cg x h m as) (Tssta g hs cd fs cg ms fb c bf fd hs v bg c n vs )\"Testres nd s bg ) ",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4237",
+    "answer": "BALTA",
+    "score": 0,
+    "clue": "Acs d b m db v xs gb cx db fb ms hb k ms g ns ) BLatS s f nd bf b) = BALtA : 5 hr as vb d g ns",
+    "flags": [
+      "GIBBERISH_SINGLE_CHAR_TOKENS",
+      "CLUE_CONTAINS_ANSWER"
+    ]
+  },
+  {
+    "id": "tr_kw_4238",
+    "answer": "KÜREK",
+    "score": 39,
+    "clue": "Todt hs hs b c hs nb mb g cg fc bc vf mb s vs nb ) kÜREK \"5 hr",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE",
+      "IDEAL_LENGTH_BONUS"
+    ]
+  },
+  {
+    "id": "tr_kw_4239",
+    "answer": "KAZMA",
+    "score": 34,
+    "clue": "Tope ms h cd bs sf vs a bs cs fd md hd nd v hb fd bd fd ms x bs cd vs hd ) KAAMKA a fb nb nb mb j ) ",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4241",
+    "answer": "SÜPÜRGE",
+    "score": 31,
+    "clue": "Erfk b ms vb vd vb x bs as fb g md ) SUürğe (7 js nb vd bs ns gf cd vs b b jd cs hs cg vd) SÜrpger =",
+    "flags": [
+      "OVERLY_LONG_CLUE",
+      "LOW_VOWEL_RATIO",
+      "LOW_BIGRAM_SCORE"
+    ]
+  },
+  {
+    "id": "tr_kw_4771",
+    "answer": "PERDE",
+    "score": 36,
+    "clue": "Evin pencerden ışığı güneşi gece gözükmeyi vs vs sarnak vs kesmek çeken jaluzi tül vs olan kumaş kal",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4785",
+    "answer": "YEMEK",
+    "score": 24,
+    "clue": "Aş tencere tabakta vs veya restoran vb de sunum karın doyuran vs mide beslenen lokanta şey lüpletile",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4799",
+    "answer": "KAYA",
+    "score": 24,
+    "clue": "Kocaman çok ağır dağdan filan düşüp koca taş kütleleri kayaç sert devasa vob blok sert ve paramparça",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4801",
+    "answer": "KUM",
+    "score": 24,
+    "clue": "Camında maddesi kumsal çöl yapı betonu falan ufacık minicik falan elek incecik silikon sapsarı beyaz",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4802",
+    "answer": "AHŞAP",
+    "score": 24,
+    "clue": "Ağaç tahta marangoz dolabı bina kerestesinin evlerin eskie vs yapı vs parke filan vs organığı odunda",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4803",
+    "answer": "CAM",
+    "score": 24,
+    "clue": "Kırılgandır ayna veya pencerelerde vb bardakda ve vs silisten ısıl fırınla yap şeffaf saydam vs kola",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4804",
+    "answer": "KUMAŞ",
+    "score": 36,
+    "clue": "Pantalon ceket veya koltuk örtüsü fırfır ipek keten yada vb ipliği tığla vb endüstri tezhagında vs v",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4805",
+    "answer": "DEMİR",
+    "score": 36,
+    "clue": "Ağır paslanan falan sert inşatt beton direkler binen esnemeyen güçlü ray larda giden ağır metal sağl",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4807",
+    "answer": "ALTIN",
+    "score": 24,
+    "clue": "Kuyumcuların sarı vs göz alan gramlık ve tam falan yüzük çeyreği düğünde takısı çok değerli ons paha",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4809",
+    "answer": "YÜN",
+    "score": 24,
+    "clue": "Koyun teke keçi vs kıllarından tıraşlanan filan çırpılıp çorap vs kazak ve battaniye soğığa karşı yü",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4811",
+    "answer": "KAĞIT",
+    "score": 36,
+    "clue": "Ağaç selulozun vs ezlerek vs hamurnun rulo sayfasına ders için çizim roman vs karton kese vb yqaprak",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4812",
+    "answer": "PLASTİK",
+    "score": 36,
+    "clue": "Petrol filn fason oyuncak ucuza sanayi üretmeli doğada çok yüzyıl kalann zor eriyen pet şişe filan v",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4813",
+    "answer": "NAYLON",
+    "score": 24,
+    "clue": "Plastik cinsi çanta ince vb şemsiye çok şeffaf filan yağmuru poşet torba ince yapay ucuaz filan eriy",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4821",
+    "answer": "TUĞLA",
+    "score": 39,
+    "clue": "Evin kırmızı vs delili pişen ateşte dikilip vb duvar dizilen harçla bir üstlük kiremit yanına bina v",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE"
+    ]
+  },
+  {
+    "id": "tr_kw_4822",
+    "answer": "KİREMİT",
+    "score": 36,
+    "clue": "Evin bacası çatısında yağmura karşı örtü kızıl vb killi fırınd pisen dalgaı ve filn vs kavislei dizl",
+    "flags": [
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE",
+      "TOKEN_REPETITION"
+    ]
+  },
+  {
+    "id": "tr_kw_4823",
+    "answer": "HARÇ",
+    "score": 39,
+    "clue": "Tuğla veya betonu birbi ile ustadarın cıvık vb vs kovada karma yapım inşayt çimenyo vbg suyu kumu ke",
+    "flags": [
+      "CLUE_CONTAINS_ANSWER",
+      "CLUE_SPAM_LONG",
+      "OVERLY_LONG_CLUE"
+    ]
+  }
+]

@@ -1,73 +1,95 @@
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect, useRef, useState, useCallback } from 'react';
 import {
     View,
     Text,
     TouchableOpacity,
     StyleSheet,
     Animated,
+    ScrollView,
+    Dimensions,
+    LayoutAnimation,
+    Platform,
+    UIManager,
 } from 'react-native';
-import { LinearGradient } from 'expo-linear-gradient';
 import { Ionicons } from '@expo/vector-icons';
 import { Entry } from '../cengel/types';
 import { useUIProfile, useTheme } from '../theme/ThemeContext';
 import { useSpeech } from '../hooks/useSpeech';
 
-interface ClueBarProps {
-    entry: Entry | null;
-    /** Whether both directions exist at the active cell */
-    canToggle: boolean;
-    onToggle: () => void;
+// Enable LayoutAnimation on Android
+if (Platform.OS === 'android' && UIManager.setLayoutAnimationEnabledExperimental) {
+    UIManager.setLayoutAnimationEnabledExperimental(true);
 }
 
-export default function ClueBar({ entry, canToggle, onToggle }: ClueBarProps) {
+const { height: SCREEN_H } = Dimensions.get('window');
+const MAX_EXPANDED_HEIGHT = Math.round(SCREEN_H * 0.30);
+
+interface ClueBarProps {
+    entry: Entry | null;
+    canToggle: boolean;
+    onToggle: () => void;
+    onClose?: () => void;
+}
+
+export default function ClueBar({ entry, canToggle, onToggle, onClose }: ClueBarProps) {
     const ui = useUIProfile();
     const t = useTheme();
     const gp = ui.gameplay;
     const { speak, stop, isSpeaking } = useSpeech();
 
-    // ── Animations ──
+    const [expanded, setExpanded] = useState(false);
+    const [needsExpand, setNeedsExpand] = useState(false);
+
+    // Animations
     const fadeAnim = useRef(new Animated.Value(1)).current;
     const ttsScale = useRef(new Animated.Value(1)).current;
 
-    // Fade-in when clue changes
+    // Collapse when clue changes
     useEffect(() => {
+        setExpanded(false);
+        setNeedsExpand(false);
         fadeAnim.setValue(0);
         Animated.timing(fadeAnim, {
             toValue: 1,
-            duration: 200,
+            duration: 180,
             useNativeDriver: true,
         }).start();
     }, [entry?.id]);
 
-    // Stop speaking if the active clue changes
+    // Stop TTS when clue changes
     useEffect(() => {
         stop();
     }, [entry?.id, stop]);
 
-    // TTS button press animation
     const handleTTSPressIn = () => {
-        Animated.spring(ttsScale, {
-            toValue: 0.9,
-            useNativeDriver: true,
-        }).start();
+        Animated.spring(ttsScale, { toValue: 0.88, useNativeDriver: true }).start();
     };
     const handleTTSPressOut = () => {
-        Animated.spring(ttsScale, {
-            toValue: 1,
-            friction: 4,
-            tension: 200,
-            useNativeDriver: true,
-        }).start();
+        Animated.spring(ttsScale, { toValue: 1, friction: 4, tension: 200, useNativeDriver: true }).start();
     };
 
+    const toggleExpand = useCallback(() => {
+        LayoutAnimation.configureNext(LayoutAnimation.Presets.easeInEaseOut);
+        setExpanded((e) => !e);
+    }, []);
+
+    const onTextLayout = useCallback((e: any) => {
+        const lines = e.nativeEvent.lines?.length ?? 0;
+        if (lines > 2) {
+            setNeedsExpand(true);
+        }
+    }, []);
+
+    const isDark = t.id === 'black';
+
+    // ── Empty state ──
     if (!entry) {
         return (
-            <View style={[styles.heroCard, {
-                minHeight: gp.clueBarMinHeight,
-                backgroundColor: t.surface,
-                borderColor: t.border + '40',
+            <View style={[styles.card, styles.cardEmpty, {
+                backgroundColor: isDark ? 'rgba(15,17,30,0.92)' : 'rgba(255,255,255,0.95)',
+                borderColor: isDark ? 'rgba(255,255,255,0.06)' : 'rgba(0,0,0,0.06)',
             }]}>
-                <Text style={[styles.placeholder, { fontSize: 16, color: t.textMuted }]}>
+                <Text style={[styles.placeholder, { color: isDark ? 'rgba(255,255,255,0.3)' : t.textMuted }]}>
                     Bir hücreye dokun
                 </Text>
             </View>
@@ -75,148 +97,205 @@ export default function ClueBar({ entry, canToggle, onToggle }: ClueBarProps) {
     }
 
     const dirLabel = entry.direction === 'across' ? 'Yatay' : 'Dikey';
-    const dirIcon = entry.direction === 'across' ? 'arrow-forward' : 'arrow-down';
-    const ttsSize = Math.max(38, ui.minTouchTarget * 0.8);
-    const isDark = t.id === 'black';
+    const dirArrow = entry.direction === 'across' ? '→' : '↓';
+    const iconBtnSize = 34;
 
     return (
-        <Animated.View style={[styles.heroWrapper, { opacity: fadeAnim }]}>
-            <LinearGradient
-                colors={
-                    isDark
-                        ? ['rgba(30,30,50,0.95)', 'rgba(20,20,40,0.98)'] as readonly [string, string]
-                        : ['rgba(255,255,255,0.97)', 'rgba(248,246,252,0.97)'] as readonly [string, string]
-                }
-                start={{ x: 0, y: 0 }}
-                end={{ x: 1, y: 1 }}
-                style={[styles.heroCard, {
-                    minHeight: Math.max(80, gp.clueBarMinHeight + 20),
-                    borderColor: isDark ? 'rgba(255,255,255,0.08)' : 'rgba(0,0,0,0.06)',
-                    shadowColor: isDark ? t.primary : '#000',
-                }]}
-            >
-                {/* Row: Badge + Question + TTS */}
+        <Animated.View style={[styles.wrapper, { opacity: fadeAnim }]}>
+            <View style={[styles.card, {
+                backgroundColor: isDark ? 'rgba(15,17,30,0.92)' : 'rgba(255,255,255,0.96)',
+                borderColor: isDark ? 'rgba(255,255,255,0.08)' : 'rgba(0,0,0,0.06)',
+                shadowColor: isDark ? '#6366F1' : '#000',
+            }]}>
+                {/* ── Top Row: Pill + Icons ── */}
                 <View style={styles.topRow}>
-                    {/* Direction badge — small, secondary */}
-                    <View style={[styles.badge, {
-                        backgroundColor: isDark ? t.primary + '20' : t.primarySoft,
+                    {/* Direction pill */}
+                    <View style={[styles.pill, {
+                        backgroundColor: isDark ? 'rgba(99,102,241,0.15)' : 'rgba(99,102,241,0.10)',
                     }]}>
-                        <Ionicons name={dirIcon} size={11} color={t.primary} />
-                        <Text style={[styles.badgeText, { color: t.primary }]}>
+                        <Text style={styles.pillArrow}>{dirArrow}</Text>
+                        <Text style={[styles.pillText, { color: '#818CF8' }]}>
                             {dirLabel} · {entry.length}
                         </Text>
                     </View>
 
-                    {/* Spacer */}
                     <View style={{ flex: 1 }} />
 
-                    {/* TTS Glass Button */}
+                    {/* TTS button */}
                     <TouchableOpacity
                         activeOpacity={1}
                         onPressIn={handleTTSPressIn}
                         onPressOut={handleTTSPressOut}
                         onPress={() => isSpeaking ? stop() : speak(entry.clueText)}
-                        hitSlop={{ top: 10, bottom: 10, left: 10, right: 10 }}
+                        hitSlop={{ top: 8, bottom: 8, left: 8, right: 4 }}
                         accessibilityLabel="Soruyu sesli oku"
-                        accessibilityRole="button"
                     >
-                        <Animated.View style={[
-                            styles.ttsBtn,
-                            {
-                                width: ttsSize,
-                                height: ttsSize,
-                                borderRadius: ttsSize / 2,
-                                backgroundColor: isSpeaking
-                                    ? t.primary
-                                    : isDark ? 'rgba(255,255,255,0.08)' : 'rgba(0,0,0,0.04)',
-                                borderColor: isSpeaking
-                                    ? t.primary
-                                    : isDark ? 'rgba(255,255,255,0.12)' : 'rgba(0,0,0,0.08)',
-                                transform: [{ scale: ttsScale }],
-                                ...(isSpeaking ? {
-                                    shadowColor: t.primary,
-                                    shadowOffset: { width: 0, height: 0 },
-                                    shadowOpacity: 0.4,
-                                    shadowRadius: 8,
-                                } : {}),
-                            },
-                        ]}>
+                        <Animated.View style={[styles.iconBtn, {
+                            width: iconBtnSize,
+                            height: iconBtnSize,
+                            borderRadius: iconBtnSize / 2,
+                            backgroundColor: isSpeaking
+                                ? '#818CF8'
+                                : isDark ? 'rgba(255,255,255,0.07)' : 'rgba(0,0,0,0.04)',
+                            borderColor: isSpeaking
+                                ? '#818CF8'
+                                : isDark ? 'rgba(255,255,255,0.10)' : 'rgba(0,0,0,0.06)',
+                            transform: [{ scale: ttsScale }],
+                        }]}>
                             <Ionicons
-                                name={isSpeaking ? "volume-high" : "volume-medium"}
-                                size={18}
-                                color={isSpeaking ? '#FFF' : isDark ? 'rgba(255,255,255,0.7)' : t.primary}
+                                name={isSpeaking ? 'volume-high' : 'volume-medium-outline'}
+                                size={16}
+                                color={isSpeaking ? '#FFF' : isDark ? 'rgba(255,255,255,0.6)' : '#818CF8'}
                             />
                         </Animated.View>
                     </TouchableOpacity>
+
+                    {/* Close button */}
+                    {onClose && (
+                        <TouchableOpacity
+                            onPress={onClose}
+                            hitSlop={{ top: 8, bottom: 8, left: 4, right: 8 }}
+                            accessibilityLabel="Kapat"
+                            style={[styles.iconBtn, {
+                                width: iconBtnSize,
+                                height: iconBtnSize,
+                                borderRadius: iconBtnSize / 2,
+                                backgroundColor: isDark ? 'rgba(255,255,255,0.07)' : 'rgba(0,0,0,0.04)',
+                                borderColor: isDark ? 'rgba(255,255,255,0.10)' : 'rgba(0,0,0,0.06)',
+                                marginLeft: 6,
+                            }]}
+                        >
+                            <Ionicons name="close" size={15} color={isDark ? 'rgba(255,255,255,0.5)' : t.textSecondary} />
+                        </TouchableOpacity>
+                    )}
                 </View>
 
-                {/* Hero Question Text */}
-                <Text
-                    style={[styles.clueText, {
-                        fontSize: entry.clueText.length <= 25 ? 24 : entry.clueText.length <= 50 ? 22 : 20,
-                        lineHeight: entry.clueText.length <= 25 ? 32 : entry.clueText.length <= 50 ? 30 : 28,
-                        color: isDark ? '#F0EEF5' : '#1A1A2E',
-                    }]}
-                    numberOfLines={3}
-                    adjustsFontSizeToFit
-                    minimumFontScale={0.6}
-                    maxFontSizeMultiplier={1.4}
-                    accessibilityRole="text"
-                >
-                    {entry.clueText}
-                </Text>
-            </LinearGradient>
+                {/* ── Clue Text ── */}
+                {expanded ? (
+                    <TouchableOpacity activeOpacity={0.8} onPress={toggleExpand}>
+                        <ScrollView
+                            style={{ maxHeight: MAX_EXPANDED_HEIGHT }}
+                            showsVerticalScrollIndicator={false}
+                            bounces={false}
+                        >
+                            <Text style={[styles.clueText, {
+                                color: isDark ? '#EEEDF5' : '#1A1A2E',
+                            }]}>
+                                {entry.clueText}
+                            </Text>
+                        </ScrollView>
+                        <View style={styles.collapseHint}>
+                            <Ionicons name="chevron-up" size={14} color={isDark ? 'rgba(255,255,255,0.3)' : 'rgba(0,0,0,0.25)'} />
+                        </View>
+                    </TouchableOpacity>
+                ) : (
+                    <TouchableOpacity
+                        activeOpacity={needsExpand ? 0.7 : 1}
+                        onPress={needsExpand ? toggleExpand : undefined}
+                        disabled={!needsExpand}
+                    >
+                        <Text
+                            style={[styles.clueText, {
+                                color: isDark ? '#EEEDF5' : '#1A1A2E',
+                            }]}
+                            numberOfLines={2}
+                            onTextLayout={onTextLayout}
+                        >
+                            {entry.clueText}
+                        </Text>
+                        {needsExpand && (
+                            <View style={styles.expandHint}>
+                                <Text style={[styles.expandText, { color: '#818CF8' }]}>Daha fazla</Text>
+                                <Ionicons name="chevron-down" size={12} color="#818CF8" />
+                            </View>
+                        )}
+                    </TouchableOpacity>
+                )}
+            </View>
         </Animated.View>
     );
 }
 
 const styles = StyleSheet.create({
-    heroWrapper: {
-        marginHorizontal: 10,
-        marginBottom: 6,
+    wrapper: {
+        width: '100%',
+        alignSelf: 'stretch',
+        paddingHorizontal: 6,
+        marginBottom: 4,
+        marginTop: 4,
     },
-    heroCard: {
-        borderRadius: 18,
+    card: {
+        borderRadius: 16,
         borderWidth: 1,
-        paddingHorizontal: 18,
-        paddingTop: 12,
-        paddingBottom: 16,
-        shadowOffset: { width: 0, height: 4 },
-        shadowOpacity: 0.10,
-        shadowRadius: 12,
-        elevation: 5,
+        paddingHorizontal: 14,
+        paddingTop: 10,
+        paddingBottom: 12,
+        shadowOffset: { width: 0, height: 3 },
+        shadowOpacity: 0.08,
+        shadowRadius: 10,
+        elevation: 4,
     },
+    cardEmpty: {
+        justifyContent: 'center',
+        alignItems: 'center',
+        minHeight: 56,
+    },
+    placeholder: {
+        fontSize: 14,
+        fontWeight: '500',
+        fontStyle: 'italic',
+    },
+    // ── Top row ──
     topRow: {
         flexDirection: 'row',
         alignItems: 'center',
         marginBottom: 8,
     },
-    placeholder: {
-        fontStyle: 'italic',
-        flex: 1,
-        textAlign: 'center',
-        paddingVertical: 12,
-    },
-    badge: {
+    // ── Direction pill ──
+    pill: {
         flexDirection: 'row',
         alignItems: 'center',
-        paddingHorizontal: 8,
-        paddingVertical: 4,
-        borderRadius: 8,
-        gap: 3,
+        paddingHorizontal: 10,
+        paddingVertical: 5,
+        borderRadius: 10,
+        gap: 4,
     },
-    badgeText: {
+    pillArrow: {
+        fontSize: 13,
+        fontWeight: '800',
+        color: '#818CF8',
+    },
+    pillText: {
         fontSize: 12,
         fontWeight: '700',
-        letterSpacing: 0.3,
+        letterSpacing: 0.2,
     },
-    clueText: {
-        fontWeight: '800',
-        letterSpacing: -0.2,
-    },
-    ttsBtn: {
+    // ── Icon buttons ──
+    iconBtn: {
         justifyContent: 'center',
         alignItems: 'center',
         borderWidth: 1,
+    },
+    // ── Clue text ──
+    clueText: {
+        fontSize: 19,
+        fontWeight: '700',
+        lineHeight: 26,
+        letterSpacing: -0.1,
+    },
+    // ── Expand / Collapse hints ──
+    expandHint: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        gap: 3,
+        marginTop: 4,
+    },
+    expandText: {
+        fontSize: 12,
+        fontWeight: '600',
+    },
+    collapseHint: {
+        alignItems: 'center',
+        marginTop: 4,
     },
 });

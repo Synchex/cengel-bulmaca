@@ -2,8 +2,9 @@
 /**
  * Crossword Chapter Generator
  * 
- * Reads the word pool from questions_db.json and generates 40 chapters
+ * Reads the word pool from questions_db.json and generates 200 chapters
  * of valid crossword puzzles in the Çengel (Scandinavian) format.
+ * Chapters 1-5 are FROZEN and read from the existing generated.ts.
  * 
  * Output: src/cengel/puzzles/generated.ts
  * 
@@ -40,63 +41,92 @@ function shuffle(arr, rng) {
 }
 
 // ═══════════════════════════════════════════════════════════════
-// Chapter Specs
+// Chapter Specs — 200 total levels
 // ═══════════════════════════════════════════════════════════════
 const CHAPTER_SPECS = [];
 
-// Chapters 1-5: 6×6, 4-5 words, easy
-for (let i = 1; i <= 5; i++) {
-    CHAPTER_SPECS.push({
-        id: i, gridSize: 6, minWords: 4, maxWords: 5,
-        difficulty: 'easy', minLen: 3, maxLen: 5,
-        title: ['Başlangıç', 'İlk Adım', 'Harfler', 'Kelime Bahçesi', 'Kolay Tur'][i - 1],
-    });
+// Large pool of unique Turkish level titles
+const TITLE_POOL = [
+    'Başlangıç', 'İlk Adım', 'Harfler', 'Kelime Bahçesi', 'Kolay Tur',
+    'Keşif', 'Nefes', 'Güneş', 'Dalga', 'Adım',
+    'Yeni Ufuk', 'Cesaret', 'Aydınlık', 'Kıvılcım', 'Pusula',
+    'Yıldız', 'Deniz Feneri', 'Rüzgar Gülü', 'Atlas', 'Meridyen',
+    'Kaşif', 'Çınar', 'Güneş Batımı', 'Fırtına Sonrası', 'Şafak',
+    'Özgürlük', 'Ufuk', 'Sabah Yıldızı', 'Deniz Kabuğu', 'Köprü',
+    'Zihin Jimnastiği', 'Meydan Okuma', 'Bilgi Küpü', 'Ustalık', 'Labirent',
+    'Kalem Ucu', 'Sözcük Avı', 'Zeka Oyunu', 'Çapraz Düşün', 'Kelime Ustası',
+    'Derin Sular', 'Fırtına', 'Zirve Yolu', 'Ufuk Çizgisi', 'Büyük Tur',
+    'Bilgi Hazinesi', 'Kristal', 'Sınav Günü', 'Çelik İrade', 'Kahraman',
+    'Mozaik', 'Gökkuşağı', 'Akıl Oyunu', 'Efsane', 'Zorlu Macera',
+    'Son Sınav', 'Büyük Final', 'Şampiyon', 'Elmas Lig', 'Dünya Kupası',
+    'Efsane Zirve', 'Altın Kapı', 'Gizli Hazine', 'Yıldız Avcısı', 'Güçlü Eller',
+    'Derin Kökleri', 'Demir Yürek', 'Ateş Kıvılcımı', 'Taş ve Rüzgar', 'Dağ Kartalı',
+    'Su Altı', 'Köpük Sesi', 'Mavi Uçurum', 'Mercan Bahçesi', 'Dalgalar Ötesi',
+    'Sarp Yol', 'Granit Zihin', 'Kaya Parçası', 'Şimşek Hızı', 'Ejderha Yolu',
+    'Ateş Nefesi', 'Kanatlar', 'Pençe', 'Olimpos Zirvesi', 'İlahi Güç',
+    'Sonsuzluk', 'Büyük Zafer', 'Kaderin Sesi', 'Ölümsüz An', 'Son Efsane',
+    'Yolculuk', 'Dönüm Noktası', 'Işık Hızı', 'Keşif Yolu', 'Basamak',
+    'Zeka Harmanı', 'Sis Perdesi', 'Altın Çağ', 'Kayıp Şehir', 'Bilge',
+    'Zirvede', 'Derya', 'Fener', 'Yaprak Dökümü', 'Yükselen',
+    'Dalga Kıran', 'Çelik Pençe', 'Ejderha', 'Rüya', 'Bozkır',
+    'Kale Burcu', 'Tılsım', 'Gizemli Orman', 'Ay Işığı', 'Deniz Yıldızı',
+    'Okyanus', 'Volkan', 'Amber', 'Zümrüt', 'Safir',
+    'Yakut', 'Elmas', 'İnci', 'Mercan', 'Akik',
+    'Turkuaz', 'Kehribar', 'Opal', 'Ametist', 'Gümüş Ay',
+    'Altın Güneş', 'Bronz Çağ', 'Demir Çağ', 'Tunç Devri', 'Çelik Aslan',
+    'Kuzey Yıldızı', 'Güney Rüzgarı', 'Doğu Kapısı', 'Batı Ufku', 'Kutup Işığı',
+    'Nehir Deltası', 'Vadi Geçidi', 'Doruk Noktası', 'Tepe Yolu', 'Göl Kıyısı',
+    'Orman Yolu', 'Çöl Fırtınası', 'Kar Tanesi', 'Buzul Çağı', 'Lav Akışı',
+    'Rüzgar Oku', 'Yıldırım', 'Gök Gürültüsü', 'Şimşek Çakması', 'Bulut Atlası',
+    'Peri Bacası', 'Peribacası', 'Kapadokya', 'Pamukkale', 'Efes',
+    'Truva', 'Aspendos', 'Nemrut', 'Göbeklitepe', 'Hattuşa',
+    'Sümela', 'Ani Harabeleri', 'Myra', 'Perge', 'Afrodisias',
+    'Didim', 'Bergama', 'Aizanoi', 'Sagalassos', 'Xanthos',
+    'Letoon', 'Patara', 'Olympos', 'Termessos', 'Zeugma',
+    'Kommagene', 'Karkamış', 'Alacahöyük', 'Çatalhöyük', 'Kültepe',
+    'Gordion', 'Sardis', 'Milet', 'Priene', 'Teos',
+    'Klazomenai', 'Phokaia', 'Smyrna', 'Assos', 'İda Dağı',
+];
+
+// Helper: get title for chapter id
+function getTitle(id) {
+    return TITLE_POOL[(id - 1) % TITLE_POOL.length];
 }
-// Chapters 6-10: 7×7, 5-7 words, easy
-for (let i = 6; i <= 10; i++) {
-    CHAPTER_SPECS.push({
-        id: i, gridSize: 7, minWords: 5, maxWords: 7,
-        difficulty: 'easy', minLen: 3, maxLen: 6,
-        title: ['Keşif', 'Nefes', 'Güneş', 'Dalga', 'Adım'][i - 6],
-    });
-}
-// Chapters 11-20: 9×9, 8-12 words, medium
-const medTitles = ['Zihin Jimnastiği', 'Meydan Okuma', 'Bilgi Küpü', 'Ustalık', 'Labirent',
-    'Kalem Ucu', 'Sözcük Avı', 'Zeka Oyunu', 'Çapraz Düşün', 'Kelime Ustası'];
-for (let i = 11; i <= 20; i++) {
-    CHAPTER_SPECS.push({
-        id: i, gridSize: 9, minWords: 8, maxWords: 12,
-        difficulty: 'medium', minLen: 3, maxLen: 7,
-        title: medTitles[i - 11],
-    });
-}
-// Chapters 21-30: 11×11, 12-18 words, medium
-const med2Titles = ['Derin Sular', 'Fırtına', 'Zirve Yolu', 'Ufuk Çizgisi', 'Büyük Tur',
-    'Bilgi Hazinesi', 'Kristal', 'Sınav Günü', 'Çelik İrade', 'Kahraman'];
-for (let i = 21; i <= 30; i++) {
-    CHAPTER_SPECS.push({
-        id: i, gridSize: 11, minWords: 12, maxWords: 18,
-        difficulty: 'medium', minLen: 3, maxLen: 8,
-        title: med2Titles[i - 21],
-    });
-}
-// Chapters 31-35: 13×13, 18-24 words, hard
-const hardTitles = ['Dev Meydan', 'Akıl Oyunu', 'Efsane', 'Zorlu Macera', 'Son Sınav'];
-for (let i = 31; i <= 35; i++) {
-    CHAPTER_SPECS.push({
-        id: i, gridSize: 13, minWords: 18, maxWords: 24,
-        difficulty: 'hard', minLen: 3, maxLen: 9,
-        title: hardTitles[i - 31],
-    });
-}
-// Chapters 36-40: 15×15, 20-30 words, hard
-const hard2Titles = ['Büyük Final', 'Şampiyon', 'Elmas Lig', 'Dünya Kupası', 'Efsane Zirve'];
-for (let i = 36; i <= 40; i++) {
-    CHAPTER_SPECS.push({
-        id: i, gridSize: 15, minWords: 20, maxWords: 30,
-        difficulty: 'hard', minLen: 3, maxLen: 10,
-        title: hard2Titles[i - 36],
-    });
+
+// ── Tier definitions: smooth difficulty scaling ──
+const TIERS = [
+    // { from, to, gridSize, minWords, maxWords, difficulty, minLen, maxLen }
+    { from: 1, to: 5, gridSize: 6, minWords: 4, maxWords: 5, difficulty: 'easy', minLen: 3, maxLen: 5 },   // FROZEN
+    { from: 6, to: 10, gridSize: 6, minWords: 5, maxWords: 6, difficulty: 'easy', minLen: 3, maxLen: 5 },
+    { from: 11, to: 15, gridSize: 7, minWords: 5, maxWords: 7, difficulty: 'easy', minLen: 3, maxLen: 6 },
+    { from: 16, to: 20, gridSize: 7, minWords: 6, maxWords: 7, difficulty: 'easy', minLen: 3, maxLen: 6 },
+    { from: 21, to: 25, gridSize: 8, minWords: 7, maxWords: 8, difficulty: 'easy', minLen: 3, maxLen: 6 },
+    { from: 26, to: 30, gridSize: 8, minWords: 7, maxWords: 9, difficulty: 'medium', minLen: 3, maxLen: 7 },
+    { from: 31, to: 35, gridSize: 9, minWords: 8, maxWords: 10, difficulty: 'medium', minLen: 3, maxLen: 7 },
+    { from: 36, to: 40, gridSize: 9, minWords: 9, maxWords: 11, difficulty: 'medium', minLen: 3, maxLen: 7 },
+    { from: 41, to: 50, gridSize: 9, minWords: 10, maxWords: 12, difficulty: 'medium', minLen: 3, maxLen: 7 },
+    { from: 51, to: 60, gridSize: 10, minWords: 10, maxWords: 13, difficulty: 'medium', minLen: 3, maxLen: 8 },
+    { from: 61, to: 80, gridSize: 11, minWords: 12, maxWords: 16, difficulty: 'medium', minLen: 3, maxLen: 8 },
+    { from: 81, to: 100, gridSize: 11, minWords: 13, maxWords: 18, difficulty: 'medium', minLen: 3, maxLen: 9 },
+    { from: 101, to: 120, gridSize: 12, minWords: 15, maxWords: 20, difficulty: 'hard', minLen: 3, maxLen: 9 },
+    { from: 121, to: 150, gridSize: 13, minWords: 18, maxWords: 24, difficulty: 'hard', minLen: 3, maxLen: 10 },
+    { from: 151, to: 180, gridSize: 14, minWords: 20, maxWords: 26, difficulty: 'hard', minLen: 3, maxLen: 10 },
+    { from: 181, to: 200, gridSize: 15, minWords: 22, maxWords: 30, difficulty: 'hard', minLen: 3, maxLen: 11 },
+];
+
+for (const tier of TIERS) {
+    for (let i = tier.from; i <= tier.to; i++) {
+        CHAPTER_SPECS.push({
+            id: i,
+            gridSize: tier.gridSize,
+            minWords: tier.minWords,
+            maxWords: tier.maxWords,
+            difficulty: tier.difficulty,
+            minLen: tier.minLen,
+            maxLen: tier.maxLen,
+            title: getTitle(i),
+        });
+    }
 }
 
 // ═══════════════════════════════════════════════════════════════
@@ -353,9 +383,11 @@ function generatePuzzle(spec, globalUsedWords, seed) {
     const placedPlacements = [];
 
     // Filter word pool by length and difficulty
+    // Max word length must fit in grid (need 1 cell for clue)
+    const effectiveMaxLen = Math.min(spec.maxLen, size - 1);
     let pool = wordPool
         .map((w, i) => ({ ...w, idx: i }))
-        .filter(w => w.length >= spec.minLen && w.length <= spec.maxLen)
+        .filter(w => w.length >= spec.minLen && w.length <= effectiveMaxLen)
         .filter(w => !globalUsedWords.has(w.answer));
 
     if (spec.difficulty === 'easy') {
@@ -463,16 +495,98 @@ function generatePuzzle(spec, globalUsedWords, seed) {
 }
 
 // ═══════════════════════════════════════════════════════════════
+// Read Frozen Chapters (1-5) from Existing File
+// ═══════════════════════════════════════════════════════════════
+const FROZEN_IDS = new Set([1, 2, 3, 4, 5]);
+
+function readFrozenChapters() {
+    const outPath = path.resolve(__dirname, '..', 'src', 'cengel', 'puzzles', 'generated.ts');
+    if (!fs.existsSync(outPath)) return [];
+    const content = fs.readFileSync(outPath, 'utf8');
+    const frozen = [];
+
+    // Parse each frozen chapter
+    const puzzleRegex = /export const (ch\d+): PuzzleSpec = \{([\s\S]*?)\};/g;
+    const placementRegex = /\{ clueRow: (\d+), clueCol: (\d+), direction: '(across|down)', clue: '((?:[^'\\]|\\.)*)' , answer: '([A-ZÇĞİÖŞÜ]+)' \}/g;
+    const sizeRegex = /rows: (\d+),\s*cols: (\d+)/;
+    const diffRegex = /difficulty: '(\w+)'/;
+    const titleRegex = /title: '([^']*)'/;
+
+    let match;
+    while ((match = puzzleRegex.exec(content)) !== null) {
+        const specName = match[1];
+        const chNum = parseInt(specName.replace('ch', ''));
+        if (!FROZEN_IDS.has(chNum)) continue;
+
+        const specBody = match[0];
+        const sizeMatch = sizeRegex.exec(specBody);
+        const diffMatch = diffRegex.exec(specBody);
+        const titleMatch = titleRegex.exec(specBody);
+        if (!sizeMatch) continue;
+
+        const placements = [];
+        // More flexible regex for placements
+        const plRe = /\{\s*clueRow:\s*(\d+),\s*clueCol:\s*(\d+),\s*direction:\s*'(across|down)',\s*clue:\s*'((?:[^'\\]|\\.)*)',\s*answer:\s*'([A-ZÇĞİÖŞÜ]+)'\s*\}/g;
+        let pm;
+        while ((pm = plRe.exec(specBody)) !== null) {
+            placements.push({
+                clueRow: parseInt(pm[1]),
+                clueCol: parseInt(pm[2]),
+                direction: pm[3],
+                clue: pm[4].replace(/\\'/g, "'"),
+                answer: pm[5],
+            });
+        }
+
+        frozen.push({
+            id: specName,
+            title: titleMatch ? titleMatch[1] : `Chapter ${chNum}`,
+            gridSize: parseInt(sizeMatch[1]),
+            difficulty: diffMatch ? diffMatch[1] : 'easy',
+            placements,
+        });
+    }
+
+    frozen.sort((a, b) => {
+        const na = parseInt(a.id.replace('ch', ''));
+        const nb = parseInt(b.id.replace('ch', ''));
+        return na - nb;
+    });
+
+    console.log(`  🧊 Read ${frozen.length} frozen chapters from existing file.`);
+    return frozen;
+}
+
+// ═══════════════════════════════════════════════════════════════
 // Generate All Chapters
 // ═══════════════════════════════════════════════════════════════
 function generateAll() {
-    const globalUsedWords = new Set();
+    let globalUsedWords = new Set();
     const results = [];
 
+    // Read frozen chapters
+    const frozenChapters = readFrozenChapters();
+    for (const fc of frozenChapters) {
+        results.push(fc);
+        for (const p of fc.placements) {
+            globalUsedWords.add(p.answer);
+        }
+        console.log(`  🧊 Chapter ${fc.id} "${fc.title}": ${fc.placements.length} words (FROZEN)`);
+    }
+
+    // Generate remaining chapters
     for (const spec of CHAPTER_SPECS) {
+        if (FROZEN_IDS.has(spec.id)) continue; // skip frozen
+
+        // Reset used words every 20 chapters to allow word reuse
+        if ((spec.id - 1) % 20 === 0 && spec.id > 5) {
+            console.log(`  🔄 Resetting used word pool at chapter ${spec.id}`);
+            globalUsedWords = new Set();
+        }
+
         let puzzle = null;
         let retries = 0;
-        const maxRetries = 50;
+        const maxRetries = 100;
 
         while (!puzzle && retries < maxRetries) {
             const seed = spec.id * 1000 + retries * 7 + 42;
@@ -485,10 +599,9 @@ function generateAll() {
             results.push(puzzle);
         } else {
             console.error(`  ❌ Chapter ${spec.id} FAILED after ${maxRetries} retries!`);
-            // Generate a minimal fallback
-            // Relax: allow globally used words
+            // Fallback: allow globally used words
             const fallbackUsed = new Set();
-            for (let f = 0; f < 50; f++) {
+            for (let f = 0; f < 100; f++) {
                 const seed = spec.id * 2000 + f * 13 + 99;
                 puzzle = generatePuzzle(spec, fallbackUsed, seed);
                 if (puzzle) {
@@ -544,28 +657,57 @@ function generateOutput(chapters) {
     lines.push(`];`);
     lines.push(``);
 
-    // Chapter groupings
-    lines.push(`export const chapterGroups = [`);
-
-    // Group into chapters of ~5-6 puzzles
-    // Actually each "chapter" spec IS a single puzzle.
-    // The user wants 40 chapters. In the existing system, a "chapter" groups puzzles.
-    // The user said "40 chapters" and each chapter has one puzzle (one grid).
-    // So each chapter = 1 puzzle.
-    // Group them into logical groups for the UI.
-    const groups = [
-        { ids: chapters.slice(0, 5).map(c => c.id), title: 'Başlangıç', subtitle: 'İlk adımlarını at' },
-        { ids: chapters.slice(5, 10).map(c => c.id), title: 'Keşif', subtitle: 'Yeni kelimeler keşfet' },
-        { ids: chapters.slice(10, 15).map(c => c.id), title: 'Gelişim', subtitle: 'Seviyeni yükselt' },
-        { ids: chapters.slice(15, 20).map(c => c.id), title: 'Ustalaşma', subtitle: 'Gerçek bir usta ol' },
-        { ids: chapters.slice(20, 25).map(c => c.id), title: 'Meydan Okuma', subtitle: 'Büyük bulmacalara hazır mısın?' },
-        { ids: chapters.slice(25, 30).map(c => c.id), title: 'Zirve', subtitle: 'İleri seviye zorluk' },
-        { ids: chapters.slice(30, 35).map(c => c.id), title: 'Elit', subtitle: 'Sadece en iyiler için' },
-        { ids: chapters.slice(35, 40).map(c => c.id), title: 'Efsane', subtitle: 'En büyük bulmacalar' },
+    // Chapter groupings — every 5 levels = 1 world
+    const WORLD_NAMES = [
+        { title: 'Başlangıç', subtitle: 'İlk adımlarını at' },
+        { title: 'Keşif', subtitle: 'Yeni kelimeler keşfet' },
+        { title: 'Gelişim', subtitle: 'Seviyeni yükselt' },
+        { title: 'Ustalaşma', subtitle: 'Gerçek bir usta ol' },
+        { title: 'Meydan Okuma', subtitle: 'Büyük bulmacalara hazır mısın?' },
+        { title: 'Zirve', subtitle: 'İleri seviye zorluk' },
+        { title: 'Elit', subtitle: 'Sadece en iyiler için' },
+        { title: 'Efsane', subtitle: 'En büyük bulmacalar' },
+        { title: 'Yeni Dünya', subtitle: 'Keşfedilmemiş topraklar' },
+        { title: 'Altın Çağ', subtitle: 'Altın değerinde kelimeler' },
+        { title: 'Gümüş Ay', subtitle: 'Ay ışığında bulmacalar' },
+        { title: 'Bronz Devri', subtitle: 'Dayanıklılığını göster' },
+        { title: 'Demir İrade', subtitle: 'Vazgeçme!' },
+        { title: 'Kristal Kale', subtitle: 'Kırılmaz zihin' },
+        { title: 'Yakut Yolu', subtitle: 'Kırmızı zorluk' },
+        { title: 'Zümrüt Vadi', subtitle: 'Yeşil zeka' },
+        { title: 'Safir Denizi', subtitle: 'Derin mavi bulmacalar' },
+        { title: 'Elmas Lig', subtitle: 'En değerli bulmacalar' },
+        { title: 'Ametist', subtitle: 'Gizemli zorluklar' },
+        { title: 'Opal Tepesi', subtitle: 'Rengarenk kelimeler' },
+        { title: 'Turkuaz', subtitle: 'Anadolu hazinesi' },
+        { title: 'Kehribar', subtitle: 'Zamana meydan oku' },
+        { title: 'Kutup Yıldızı', subtitle: 'Yolunu bul' },
+        { title: 'Güney Rüzgarı', subtitle: 'Sıcak zorluklar' },
+        { title: 'Doğu Kapısı', subtitle: 'Kadim bilgelik' },
+        { title: 'Batı Ufku', subtitle: 'Ufukları aş' },
+        { title: 'Volkan', subtitle: 'Patlayan zorlar' },
+        { title: 'Okyanus', subtitle: 'Derinliklere dal' },
+        { title: 'Göbeklitepe', subtitle: 'Tarihin başlangıcı' },
+        { title: 'Çatalhöyük', subtitle: 'Uygarlığın şafağı' },
+        { title: 'Truva', subtitle: 'Destansı zorluklar' },
+        { title: 'Efes', subtitle: 'Antik bilgelik' },
+        { title: 'Kapadokya', subtitle: 'Peri bacaları' },
+        { title: 'Nemrut', subtitle: 'Tanrılar dağı' },
+        { title: 'Pamukkale', subtitle: 'Beyaz cennet' },
+        { title: 'Aspendos', subtitle: 'Görkemli sahne' },
+        { title: 'Pergamon', subtitle: 'Bilginin tapınağı' },
+        { title: 'Olimpos', subtitle: 'Zirvede ateş' },
+        { title: 'Zeugma', subtitle: 'Mozaik ustası' },
+        { title: 'Efsanevi Son', subtitle: 'Son büyük meydan okuma' },
     ];
 
-    for (const g of groups) {
-        lines.push(`    { title: '${g.title}', subtitle: '${g.subtitle}', puzzleIds: [${g.ids.map(id => `'${id}'`).join(', ')}] },`);
+    lines.push(`export const chapterGroups = [`);
+    const numGroups = Math.ceil(chapters.length / 5);
+    for (let g = 0; g < numGroups; g++) {
+        const slice = chapters.slice(g * 5, (g + 1) * 5);
+        const ids = slice.map(c => c.id);
+        const world = WORLD_NAMES[g % WORLD_NAMES.length];
+        lines.push(`    { title: '${world.title}', subtitle: '${world.subtitle}', puzzleIds: [${ids.map(id => `'${id}'`).join(', ')}] },`);
     }
     lines.push(`];`);
     lines.push(``);
