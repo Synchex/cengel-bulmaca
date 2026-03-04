@@ -524,7 +524,7 @@ export default function HomeScreen() {
                   delayLongPress={2000}
                 >
                   <Ionicons name="wallet" size={13} color="#FFD700" />
-                  <Text style={s.coinPillText}>{IS_DEV ? '∞' : coins}</Text>
+                  <Text style={s.coinPillText}>{coins}</Text>
                 </TouchableOpacity>
                 <View style={{ flexDirection: 'row', gap: 8 }}>
                   <TouchableOpacity

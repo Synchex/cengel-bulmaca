@@ -47,7 +47,7 @@ export default function LevelPath() {
             if (!unlocked) {
                 Alert.alert(
                     'Kilitli 🔒',
-                    'Kilidi açmak için önce önceki seviyeyi tamamla.'
+                    'Bu bölüm kilitli. Önce önceki bölümü tamamla.'
                 );
                 return;
             }

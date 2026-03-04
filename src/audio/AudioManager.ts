@@ -1,14 +1,15 @@
 /**
  * AudioManager — Premium SFX engine.
  *
- * • Preloads all sounds once, reuses Audio.Sound instances.
+ * • Uses expo-audio (replaces deprecated expo-av).
+ * • Preloads all sounds once, reuses AudioPlayer instances.
  * • Per-sound volume tuning in the 0.18–0.42 range.
  * • Key press throttle (max 1 per 70ms) to prevent stacking.
  * • Synchronized haptic feedback (subtle, optional).
  * • Respects useSettingsStore sound/music toggles.
  */
 
-import { Audio } from 'expo-av';
+import { createAudioPlayer, setAudioModeAsync, AudioPlayer } from 'expo-audio';
 import * as Haptics from 'expo-haptics';
 import { useSettingsStore } from '../store/useSettingsStore';
 
@@ -60,8 +61,8 @@ const MUSIC_SOURCE = require('../../assets/sounds/bg_music.wav');
 //  Singleton AudioManager
 // ──────────────────────────────────
 class AudioManager {
-    private sfxSounds: Partial<Record<SfxName, Audio.Sound>> = {};
-    private bgMusic: Audio.Sound | null = null;
+    private sfxPlayers: Partial<Record<SfxName, AudioPlayer>> = {};
+    private bgMusic: AudioPlayer | null = null;
     private isPreloaded = false;
     private isMusicPlaying = false;
     private lastPlayTime: Partial<Record<SfxName, number>> = {};
@@ -71,33 +72,27 @@ class AudioManager {
         if (this.isPreloaded) return;
 
         try {
-            await Audio.setAudioModeAsync({
-                playsInSilentModeIOS: true,
-                staysActiveInBackground: false,
-                shouldDuckAndroid: true,
+            await setAudioModeAsync({
+                playsInSilentMode: true,
+                shouldPlayInBackground: false,
             });
 
             const sfxNames = Object.keys(SFX_SOURCES) as SfxName[];
-            await Promise.all(
-                sfxNames.map(async (name) => {
-                    try {
-                        const { sound } = await Audio.Sound.createAsync(
-                            SFX_SOURCES[name],
-                            { shouldPlay: false, volume: SFX_VOLUMES[name] ?? 0.25 },
-                        );
-                        this.sfxSounds[name] = sound;
-                    } catch (e) {
-                        console.warn(`[AudioManager] Failed to preload "${name}":`, e);
-                    }
-                }),
-            );
+            for (const name of sfxNames) {
+                try {
+                    const player = createAudioPlayer(SFX_SOURCES[name]);
+                    player.volume = SFX_VOLUMES[name] ?? 0.25;
+                    this.sfxPlayers[name] = player;
+                } catch (e) {
+                    console.warn(`[AudioManager] Failed to preload "${name}":`, e);
+                }
+            }
 
             try {
-                const { sound } = await Audio.Sound.createAsync(
-                    MUSIC_SOURCE,
-                    { shouldPlay: false, isLooping: true, volume: 0.2 },
-                );
-                this.bgMusic = sound;
+                const musicPlayer = createAudioPlayer(MUSIC_SOURCE);
+                musicPlayer.volume = 0.2;
+                musicPlayer.loop = true;
+                this.bgMusic = musicPlayer;
             } catch (e) {
                 console.warn('[AudioManager] Failed to preload music:', e);
             }
@@ -112,16 +107,14 @@ class AudioManager {
     async unloadSounds(): Promise<void> {
         await this.stopMusic();
 
-        const names = Object.keys(this.sfxSounds) as SfxName[];
-        await Promise.all(
-            names.map(async (name) => {
-                try { await this.sfxSounds[name]?.unloadAsync(); } catch (_) { }
-            }),
-        );
+        const names = Object.keys(this.sfxPlayers) as SfxName[];
+        for (const name of names) {
+            try { this.sfxPlayers[name]?.remove(); } catch (_) { }
+        }
 
-        try { await this.bgMusic?.unloadAsync(); } catch (_) { }
+        try { this.bgMusic?.remove(); } catch (_) { }
 
-        this.sfxSounds = {};
+        this.sfxPlayers = {};
         this.bgMusic = null;
         this.isPreloaded = false;
         this.isMusicPlaying = false;
@@ -134,8 +127,8 @@ class AudioManager {
         const musicEnabled = useSettingsStore.getState().music;
         if (!musicEnabled || !this.bgMusic || this.isMusicPlaying) return;
         try {
-            await this.bgMusic.setPositionAsync(0);
-            await this.bgMusic.playAsync();
+            await this.bgMusic.seekTo(0);
+            this.bgMusic.play();
             this.isMusicPlaying = true;
         } catch (e) {
             console.warn('[AudioManager] playMusic error:', e);
@@ -145,7 +138,7 @@ class AudioManager {
     async stopMusic(): Promise<void> {
         if (!this.bgMusic || !this.isMusicPlaying) return;
         try {
-            await this.bgMusic.stopAsync();
+            this.bgMusic.pause();
             this.isMusicPlaying = false;
         } catch (e) {
             console.warn('[AudioManager] stopMusic error:', e);
@@ -177,11 +170,11 @@ class AudioManager {
         }
 
         // Play sound
-        const sound = this.sfxSounds[name];
-        if (sound) {
+        const player = this.sfxPlayers[name];
+        if (player) {
             try {
-                await sound.setPositionAsync(0);
-                await sound.playAsync();
+                await player.seekTo(0);
+                player.play();
             } catch (e) {
                 console.warn(`[AudioManager] playSfx "${name}" error:`, e);
             }

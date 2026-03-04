@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="assets/icon.png" width="120" height="120" alt="Turkish Crossword Logo">
-  <h1>Turkish Crossword (Zibilyoner)</h1>
+  <img src="assets/icon.png" width="120" height="120" alt="Bilgeç Logo">
+  <h1>Bilgeç</h1>
   <p><strong>A highly polished, premium Turkish crossword puzzle game built with Expo and React Native.</strong></p>
   
   <p>
@@ -44,8 +44,8 @@ Make sure you have [Node.js](https://nodejs.org/) installed along with the Expo 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Synchex/turkish-crossword.git
-   cd turkish-crossword
+   git clone https://github.com/Synchex/bilgec.git
+   cd bilgec
    ```
 
 2. Install dependencies:

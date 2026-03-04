@@ -23,8 +23,7 @@ export default function DeveloperPanel({ visible, onClose }: Props) {
     if (!IS_DEV) return null;
 
     const coins = useEconomyStore((s) => s.coins);
-    const devAddCoins = useEconomyStore((s) => s.devAddCoins);
-    const devResetCoins = useEconomyStore((s) => s.devResetCoins);
+    const addCoins = useEconomyStore((s) => s.addCoins);
     const progress = useProgressStore((s) => s.progress);
 
     const handleUnlockAll = () => {
@@ -92,7 +91,7 @@ export default function DeveloperPanel({ visible, onClose }: Props) {
                             emoji="🪙"
                             color="#00B894"
                             onPress={() => {
-                                devAddCoins(1000);
+                                addCoins(1000);
                                 Alert.alert('Dev', '+1000 coin eklendi');
                             }}
                         />
@@ -101,7 +100,7 @@ export default function DeveloperPanel({ visible, onClose }: Props) {
                             emoji="🔄"
                             color="#FDCB6E"
                             onPress={() => {
-                                devResetCoins();
+                                useEconomyStore.setState({ coins: 50 });
                                 Alert.alert('Dev', 'Coin 50\'ye sıfırlandı');
                             }}
                         />

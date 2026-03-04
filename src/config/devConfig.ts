@@ -14,9 +14,10 @@ export const IS_DEV =
 
 /**
  * When true, all levels are playable without lock restrictions.
- * Production behaviour is unchanged.
+ * Set to false for production-ready behaviour. Use Developer Panel
+ * "Unlock All" button when testing level access during development.
  */
-export const DEV_UNLOCK_ALL: boolean = true;
+export const DEV_UNLOCK_ALL: boolean = false;
 
 if (DEV_UNLOCK_ALL) {
     console.log('DEV MODE: All levels unlocked');
@@ -24,3 +25,4 @@ if (DEV_UNLOCK_ALL) {
 
 /** Unlimited coin balance shown in DEV mode */
 export const DEV_COIN_BALANCE = 999_999;
+

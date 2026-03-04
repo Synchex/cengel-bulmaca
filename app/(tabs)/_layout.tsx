@@ -63,6 +63,7 @@ export default function TabsLayout() {
                 name="questions"
                 options={{
                     title: 'Sorular',
+                    href: null,
                     tabBarIcon: ({ color }) => (
                         <TabBarIcon name="list-outline" color={color} />
                     ),
@@ -81,6 +82,7 @@ export default function TabsLayout() {
                 name="generator"
                 options={{
                     title: 'Generator',
+                    href: null,
                     tabBarIcon: ({ color }) => (
                         <TabBarIcon name="flask-outline" color={color} />
                     ),

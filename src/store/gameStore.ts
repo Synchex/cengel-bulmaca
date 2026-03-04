@@ -1,7 +1,6 @@
 import { create } from 'zustand';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { LevelProgress } from '../game/types';
-import { DEV_UNLOCK_ALL } from '../config/devConfig';
 import { levels } from '../levels/levels';
 
 const STORAGE_KEY = '@crossword_progress';
@@ -24,7 +23,7 @@ interface ProgressStore {
 const defaultProgress = (count: number): LevelProgress[] =>
   Array.from({ length: count }, (_, i) => ({
     levelId: i + 1,
-    unlocked: DEV_UNLOCK_ALL || i === 0,
+    unlocked: i === 0,
     completed: false,
     status: 'not_started' as const,
     updatedAt: 0,
@@ -57,7 +56,7 @@ export const useProgressStore = create<ProgressStore>((set, get) => ({
           for (let i = migrated.length; i < totalLevels; i++) {
             migrated.push({
               levelId: i + 1,
-              unlocked: DEV_UNLOCK_ALL,
+              unlocked: false,
               completed: false,
               status: 'not_started',
               updatedAt: 0,
@@ -68,10 +67,14 @@ export const useProgressStore = create<ProgressStore>((set, get) => ({
             });
           }
         }
-        const final = DEV_UNLOCK_ALL
-          ? migrated.map((p: LevelProgress) => ({ ...p, unlocked: true }))
-          : migrated;
-        set({ progress: final, loaded: true });
+        // Recalculate unlock state from actual completions.
+        // Level 1 is always unlocked. Each subsequent level unlocks
+        // only if the previous level is completed.
+        const corrected = migrated.map((p: LevelProgress, i: number) => ({
+          ...p,
+          unlocked: i === 0 || (migrated[i - 1]?.completed ?? false),
+        }));
+        set({ progress: corrected, loaded: true });
       } else {
         set({ loaded: true });
       }

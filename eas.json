@@ -1,0 +1,30 @@
+{
+    "cli": {
+        "version": ">= 16.0.0",
+        "appVersionSource": "remote"
+    },
+    "build": {
+        "development": {
+            "developmentClient": true,
+            "distribution": "internal"
+        },
+        "preview": {
+            "distribution": "internal",
+            "ios": {
+                "simulator": true
+            }
+        },
+        "production": {
+            "autoIncrement": true
+        }
+    },
+    "submit": {
+        "production": {
+            "ios": {
+                "appleId": "hulagubuyuklu@gmail.com",
+                "ascAppId": "6759925968",
+                "appleTeamId": "4XV36W43WB"
+            }
+        }
+    }
+}

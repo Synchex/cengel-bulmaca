@@ -1,4 +1,4 @@
-// ── Çengel Bulmaca Core Types ──
+// ── Bilgeç Core Types ──
 
 // ── Cell Types (static puzzle definition) ──
 export interface BlockCell {

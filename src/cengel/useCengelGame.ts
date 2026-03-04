@@ -8,7 +8,7 @@ import {
 import { initPuzzle, findEntriesForCell, findEntryForCellInDirection, getCellIndexInEntry, calculateStars } from './gridUtils';
 
 /**
- * Core game hook for Çengel Bulmaca.
+ * Core game hook for Bilgeç.
  * Manages cell selection, direction toggling, letter input, word checking,
  * hints, and completion state.
  */

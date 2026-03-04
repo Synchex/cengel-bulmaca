@@ -11,6 +11,7 @@ import {
     Linking,
     Platform,
 } from 'react-native';
+import * as WebBrowser from 'expo-web-browser';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { useTheme, useUIProfile } from '../../src/theme/ThemeContext';
@@ -210,7 +211,17 @@ export default function SettingsScreen() {
                         icon="shield-checkmark-outline"
                         title="Gizlilik Politikası"
                         theme={t}
-                        onPress={() => Linking.openURL('https://example.com/privacy')}
+                        onPress={() => WebBrowser.openBrowserAsync('https://synchex.github.io/bilgec-legal/#privacy')}
+                        right={
+                            <Ionicons name="chevron-forward" size={18} color={t.textMuted} />
+                        }
+                    />
+                    <SettingsRow
+                        icon="help-circle-outline"
+                        title="Destek"
+                        subtitle="Yardım ve SSS"
+                        theme={t}
+                        onPress={() => WebBrowser.openBrowserAsync('https://synchex.github.io/bilgec-legal/#support')}
                         right={
                             <Ionicons name="chevron-forward" size={18} color={t.textMuted} />
                         }
@@ -219,7 +230,7 @@ export default function SettingsScreen() {
                         icon="chatbubble-outline"
                         title="Geri Bildirim Gönder"
                         theme={t}
-                        onPress={() => Linking.openURL('mailto:feedback@example.com')}
+                        onPress={() => Linking.openURL('mailto:mehmetcanbuyuklu@gmail.com?subject=Bilge%C3%A7%20Geri%20Bildirim')}
                         right={
                             <Ionicons name="chevron-forward" size={18} color={t.textMuted} />
                         }
