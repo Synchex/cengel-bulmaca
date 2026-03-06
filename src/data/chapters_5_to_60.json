@@ -900,12 +900,6 @@
           "difficulty_score": 18
         },
         {
-          "answer": "CAYID",
-          "clue": "Sözlük anlamı: 'cayid' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
           "answer": "KENAR",
           "clue": "Kıyı",
           "difficulty_tag": "easy",
@@ -918,16 +912,22 @@
           "difficulty_score": 20
         },
         {
-          "answer": "LAONU",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
+          "answer": "ARASTA",
+          "clue": "Çarşılarda aynı esnafın bulunduğu bölüm",
           "difficulty_tag": "easy",
-          "difficulty_score": 20
+          "difficulty_score": 45
         },
         {
-          "answer": "NEFID",
-          "clue": "Sözlük anlamı: 'nefid' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
+          "answer": "ANEMIK",
+          "clue": "Kandaki alyuvar sayısı normalin altında olan, cansız, solgun ve kanı az olan kansız halsiz kimse/durum",
           "difficulty_tag": "easy",
-          "difficulty_score": 20
+          "difficulty_score": 38
+        },
+        {
+          "answer": "RÖMORK",
+          "clue": "Traktör veya tır arkasına takılıp, motoru ve direksiyonu olmayan ama o araçla yükün çekildiği tekerlekli araba, bir nevi ek taşıma trene benzer kargo römork aracı",
+          "difficulty_tag": "easy",
+          "difficulty_score": 43
         }
       ]
     },
@@ -935,18 +935,6 @@
       "chapter": 10,
       "target_band": "39-49",
       "items": [
-        {
-          "answer": "BİCAP",
-          "clue": "Sözlük anlamı: 'bi̇cap' (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "PUCAS",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
         {
           "answer": "DOMUZ",
           "clue": "5 harfli Türkçe sözcük",
@@ -956,12 +944,6 @@
         {
           "answer": "SINIF",
           "clue": "Okulda ders yapılan oda, derslik",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "LEGOR",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
           "difficulty_tag": "easy",
           "difficulty_score": 20
         },
@@ -978,26 +960,8 @@
           "difficulty_score": 20
         },
         {
-          "answer": "LUDAS",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "ÖLÜŞE",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
           "answer": "HEKİM",
           "clue": "Doktor",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "IJOÇA",
-          "clue": "Sözlük anlamı: 'ijoça' (Bilinmeyen veya eski Türkçe kökenli kelime)",
           "difficulty_tag": "easy",
           "difficulty_score": 20
         },
@@ -1008,20 +972,8 @@
           "difficulty_score": 20
         },
         {
-          "answer": "FOCOV",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
           "answer": "MİMAR",
           "clue": "Binaların, şehirlerin projelerini çizen tasarımcı plancı",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "BITUB",
-          "clue": "Sözlük anlamı: 'bitub' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
           "difficulty_tag": "easy",
           "difficulty_score": 20
         },
@@ -1092,28 +1044,76 @@
           "difficulty_score": 20
         },
         {
-          "answer": "GIGOK",
-          "clue": "Sözlük anlamı: 'gigok' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "ÖTÖFA",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "FEBOT",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
           "answer": "BASKI",
           "clue": "5 harfli Türkçe sözcük",
           "difficulty_tag": "easy",
           "difficulty_score": 20
+        },
+        {
+          "answer": "UTANÇ",
+          "clue": "Mahcubiyet hissedilen yüz kızartısı durumu",
+          "difficulty_tag": "easy",
+          "difficulty_score": 48
+        },
+        {
+          "answer": "KADER",
+          "clue": "Yazgı, kaçınılmaz olduğuna inanılan ilahi olan alın yazısı olgusu",
+          "difficulty_tag": "easy",
+          "difficulty_score": 41
+        },
+        {
+          "answer": "AKŞAM",
+          "clue": "Güneşin tam battığı ve yemeğin yendiği kararış vakti karanlığı başlangıç",
+          "difficulty_tag": "easy",
+          "difficulty_score": 41
+        },
+        {
+          "answer": "MÜZİK",
+          "clue": "Seslerin uyumlu ve estetik bir araya gelmesiyle oluşan işitsel sanat",
+          "difficulty_tag": "easy",
+          "difficulty_score": 48
+        },
+        {
+          "answer": "BOYUN",
+          "clue": "Başın gövdeye vs oturduğu arka uzuna vs bağlanarak en ince taşıyıcı iskelet kemik yeri bölge (şahdamarı taşıyıcı filan vs",
+          "difficulty_tag": "easy",
+          "difficulty_score": 46
+        },
+        {
+          "answer": "KİBAR",
+          "clue": "Nazik görgülü falan filan vs usta efendi hanım vs (Görgülü diyelim biz)",
+          "difficulty_tag": "easy",
+          "difficulty_score": 41
+        },
+        {
+          "answer": "KÜÇÜK",
+          "clue": "Büyük olmayan, boyutça ufak, minyatür",
+          "difficulty_tag": "easy",
+          "difficulty_score": 47
+        },
+        {
+          "answer": "İÇMEK",
+          "clue": "Şıra suyu kola sıvı süt fincan kahve su filn vs bardağı dudak vs lüpletme mideye indirme lıkır lıkır yutma haraketi midede akış sıvı sıvıyaş durumu / (5 Harf)",
+          "difficulty_tag": "easy",
+          "difficulty_score": 42
+        },
+        {
+          "answer": "YAVAŞ",
+          "clue": "Hızlının zıttı, ağır hareket eden",
+          "difficulty_tag": "easy",
+          "difficulty_score": 44
+        },
+        {
+          "answer": "KORKU",
+          "clue": "Bir tehlike anında duyulan kaygı ve dehşet hissi",
+          "difficulty_tag": "easy",
+          "difficulty_score": 47
+        },
+        {
+          "answer": "BIYIK",
+          "clue": "Dudak ile burun arasında olan pos badem falan bürük ince olan tüy vs yüz erkil traş kıl bölgesi",
+          "difficulty_tag": "easy",
+          "difficulty_score": 42
         }
       ]
     },
@@ -1121,12 +1121,6 @@
       "chapter": 11,
       "target_band": "39-49",
       "items": [
-        {
-          "answer": "YOBON",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
         {
           "answer": "DOĞRU",
           "clue": "Yanlış değil",
@@ -1146,50 +1140,8 @@
           "difficulty_score": 20
         },
         {
-          "answer": "GADIT",
-          "clue": "Sözlük anlamı: 'gadit' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "POVIS",
-          "clue": "Sözlük anlamı: 'povis' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "YALON",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "DEGAC",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
           "answer": "BİBER",
           "clue": "Yeşil veya kırmızı, acı veya tatlı türleri olan sebze",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "MUHÖÇ",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "MARIC",
-          "clue": "Sözlük anlamı: 'maric' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "MİİGI",
-          "clue": "Sözlük anlamı: 'mi̇i̇gi' (Bilinmeyen veya eski Türkçe kökenli kelime)",
           "difficulty_tag": "easy",
           "difficulty_score": 20
         },
@@ -1212,32 +1164,8 @@
           "difficulty_score": 20
         },
         {
-          "answer": "AKİRO",
-          "clue": "Sözlük anlamı: 'aki̇ro' (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
           "answer": "LOKMA",
           "clue": "Kızarmış hamur tatlısı",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "YOFIM",
-          "clue": "Sözlük anlamı: 'yofim' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "İŞUHA",
-          "clue": "Sözlük anlamı: 'i̇şuha' (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "BEYIC",
-          "clue": "Sözlük anlamı: 'beyic' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
           "difficulty_tag": "easy",
           "difficulty_score": 20
         },
@@ -1250,12 +1178,6 @@
         {
           "answer": "DÜZEN",
           "clue": "Bir şeylerin belli kural veya plana uygun, yerli yerinde durma hali, ahenk, nizam",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "ÖRAHÖ",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
           "difficulty_tag": "easy",
           "difficulty_score": 20
         },
@@ -1290,16 +1212,94 @@
           "difficulty_score": 20
         },
         {
-          "answer": "IBIYU",
-          "clue": "Sözlük anlamı: 'ibiyu' (Bilinmeyen veya eski Türkçe kökenli kelime)",
+          "answer": "BEYİN",
+          "clue": "Zeka vb her işlemi kafatasında vücuduma yöneten sinir merkezi kumanda gri yumrulu organ",
           "difficulty_tag": "easy",
-          "difficulty_score": 20
+          "difficulty_score": 42
         },
         {
-          "answer": "ŞÖUÇÜ",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
+          "answer": "ŞİRİN",
+          "clue": "Cana yakın, sevimli (şeker gibi)",
           "difficulty_tag": "easy",
-          "difficulty_score": 20
+          "difficulty_score": 39
+        },
+        {
+          "answer": "HIZLI",
+          "clue": "Yavaş olmayan, süratli uçan giden, çabuk",
+          "difficulty_tag": "easy",
+          "difficulty_score": 43
+        },
+        {
+          "answer": "İNANÇ",
+          "clue": "Kuvvetli bağlanma itikat din veya ilkelere vs bir fikre dogma vs kabul bağı (5)",
+          "difficulty_tag": "easy",
+          "difficulty_score": 46
+        },
+        {
+          "answer": "HAYAL",
+          "clue": "Gerçekte olmayan beynin uykuda uyanık düşlediği kurduğu vizyon",
+          "difficulty_tag": "easy",
+          "difficulty_score": 46
+        },
+        {
+          "answer": "GENİŞ",
+          "clue": "Dar olmayan, çok yer kaplayan, ferah",
+          "difficulty_tag": "easy",
+          "difficulty_score": 42
+        },
+        {
+          "answer": "TABİP",
+          "clue": "Hekim (eski)",
+          "difficulty_tag": "easy",
+          "difficulty_score": 45
+        },
+        {
+          "answer": "BELDE",
+          "clue": "5 harfli Türkçe sözcük",
+          "difficulty_tag": "easy",
+          "difficulty_score": 43
+        },
+        {
+          "answer": "SÜMÜK",
+          "clue": "Sümük, burun boşluklarında ve bronşlardan gelen yapışkan sıvı",
+          "difficulty_tag": "easy",
+          "difficulty_score": 41
+        },
+        {
+          "answer": "ALMAK",
+          "clue": "Bir şeyi elle tutup kendine geçirmek veya parayla satın edinmek",
+          "difficulty_tag": "easy",
+          "difficulty_score": 40
+        },
+        {
+          "answer": "BEŞIK",
+          "clue": "Şifreli ipucu: 'beşik' kelimesinin kökeni, anlamı veya mecaz kullanımı",
+          "difficulty_tag": "easy",
+          "difficulty_score": 39
+        },
+        {
+          "answer": "KABLO",
+          "clue": "İçten sarsın vs dıye elektrik veya internetin içinden metal ve pvc li uzun vs sarmalda geçtiği esnek iletken halatı",
+          "difficulty_tag": "easy",
+          "difficulty_score": 39
+        },
+        {
+          "answer": "CIHET",
+          "clue": "5 harfli Türkçe sözcük",
+          "difficulty_tag": "easy",
+          "difficulty_score": 41
+        },
+        {
+          "answer": "ACELE",
+          "clue": "Telsşa filan ederi acelesiz yavaş dsefl fial çabuk hızlı fiilen vs derhal şyptrma eylemi vs durumu telşi flana a(5 dfbr)",
+          "difficulty_tag": "easy",
+          "difficulty_score": 40
+        },
+        {
+          "answer": "HARAM",
+          "clue": "Din kurallarına göre yapılması kesin yasak olan davranış",
+          "difficulty_tag": "easy",
+          "difficulty_score": 48
         }
       ]
     },
@@ -1338,12 +1338,6 @@
           "difficulty_score": 20
         },
         {
-          "answer": "FUDAG",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
           "answer": "SAYAR",
           "clue": "Sayar bir soyadıdır ve şu anlamlara gelebilir: Abbas Sayar (1923–1999), Türk romancı ve şair Edibe Sayar (1912–1970), Türk siyasetçi Güzin Sayar (1921–2006), Türk köşe yazarı İrfan Sayar (d",
           "difficulty_tag": "easy",
@@ -1374,20 +1368,8 @@
           "difficulty_score": 20
         },
         {
-          "answer": "ADOVI",
-          "clue": "Sözlük anlamı: 'adovi' (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
           "answer": "NOHUT",
           "clue": "Bej renkli, yuvarlakça taneli bir bakliyat",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "PUKOK",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
           "difficulty_tag": "easy",
           "difficulty_score": 20
         },
@@ -1404,12 +1386,6 @@
           "difficulty_score": 20
         },
         {
-          "answer": "GENOC",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
           "answer": "KAVUN",
           "clue": "Sarı kabuklu, hoş kokulu ve tatlı büyük yaz meyvesi",
           "difficulty_tag": "easy",
@@ -1422,44 +1398,8 @@
           "difficulty_score": 20
         },
         {
-          "answer": "YUGEG",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "VÖATÖ",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "MODAR",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
           "answer": "ÖNERI",
           "clue": "Bir sorunu çözmek için sunulan teklif, tavsiye",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "SARIN",
-          "clue": "Sözlük anlamı: 'sarin' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "LAFUT",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
-        },
-        {
-          "answer": "HÜGÜH",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
           "difficulty_tag": "easy",
           "difficulty_score": 20
         },
@@ -1482,10 +1422,70 @@
           "difficulty_score": 20
         },
         {
-          "answer": "GİNOP",
-          "clue": "Sözlük anlamı: 'gi̇nop' (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "easy",
-          "difficulty_score": 20
+          "answer": "ENKAZ",
+          "clue": "5 harfli Türkçe sözcük",
+          "difficulty_tag": "medium",
+          "difficulty_score": 41
+        },
+        {
+          "answer": "GEVEN",
+          "clue": "5 harfli Türkçe sözcük",
+          "difficulty_tag": "medium",
+          "difficulty_score": 43
+        },
+        {
+          "answer": "GONYE",
+          "clue": "5 harfli Türkçe sözcük",
+          "difficulty_tag": "medium",
+          "difficulty_score": 42
+        },
+        {
+          "answer": "SINIR",
+          "clue": "Biyolojik sistemlerde uyartı ileten ağ, veya olaylar karşısında aniden tepkilenen huzursuzluk ve hiddet gerilimi kalkanı",
+          "difficulty_tag": "medium",
+          "difficulty_score": 49
+        },
+        {
+          "answer": "ÇILEK",
+          "clue": "Şifreli ipucu: 'çilek' kelimesinin kökeni, anlamı veya mecaz kullanımı",
+          "difficulty_tag": "medium",
+          "difficulty_score": 40
+        },
+        {
+          "answer": "AHLAK",
+          "clue": "Toplumda iyilik ve vs üzerine kurulmuş vicdani vs kural seti edep etiği (5)",
+          "difficulty_tag": "medium",
+          "difficulty_score": 45
+        },
+        {
+          "answer": "YAZAR",
+          "clue": "Hikaye, roman veya nesir kurgulayan düz yazılı düşünce adamı, müellif",
+          "difficulty_tag": "medium",
+          "difficulty_score": 41
+        },
+        {
+          "answer": "CIĞER",
+          "clue": "Şifreli ipucu: 'ciğer' kelimesinin kökeni, anlamı veya mecaz kullanımı",
+          "difficulty_tag": "medium",
+          "difficulty_score": 42
+        },
+        {
+          "answer": "ZAMAN",
+          "clue": "Geçmiş şimdiki ve gelecek boyutu vakit süre",
+          "difficulty_tag": "medium",
+          "difficulty_score": 47
+        },
+        {
+          "answer": "HAFIF",
+          "clue": "Ağırlığı veya etkisi az olan, taşınması kolay olan",
+          "difficulty_tag": "medium",
+          "difficulty_score": 43
+        },
+        {
+          "answer": "RAKUN",
+          "clue": "Göz çevresi siyah halkalı, geceleri çöpleri çalan minik elli Kuzey Amerika hayvanı",
+          "difficulty_tag": "medium",
+          "difficulty_score": 42
         }
       ]
     },
@@ -2346,8 +2346,8 @@
           "difficulty_score": 28
         },
         {
-          "answer": "COOKİA",
-          "clue": "Cookia, Astraeinae altfamilyasına bağlı bir hayvan cinsidir",
+          "answer": "GABARI",
+          "clue": "Araçların yüklü veya yüksüz uzunluk/genişlik ölçüsü",
           "difficulty_tag": "easy",
           "difficulty_score": 28
         },
@@ -2994,20 +2994,14 @@
           "difficulty_score": 28
         },
         {
-          "answer": "SAMNUR",
-          "clue": "Samur kürk (eski)",
+          "answer": "ÇİTİLİ",
+          "clue": "Çitilenmiş olan",
           "difficulty_tag": "easy",
           "difficulty_score": 28
         },
         {
           "answer": "ENDİŞE",
           "clue": "Kaygı",
-          "difficulty_tag": "easy",
-          "difficulty_score": 28
-        },
-        {
-          "answer": "MABERA",
-          "clue": "Öte yanı, arka tarafı (eski dilde)",
           "difficulty_tag": "easy",
           "difficulty_score": 28
         },
@@ -3160,6 +3154,12 @@
           "clue": "Mumbai (1995 yılına dek Bombay), Hindistan'ın Maharaştra eyaletinin başkenti, Hindistan'ın en büyük ve Dünya'nın dokuzuncu büyük şehridir",
           "difficulty_tag": "easy",
           "difficulty_score": 28
+        },
+        {
+          "answer": "VECIHE",
+          "clue": "Güzel söz, vecize, etkili ve iz bırakan veciz cümle (deyim)",
+          "difficulty_tag": "medium",
+          "difficulty_score": 47
         }
       ]
     },
@@ -3510,8 +3510,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "ÇİĞİN",
-          "clue": "► omuz",
+          "answer": "BUÇUK",
+          "clue": "5 harfli Türkçe sözcük",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -3582,8 +3582,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "FEHİM",
-          "clue": "► anlama",
+          "answer": "KAĞIT",
+          "clue": "Ysad x g vg bc ) KFof vb a cf f ns hs cf nd a ) \" 5 c d a fg ds cs hs cs cs j cb vd hd bd k d bs vd f d vd",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -3600,8 +3600,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "VALÖR",
-          "clue": "► değer",
+          "answer": "CEVİZ",
+          "clue": "Çetin kabuğu kırıldığında insanın beyin kıvrımlarına benzer iç çıkan yemiş, kuru olan",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -3672,8 +3672,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "ÖZDEK",
-          "clue": "► ayniyat",
+          "answer": "BASTA",
+          "clue": "Vasili Mihayloviç Vakulenko (Rusça: Василий Михайлович Вакуленко; d",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -3792,14 +3792,14 @@
           "difficulty_score": 35
         },
         {
-          "answer": "CEZİR",
-          "clue": "► alçalma, met (I) karşıtı",
+          "answer": "TÜREV",
+          "clue": "Matematikte türev, bir fonksiyonun tanımlı olduğu herhangi bir noktada değişim yönünü veya hızını veren temel bir kavramdır",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
         {
-          "answer": "ILGIM",
-          "clue": "► serap",
+          "answer": "KİMYA",
+          "clue": "Maddenin yapısını ve tepkimelerini inceleyen ana bilim",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -3870,8 +3870,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "MUHİK",
-          "clue": "► haklı",
+          "answer": "DAIRE",
+          "clue": "5 harfli Türkçe sözcük",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -3888,14 +3888,14 @@
           "difficulty_score": 35
         },
         {
-          "answer": "LİBAS",
-          "clue": "► giysi",
+          "answer": "TÜVİT",
+          "clue": "Taranmış yünden yapılan, çoğu iki renkte, spor giyecekler yapımında kullanılan kumaş türü",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
         {
-          "answer": "VEFAT",
-          "clue": "► ölüm",
+          "answer": "İZZET",
+          "clue": "Yücelik, ululuk",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -3990,14 +3990,14 @@
           "difficulty_score": 35
         },
         {
-          "answer": "AVŞAR",
-          "clue": "► Afşar",
+          "answer": "BİBER",
+          "clue": "Yeşil veya kırmızı, acı veya tatlı türleri olan sebze",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
         {
-          "answer": "ŞAKUL",
-          "clue": "► çekül",
+          "answer": "ALTIN",
+          "clue": "Kuyumcuların sattığı 24 ayar en değerli alışveriş birimi ve ziynet",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4008,8 +4008,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "MUCUR",
-          "clue": "► mıcır",
+          "answer": "GOTİK",
+          "clue": "Gotik ile şu maddeler kastedilmiş olabilir: Goth Gotik mimari Gotik metal Gotik rock Gotik doom metal Gotik sanat Gotik sanat (heykel) Gotik kurgu (gotik roman, gotik öykü, gotik şiir",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4056,8 +4056,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "HASUT",
-          "clue": "► kıskanç",
+          "answer": "ÇANDI",
+          "clue": "Çivisiz, birbirine geçirilme yöntemine göre kesilmiş hazır kereste",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4080,8 +4080,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "HAVZA",
-          "clue": "► bölge",
+          "answer": "ASABI",
+          "clue": "Çabuk öfkelenen, sinirlerine hakim olamayan kişi",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4104,8 +4104,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "OYNAK",
-          "clue": "► hareketli",
+          "answer": "DOLAP",
+          "clue": "Eşya saklanan kapaklı mobilya",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4218,14 +4218,14 @@
           "difficulty_score": 35
         },
         {
-          "answer": "HÜNSA",
-          "clue": "► erdişi",
+          "answer": "DAVUL",
+          "clue": "Tokmakla çalınan vurmalı çalgı",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
         {
-          "answer": "MERAM",
-          "clue": "► istek",
+          "answer": "KEDER",
+          "clue": "Üzüntü acı tasa veren şey",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4248,8 +4248,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "EMSAL",
-          "clue": "► benzer",
+          "answer": "ALÇAK",
+          "clue": "Tevazu sahibi kişiye eklenen (gönüllü) sıfatı",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4266,14 +4266,14 @@
           "difficulty_score": 35
         },
         {
-          "answer": "IŞIMA",
-          "clue": "► aydınlanma",
+          "answer": "ÖNSÖZ",
+          "clue": "Önsöz ya da ön söz, kitapların giriş kısmına konulan, o eserin konusunu, amacını, işleniş biçimini anlatan yazı, mukaddime",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
         {
-          "answer": "NATÜR",
-          "clue": "► doğa",
+          "answer": "FAZLA",
+          "clue": "Kararında veya ihtiyaç duyulandan aşırı çok olan",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         }
@@ -4314,14 +4314,14 @@
           "difficulty_score": 35
         },
         {
-          "answer": "ÜRÜME",
-          "clue": "► havlama",
+          "answer": "TORUN",
+          "clue": "Torun, herhangi bir kimsenin çocuğunun çocuğu",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
         {
-          "answer": "DEPAR",
-          "clue": "► çıkış",
+          "answer": "ATAŞE",
+          "clue": "Büyükelçiliklerde belirli bir uzmanlık alanında görevli diplomat",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4350,20 +4350,20 @@
           "difficulty_score": 35
         },
         {
-          "answer": "HALİS",
-          "clue": "► saf (II)",
+          "answer": "BETON",
+          "clue": "Ev yapında tula arası ve harç su falan kumu kireci çımentosu falan mikser koca kalıp ve demre sıkla pııtışan çok sağlam taş bina vb çatı yol asfalt vs gri sement ağır sıva filn şantiye hammaddesi kalıpa konaln su ile vb donsuran ağır taş harcı cüruf falan",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
         {
-          "answer": "KIŞIR",
-          "clue": "► kabuk",
+          "answer": "YELEK",
+          "clue": "Ceket altına giyilen, kolu olmayan ve önü kapalı kolsuz gövdelik hırka (takım elbiseli veya soğuk vb)",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
         {
-          "answer": "ÇAKER",
-          "clue": "► köle",
+          "answer": "NAKIŞ",
+          "clue": "İğneyle kumsşta yastıja faln çşkeç mptf dezen işlensi renkşil işlmenelr vs fakan ssnddıği(5 rbfa )",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4374,8 +4374,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "MENUS",
-          "clue": "► öğür",
+          "answer": "HASTA",
+          "clue": "Sağlığını koruyamamış rahatsız",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4386,8 +4386,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "CEHRE",
-          "clue": "► iğ",
+          "answer": "AKİDE",
+          "clue": "İnanç esası veya şeker",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4404,14 +4404,14 @@
           "difficulty_score": 35
         },
         {
-          "answer": "GAZAP",
-          "clue": "► öfke",
+          "answer": "MİMAR",
+          "clue": "Binaların planını ve projelerini çizen kişi",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
         {
-          "answer": "REFAH",
-          "clue": "► gönenç",
+          "answer": "BAYAT",
+          "clue": "Tazelik vasfını yitirmiş, kurumuş veya bozulmaya yüz tutmuş",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4446,20 +4446,20 @@
           "difficulty_score": 35
         },
         {
-          "answer": "SAYRI",
-          "clue": "► hasta",
+          "answer": "SAYAN",
+          "clue": "Sayan, 1966 yılında Fahrettin Sayan tarafından kurulan Unkapanı merkezli bir Türk müzik şirketi",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
         {
-          "answer": "TULUK",
-          "clue": "► tulum",
+          "answer": "İNKAR",
+          "clue": "Yadsıma, reddetme",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
         {
-          "answer": "BAĞIL",
-          "clue": "► bağıntılı",
+          "answer": "NEDEN",
+          "clue": "Sebep, niçin",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         }
@@ -4488,8 +4488,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "GAYYA",
-          "clue": "► kuyusu",
+          "answer": "ŞEKIL",
+          "clue": "Etrafımızdaki çetrefilli cisim objelerinin sınır, dış ve biçimsellik tasviri geometrik olan hali silüeti dış çizgisel görüntü taslak resmiselliği",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4500,14 +4500,14 @@
           "difficulty_score": 35
         },
         {
-          "answer": "HÜCUM",
-          "clue": "► saldırı",
+          "answer": "ISRAR",
+          "clue": "Direterek isteme",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
         {
-          "answer": "ABİYE",
-          "clue": "► gece kıyafeti",
+          "answer": "KALEM",
+          "clue": "Tshtya cd defte db vs cs x fnş fb vbd c ss j ms k bb gf bf md j vs k vd nb f bd xs d fn mb dc vs n md vs k b vb bf k v fs bc v cv bs cs bc cb nb bf m vs d k fs bs hs hd xs d md ms bs h bf js bs vd bs vg vd bs h) (5 fb sd ds v bg h d v as nd as n bf xf b hs db n vf c )",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4530,8 +4530,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "KEREM",
-          "clue": "► soyluluk",
+          "answer": "VİTES",
+          "clue": "Aracın hız gücünü değiştiren dişli sistemi kolu",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4656,8 +4656,8 @@
       "target_band": "55-65",
       "items": [
         {
-          "answer": "HÜKMİ",
-          "clue": "► tüzel",
+          "answer": "HARLI",
+          "clue": "Kuvvetli bir biçimde",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4716,8 +4716,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "RATIP",
-          "clue": "► nemli",
+          "answer": "ÇELME",
+          "clue": "Birini düşünmek için ayağına ayak takma numarası",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4740,8 +4740,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "VASIF",
-          "clue": "► nitelik",
+          "answer": "KAPUT",
+          "clue": "Tepesindeki ocağı vb arabada motorun kapak sacı vs dış teneke vs veya çok kaba kalın asker paltosu vb anlamlı vs giysi koruma zırh kapak kalkan gibi yer örtü bezi",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4788,8 +4788,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "KISKA",
-          "clue": "► arpacık soğanı",
+          "answer": "SAYAR",
+          "clue": "Sayar bir soyadıdır ve şu anlamlara gelebilir: Abbas Sayar (1923–1999), Türk romancı ve şair Edibe Sayar (1912–1970), Türk siyasetçi Güzin Sayar (1921–2006), Türk köşe yazarı İrfan Sayar (d",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4806,8 +4806,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "ÇARKA",
-          "clue": "► çarha",
+          "answer": "PEMBE",
+          "clue": "Açık kırmızı renk",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4824,8 +4824,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "KOLON",
-          "clue": "► sütun",
+          "answer": "AREFE",
+          "clue": "Bayram öncesi gün",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4842,8 +4842,8 @@
       "target_band": "55-65",
       "items": [
         {
-          "answer": "MEMAT",
-          "clue": "► ölüm",
+          "answer": "ALMAK",
+          "clue": "Bir şeyi elle tutup kendine geçirmek veya parayla satın edinmek",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4908,8 +4908,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "İBATE",
-          "clue": "► barındırma",
+          "answer": "MEZAR",
+          "clue": "Kabir",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -4962,14 +4962,14 @@
           "difficulty_score": 35
         },
         {
-          "answer": "KIYGI",
-          "clue": "► gadir",
+          "answer": "MAKAK",
+          "clue": "Hayvanat bahçelerinin yanaklarında besin torbası olan zeki ve en yaygın grup maymunu",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
         {
-          "answer": "İBLİS",
-          "clue": "► şeytan",
+          "answer": "TURNA",
+          "clue": "Halk türkülerinde nazlı nazlı uçtuğu söylenen göçmen bir su kuşu",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -5010,8 +5010,8 @@
           "difficulty_score": 35
         },
         {
-          "answer": "DİREN",
-          "clue": "► dirgen",
+          "answer": "INSAN",
+          "clue": "Düşünebilen varlık olan dünya üzerindeki memeliler türünden (homosapiens)",
           "difficulty_tag": "easy",
           "difficulty_score": 35
         },
@@ -5232,32 +5232,14 @@
           "difficulty_score": 42
         },
         {
-          "answer": "BILICE",
-          "clue": "Sözlük anlamı: 'bilice' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "TEDHİŞ",
           "clue": "Terör, yıldırma",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
         {
-          "answer": "TATICE",
-          "clue": "Sözlük anlamı: 'tatice' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "BİTTER",
           "clue": "Kakao oranı yüksek, acı çikolata",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "YAĞMGI",
-          "clue": "Sözlük anlamı: 'yağmgi' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -5298,20 +5280,14 @@
           "difficulty_score": 43
         },
         {
-          "answer": "ÜFONÖJ",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
+          "answer": "ETALON",
+          "clue": "Ağırlık ve uzunluk ölçüleri için kabul edilmiş yasal ölçü modeli",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
         {
-          "answer": "NAZARİ",
-          "clue": "► kuramsal",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "DESİSE",
-          "clue": "► entrika",
+          "answer": "SEVİNC",
+          "clue": "Gönül ferahlığı, neşelenme durumu",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -5340,14 +5316,8 @@
           "difficulty_score": 43
         },
         {
-          "answer": "TERMİT",
-          "clue": "► akkarınca",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "ETIŞEY",
-          "clue": "Sözlük anlamı: 'etişey' (Bilinmeyen veya eski Türkçe kökenli kelime)",
+          "answer": "ŞİRDEN",
+          "clue": "Geviş getiren hayvanlarda, çiğnenmiş besinin bir kez daha mide sularıyla sindirildiği, dört bölümlü midenin dördüncü bölümü",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -5358,26 +5328,14 @@
           "difficulty_score": 43
         },
         {
-          "answer": "İŞUJUM",
-          "clue": "Sözlük anlamı: 'i̇şujum' (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "KRUTON",
           "clue": "Yağda veya fırında kızartılan küçük küp biçimindeki ekmek parçası",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
         {
-          "answer": "OŞEVEN",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "GABYAR",
-          "clue": "► gabyacı",
+          "answer": "DALGIÇ",
+          "clue": "Şifreli ipucu: 'dalgiç' kelimesinin kökeni, anlamı veya mecaz kullanımı",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -5392,6 +5350,48 @@
           "clue": "Şifreli ipucu: 'basinç' kelimesinin kökeni, anlamı veya mecaz kullanımı",
           "difficulty_tag": "medium",
           "difficulty_score": 43
+        },
+        {
+          "answer": "UYANIK",
+          "clue": "Uyku halinde olmayan veya çıkarlarını iyi koruyan açıkgöz kişi",
+          "difficulty_tag": "medium",
+          "difficulty_score": 57
+        },
+        {
+          "answer": "ARMONI",
+          "clue": "Müzikte seslerin üst üste uyumlu birlikteliği",
+          "difficulty_tag": "medium",
+          "difficulty_score": 61
+        },
+        {
+          "answer": "EMPATI",
+          "clue": "Kendini karşısındakinin yerine koyarak onun duygularını anlayabilme, duygudaşlık",
+          "difficulty_tag": "medium",
+          "difficulty_score": 61
+        },
+        {
+          "answer": "GALERI",
+          "clue": "Sanat eserlerinin veya otomobillerin sergilendiği yer",
+          "difficulty_tag": "medium",
+          "difficulty_score": 62
+        },
+        {
+          "answer": "ÖNEMLI",
+          "clue": "Hem nitelik hem miktar hem de değer açısından göz önünde bulundurulması kesinlikle gereken, atlanmaması mecbur veya asıl sayılan hayat memat değerindeki baş başlı mühim (esaslı yâda gerekli veya kritik kıymetli) eylem hal konumdur o şeydir çok ciddi mesele olan",
+          "difficulty_tag": "medium",
+          "difficulty_score": 65
+        },
+        {
+          "answer": "CEZIRE",
+          "clue": "Dört tarafı suyla çevrili kara parçası, ada",
+          "difficulty_tag": "medium",
+          "difficulty_score": 57
+        },
+        {
+          "answer": "ŞEFKAT",
+          "clue": "Sevecenlik, içten ve yumuşak sevgi",
+          "difficulty_tag": "medium",
+          "difficulty_score": 63
         }
       ]
     },
@@ -5399,12 +5399,6 @@
       "chapter": 34,
       "target_band": "58-68",
       "items": [
-        {
-          "answer": "OYUNKI",
-          "clue": "Sözlük anlamı: 'oyunki' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
         {
           "answer": "İSTİFA",
           "clue": "Ayrılma",
@@ -5448,20 +5442,8 @@
           "difficulty_score": 43
         },
         {
-          "answer": "AĞAÇKI",
-          "clue": "Sözlük anlamı: 'ağaçki' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "TENZİH",
           "clue": "Kusur ve günahlardan temiz olduğunu söyleme",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "GUNECE",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -5478,32 +5460,8 @@
           "difficulty_score": 43
         },
         {
-          "answer": "OSEZUF",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "PASPAL",
           "clue": "Bakımsız, dağınık, pis (kimse, kılık vb.)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "UDEZOL",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "OGEYOP",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "GUNECI",
-          "clue": "Sözlük anlamı: 'guneci' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -5514,32 +5472,14 @@
           "difficulty_score": 43
         },
         {
-          "answer": "AGOBÖG",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "ÇELMEK",
           "clue": "Ayak uzatarak birisini düşürmek",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
         {
-          "answer": "YAĞMCI",
-          "clue": "Sözlük anlamı: 'yağmci' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "TATICI",
-          "clue": "Sözlük anlamı: 'tatici' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "İTİLAF",
-          "clue": "► anlaşma",
+          "answer": "ŞALGAM",
+          "clue": "Mor renkli turplu havucun suyu ile yapılan Adana'nın en meşhur zehirzemberek suyu",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -5550,14 +5490,8 @@
           "difficulty_score": 43
         },
         {
-          "answer": "ÜRYANİ",
-          "clue": "► üryani eriği",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "TOPRCE",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
+          "answer": "AKTRİS",
+          "clue": "Sinema ve sahnede dramatik sahneye hayat katıp şov yapan kadın sanatçı",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -5568,16 +5502,82 @@
           "difficulty_score": 43
         },
         {
-          "answer": "MEYVCI",
-          "clue": "Sözlük anlamı: 'meyvci' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "CUMHUR",
           "clue": "Halk topluluğu",
           "difficulty_tag": "medium",
           "difficulty_score": 43
+        },
+        {
+          "answer": "BALINA",
+          "clue": "Okyanuslarda yaşayan en büyük deniz memelisi hayvan",
+          "difficulty_tag": "medium",
+          "difficulty_score": 65
+        },
+        {
+          "answer": "TEKFİR",
+          "clue": "Tekfir (Arapça: تكفير), İslam hukukunda bir Müslümanın başka bir Müslümanı kafir ilan etmesidir",
+          "difficulty_tag": "medium",
+          "difficulty_score": 66
+        },
+        {
+          "answer": "HARAMI",
+          "clue": "Yol kesip kervan soyan, dağlarda gezerek silah zoruyla eşya gasp eden soyguncu",
+          "difficulty_tag": "medium",
+          "difficulty_score": 63
+        },
+        {
+          "answer": "ATELYE",
+          "clue": "Ressamların, heykeltıraşların veya tamircilerin çalıştığı geniş iş/sanat odası (atölye)",
+          "difficulty_tag": "medium",
+          "difficulty_score": 61
+        },
+        {
+          "answer": "MİYANE",
+          "clue": "Miyane, (Farsça: میانه; Azerice: Miyana / Miyanə), İran'ın Doğu Azerbaycan Eyaleti'nde şehir",
+          "difficulty_tag": "medium",
+          "difficulty_score": 63
+        },
+        {
+          "answer": "MAHÇUP",
+          "clue": "Kusuru nedeniyle sıkılıp utanan, yüzü kızaran yâda utangaç yaradılışlı olan kimse",
+          "difficulty_tag": "medium",
+          "difficulty_score": 59
+        },
+        {
+          "answer": "LEJANT",
+          "clue": "Haritalarda yâda şemalarda, kullanılan işaretlerin, renklerin anlamlarını açıklayan köşedeki bilgi anahtarı",
+          "difficulty_tag": "medium",
+          "difficulty_score": 67
+        },
+        {
+          "answer": "ŞÖHRET",
+          "clue": "Bütün insanlık ve cihan cemiyeti üstüne yapılan büyük tanıtımla sanatta popüleriteyle adını geniş halk tabanınca bilinir yapmış namlanmış ün durumu halinin bütünü makamı ihtirasının da adıdır",
+          "difficulty_tag": "medium",
+          "difficulty_score": 59
+        },
+        {
+          "answer": "ŞÖVALE",
+          "clue": "Tuvalin konduğu sehpa",
+          "difficulty_tag": "medium",
+          "difficulty_score": 65
+        },
+        {
+          "answer": "ZABITA",
+          "clue": "Belediye kolluk görevlisi",
+          "difficulty_tag": "medium",
+          "difficulty_score": 65
+        },
+        {
+          "answer": "OSSANA",
+          "clue": "Ossana, İtalya'nın Trentino-Alto Adige/Südtirol bölgesine bağlı Trento ilinde bulunan bir komündür",
+          "difficulty_tag": "medium",
+          "difficulty_score": 64
+        },
+        {
+          "answer": "TAVŞAN",
+          "clue": "Uzun kulaklı zıpzıp",
+          "difficulty_tag": "medium",
+          "difficulty_score": 58
         }
       ]
     },
@@ -5586,50 +5586,14 @@
       "target_band": "59-69",
       "items": [
         {
-          "answer": "GECECE",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "DIPÇIK",
           "clue": "Şifreli ipucu: 'dipçik' kelimesinin kökeni, anlamı veya mecaz kullanımı",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
         {
-          "answer": "UNEĞİĞ",
-          "clue": "Sözlük anlamı: 'uneği̇ğ' (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "KÖKULI",
-          "clue": "Sözlük anlamı: 'kökuli' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "RUZGKI",
-          "clue": "Sözlük anlamı: 'ruzgki' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "UZOLÖN",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "İNTİFA",
-          "clue": "► asılanma",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "EĞLICI",
-          "clue": "Sözlük anlamı: 'eğlici' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
+          "answer": "SIZICI",
+          "clue": "Ses yolunda oluşan daralma sonucu sürtünerek veya sızarak çıkan (ses); sürekli",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -5664,30 +5628,6 @@
           "difficulty_score": 43
         },
         {
-          "answer": "AĞAÇCI",
-          "clue": "Sözlük anlamı: 'ağaçci' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "OROLUH",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "KIŞICI",
-          "clue": "Sözlük anlamı: 'kişici' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "SULUCE",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "SLOGAN",
           "clue": "Bir düşünceyi kolay hatırlanıp tekrarlanabilir bir biçimde ifade eden kısa, çarpıcı söz",
           "difficulty_tag": "medium",
@@ -5700,26 +5640,14 @@
           "difficulty_score": 43
         },
         {
-          "answer": "İSTENÇ",
-          "clue": "► irade",
+          "answer": "GEÇMİŞ",
+          "clue": "Daha önceden yaşanmış ve geride kalmış zaman mazi",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
         {
-          "answer": "GALEBE",
-          "clue": "► yengi",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "OHUÇEH",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "RUZGCE",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
+          "answer": "İSTİFA",
+          "clue": "Ayrılma",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -5742,28 +5670,100 @@
           "difficulty_score": 43
         },
         {
-          "answer": "ÖŞÖCUY",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
+          "answer": "AKRABA",
+          "clue": "Kan veya evlilik yoluyla birbirine bağlı olan hısımlar",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
         {
-          "answer": "EVİKÜJ",
-          "clue": "Sözlük anlamı: 'evi̇küj' (Bilinmeyen veya eski Türkçe kökenli kelime)",
+          "answer": "LAHLAH",
+          "clue": "Sürekli dedikodu yapan veya boş boş laflayan geveze (argo kelime)",
           "difficulty_tag": "medium",
-          "difficulty_score": 43
+          "difficulty_score": 66
         },
         {
-          "answer": "TAKLİP",
-          "clue": "► döndürme",
+          "answer": "HURAFE",
+          "clue": "Dinde aslında olmayan, asılsız, temelsiz eski inanç ve mit, bâtıl itikat",
           "difficulty_tag": "medium",
-          "difficulty_score": 43
+          "difficulty_score": 65
         },
         {
-          "answer": "YAĞMLI",
-          "clue": "Sözlük anlamı: 'yağmli' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
+          "answer": "ONURLU",
+          "clue": "Kendi özsaygısını kimseye çiğnetmeyen, başkalarına el açıp boyun eğmeyen, haysiyetli ve izzetinefis büyük vakurlu asil kişi",
           "difficulty_tag": "medium",
-          "difficulty_score": 43
+          "difficulty_score": 65
+        },
+        {
+          "answer": "PODZOL",
+          "clue": "Podzol, iğne yapraklı ormanlarla kaplı, soğuk, nemli bölgelerin karakteristik toprağıdır",
+          "difficulty_tag": "medium",
+          "difficulty_score": 61
+        },
+        {
+          "answer": "BASKÜL",
+          "clue": "Ağır yükleri tartmaya yarayan büyük alet",
+          "difficulty_tag": "medium",
+          "difficulty_score": 62
+        },
+        {
+          "answer": "HARİTA",
+          "clue": "Yol rehberi",
+          "difficulty_tag": "medium",
+          "difficulty_score": 67
+        },
+        {
+          "answer": "NAMKÖR",
+          "clue": "Gördüğü iyiliği bilmeyen, vefasız veya iyiliğe kötülükle cevap veren kimse",
+          "difficulty_tag": "medium",
+          "difficulty_score": 62
+        },
+        {
+          "answer": "SIVAMA",
+          "clue": "Kaplama işi",
+          "difficulty_tag": "medium",
+          "difficulty_score": 63
+        },
+        {
+          "answer": "KONSER",
+          "clue": "Müzisyenin sahnede seyircilere canlı sergilediği toplu performans etkinliği",
+          "difficulty_tag": "medium",
+          "difficulty_score": 60
+        },
+        {
+          "answer": "UZANTI",
+          "clue": "Uzantı, nesnelerin herhangi bir yerinden uzamış çıkıntı",
+          "difficulty_tag": "medium",
+          "difficulty_score": 59
+        },
+        {
+          "answer": "CERRAH",
+          "clue": "Ameliyat yapan doktor",
+          "difficulty_tag": "medium",
+          "difficulty_score": 66
+        },
+        {
+          "answer": "HARITA",
+          "clue": "Ülkelerin, denizlerin düzlem üzerine oranlı olarak çizilmiş hali",
+          "difficulty_tag": "medium",
+          "difficulty_score": 60
+        },
+        {
+          "answer": "SİMMAS",
+          "clue": "Simmas, Bizans İmparatorluğu hizmetinde dux olarak görev yapan bir Hun generaliydi",
+          "difficulty_tag": "medium",
+          "difficulty_score": 60
+        },
+        {
+          "answer": "ÇAPKIN",
+          "clue": "Geçici aşklar peşinde koşan kişi",
+          "difficulty_tag": "medium",
+          "difficulty_score": 60
+        },
+        {
+          "answer": "ENERJI",
+          "clue": "Bir cismin veya sistemin iş yapabilme kapasitesi veya dinçlik",
+          "difficulty_tag": "medium",
+          "difficulty_score": 59
         }
       ]
     },
@@ -5778,14 +5778,8 @@
           "difficulty_score": 43
         },
         {
-          "answer": "MUZIGI",
-          "clue": "Sözlük anlamı: 'muzigi' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "MAHCUR",
-          "clue": "► kısıtlı",
+          "answer": "BERLİN",
+          "clue": "Almanya'nın başkenti",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -5796,32 +5790,8 @@
           "difficulty_score": 43
         },
         {
-          "answer": "KARLKI",
-          "clue": "Sözlük anlamı: 'karlki' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "AKIÇÜS",
-          "clue": "Sözlük anlamı: 'akiçüs' (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "TEŞRİK",
           "clue": "Ortak etme",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "KIŞIKI",
-          "clue": "Sözlük anlamı: 'kişiki' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "İDEÇÖB",
-          "clue": "Sözlük anlamı: 'i̇deçöb' (Bilinmeyen veya eski Türkçe kökenli kelime)",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -5850,14 +5820,8 @@
           "difficulty_score": 43
         },
         {
-          "answer": "IVÖYÜŞ",
-          "clue": "Sözlük anlamı: 'ivöyüş' (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "MÜTHİŞ",
-          "clue": "► korkunç",
+          "answer": "ITIRAZ",
+          "clue": "Sunulan yargıyı, haksız ceza iddiasını (kararı) yahut ileri sürülen eylemi kabullenmediğini diklemesine reddederek bozma başvurusu söylemlerini / laflarını veya hakkını yüksek makamca / kurulca direnerek zıtlamasıdır",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -5876,24 +5840,6 @@
         {
           "answer": "DINGIN",
           "clue": "6 harfli Türkçe sözcük",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "SANAKI",
-          "clue": "Sözlük anlamı: 'sanaki' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "UFEJÖC",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "ITÜÇEF",
-          "clue": "Sözlük anlamı: 'itüçef' (Bilinmeyen veya eski Türkçe kökenli kelime)",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -5922,20 +5868,8 @@
           "difficulty_score": 43
         },
         {
-          "answer": "GUNDCI",
-          "clue": "Sözlük anlamı: 'gundci' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "PAGODA",
           "clue": "Çin, Japonya vb. Uzak Doğu ülkelerinde kule biçiminde yapılmış tapınak; stupa",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "RUZGLI",
-          "clue": "Sözlük anlamı: 'ruzgli' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -5950,6 +5884,72 @@
           "clue": "Ağacın sütünden plastğin silginin falan esnek hammaddsüi top filan teker lastk ana ayakkabı vs esnek hammadde doğal yaylı büküleli elastilk dayanıklı su geçir zorluk filan ayakkbı taban siyahı ve ağacın doğal esnek lastik hammaddr bükülmezlik zor vb bitkisel öz sütün lastiği / (6 hf)",
           "difficulty_tag": "medium",
           "difficulty_score": 43
+        },
+        {
+          "answer": "ASAYIŞ",
+          "clue": "Bir yerdeki düzen, güvenlik ve huzur durumu",
+          "difficulty_tag": "medium",
+          "difficulty_score": 63
+        },
+        {
+          "answer": "ALIMLI",
+          "clue": "Görünüşüyle, tavırlarıyla insanların ilgisini ve beğenisini çeken, cazibeli, çekici kadın/nesne",
+          "difficulty_tag": "medium",
+          "difficulty_score": 60
+        },
+        {
+          "answer": "TEBRIK",
+          "clue": "Makam rütbe terfisinden, mühim zafer yenginiden dolayı sevince / yahut hayırlı bayramlardan veya özel düğününe / iyiliğe başarıya kutlayan kişilere methiye sunarak aferin diyerek esenleme şans tebrikine tebriklemedir, onure etme mutluluğunun (vefa paylaşımı) övgüsünün sunuluş dilekçe hali formudur övmesidir kelamı vb adıdır vs",
+          "difficulty_tag": "medium",
+          "difficulty_score": 59
+        },
+        {
+          "answer": "USTURA",
+          "clue": "Erkeklerin veya berberlerin sakal tıraşı için kullandıkları çok keskin bıçak",
+          "difficulty_tag": "medium",
+          "difficulty_score": 60
+        },
+        {
+          "answer": "JAGUAR",
+          "clue": "Güney Amerikanın benekli yapılı aslan kaplan kadar büyük güçlü, seri ve ağaca tırmanan cinsi",
+          "difficulty_tag": "medium",
+          "difficulty_score": 65
+        },
+        {
+          "answer": "DİVANE",
+          "clue": "Deli, çılgın",
+          "difficulty_tag": "medium",
+          "difficulty_score": 60
+        },
+        {
+          "answer": "SENTEZ",
+          "clue": "Birleşim",
+          "difficulty_tag": "medium",
+          "difficulty_score": 67
+        },
+        {
+          "answer": "MAHKUM",
+          "clue": "Mahkeme yargıcı tarafından suçu kanıtlanıp belli bir cezaya (hapse) çarptırılmış, hüküm giymiş suçlu kişi",
+          "difficulty_tag": "medium",
+          "difficulty_score": 67
+        },
+        {
+          "answer": "İSTİRA",
+          "clue": "Satın alma",
+          "difficulty_tag": "medium",
+          "difficulty_score": 64
+        },
+        {
+          "answer": "BATINI",
+          "clue": "Görünmeyen içsel ve manevi dünyanın gerçeğine sırlarına ait olanla veya bunu sır inancı sayan dini islami ekol (Bâtınilik) ekolüne aittir",
+          "difficulty_tag": "medium",
+          "difficulty_score": 64
+        },
+        {
+          "answer": "EFSANA",
+          "clue": "Çok eski zamanlardan dilden dile aktarılan olağanüstü olayları anlatan masal, mit",
+          "difficulty_tag": "medium",
+          "difficulty_score": 64
         }
       ]
     },
@@ -6000,20 +6000,8 @@
           "difficulty_score": 43
         },
         {
-          "answer": "GÖKYKI",
-          "clue": "Sözlük anlamı: 'gökyki' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "ÜRETEÇ",
           "clue": "Herhangi bir mekanik enerjiyi elektrik akımına çeviren aygıt; elektrik üreteci, jeneratör, dinamo",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "SANAGI",
-          "clue": "Sözlük anlamı: 'sanagi' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -6036,12 +6024,6 @@
           "difficulty_score": 43
         },
         {
-          "answer": "İPOĞUC",
-          "clue": "Sözlük anlamı: 'i̇poğuc' (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "ŞUNLAR",
           "clue": "Şu zamirinin çokluk biçimi",
           "difficulty_tag": "medium",
@@ -6056,12 +6038,6 @@
         {
           "answer": "İZAHAT",
           "clue": "Açıklamalar",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "KARLLI",
-          "clue": "Sözlük anlamı: 'karlli' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -6096,20 +6072,8 @@
           "difficulty_score": 43
         },
         {
-          "answer": "TAYYAR",
-          "clue": "Uçan, uçucu (eski)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "UFIGAL",
-          "clue": "Sözlük anlamı: 'ufigal' (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "İGİNİC",
-          "clue": "Sözlük anlamı: 'i̇gi̇ni̇c' (Bilinmeyen veya eski Türkçe kökenli kelime)",
+          "answer": "SOSYAL",
+          "clue": "Toplum hayatın içinde bulunan veya insancıl kalabalık ilişkiler seven cana yakın dışa dönük kişi hali",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -6136,6 +6100,42 @@
           "clue": "Bitkinin yaprak veya köklerini vererek bir hastalığı iyi etmeye çalışmak, tedavi etmek; otalamak",
           "difficulty_tag": "medium",
           "difficulty_score": 43
+        },
+        {
+          "answer": "AKIBET",
+          "clue": "Bir işin veya durumun sonu, netice",
+          "difficulty_tag": "hard",
+          "difficulty_score": 61
+        },
+        {
+          "answer": "FECAAT",
+          "clue": "Çok acıklı, yürekler acısı, çok korkunç ve kötü durum, trajedi",
+          "difficulty_tag": "hard",
+          "difficulty_score": 61
+        },
+        {
+          "answer": "INŞAAT",
+          "clue": "Mimarın planıyla, ustaların ve işçilerin beton/demir örerek büyük yapı, köprü veya apartmanları yükseltme ve yapım eylemi şantiyesi",
+          "difficulty_tag": "hard",
+          "difficulty_score": 67
+        },
+        {
+          "answer": "EMEKLI",
+          "clue": "Belirli bir yaşa ve hizmet gününe ulaşıp çalışma hayatını bitirip maaş alan kimse",
+          "difficulty_tag": "hard",
+          "difficulty_score": 66
+        },
+        {
+          "answer": "ASKILI",
+          "clue": "Omuzdan askısı olan (giysi veya çanta)",
+          "difficulty_tag": "hard",
+          "difficulty_score": 66
+        },
+        {
+          "answer": "HÜLASA",
+          "clue": "Özet, sonuç",
+          "difficulty_tag": "hard",
+          "difficulty_score": 60
         }
       ]
     },
@@ -6144,20 +6144,14 @@
       "target_band": "61-71",
       "items": [
         {
-          "answer": "EŞÜYEŞ",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "LAKTAZ",
           "clue": "Süt şekerini üzüm şekerine çeviren bir bağırsak enzimi",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
         {
-          "answer": "ECNEBİ",
-          "clue": "► yabancı",
+          "answer": "SİMMAS",
+          "clue": "Simmas, Bizans İmparatorluğu hizmetinde dux olarak görev yapan bir Hun generaliydi",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -6180,20 +6174,14 @@
           "difficulty_score": 43
         },
         {
-          "answer": "CIZLAM",
-          "clue": "► savuşma",
+          "answer": "KÖRFEZ",
+          "clue": "Denizin karaya sokulmuş bölümü",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
         {
-          "answer": "İZAYIY",
-          "clue": "Sözlük anlamı: 'i̇zayiy' (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "ALIŞKI",
-          "clue": "► alışkanlık",
+          "answer": "PAROLA",
+          "clue": "Sadece askerlerin vb belli bir grubun birbirini tanımak için kullandığı gizli ve gizemli söz, şifre",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -6216,12 +6204,6 @@
           "difficulty_score": 43
         },
         {
-          "answer": "ÇIÇECE",
-          "clue": "Sözlük anlamı: 'çiçece' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "MUTSUZ",
           "clue": "Mutlu olmayan; bedbaht, saadetsiz",
           "difficulty_tag": "medium",
@@ -6234,32 +6216,20 @@
           "difficulty_score": 43
         },
         {
-          "answer": "SANÇLI",
-          "clue": "Sözlük anlamı: 'sançli' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "NEPTÜN",
           "clue": "Güneş sisteminin soğuk ve mavi esintili en dış gezegeni",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
         {
-          "answer": "ÖTAĞOT",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
+          "answer": "DEFTER",
+          "clue": "İçinm fb cv vs fn fb db v cd vb bf gb f db h df bd fd a db s bb fb ns c b ds hb vc ns bd vb b s sf f sd s c x bd cb cd hd db mf x sf bb n gf bg bd x bg hb n n bb c s df d b vb k bd n c ds hd hd ds vs m gf sb gf vf cs gs vs)",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
         {
-          "answer": "MEDLUL",
-          "clue": "► anlam",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "KUÇMAK",
-          "clue": "► kucaklamak",
+          "answer": "CEBECI",
+          "clue": "Osmanlı'da silah tamiri yapan asker sınıfı",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -6276,32 +6246,8 @@
           "difficulty_score": 43
         },
         {
-          "answer": "RUZGCI",
-          "clue": "Sözlük anlamı: 'ruzgci' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "GUNEKI",
-          "clue": "Sözlük anlamı: 'guneki' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "YAZIKI",
-          "clue": "Sözlük anlamı: 'yaziki' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "SPORGI",
-          "clue": "Sözlük anlamı: 'sporgi' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "METFEN",
-          "clue": "► mezar",
+          "answer": "KORKAK",
+          "clue": "Cesurun zıttı, her şeyden ürken ve çekinen",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -6312,16 +6258,70 @@
           "difficulty_score": 43
         },
         {
-          "answer": "İSAZAĞ",
-          "clue": "Sözlük anlamı: 'i̇sazağ' (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
+          "answer": "LEVREK",
+          "clue": "Dicentrarchus labrax veya Levrek, Dicentrarchus cinsine bağlı bir balık familyasıdır",
+          "difficulty_tag": "hard",
+          "difficulty_score": 69
         },
         {
-          "answer": "EGİGOB",
-          "clue": "Sözlük anlamı: 'egi̇gob' (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
+          "answer": "NUMUNE",
+          "clue": "Bir şeyin tamamını temsil eden veya kalitesini gösteren küçük örnek",
+          "difficulty_tag": "hard",
+          "difficulty_score": 61
+        },
+        {
+          "answer": "CİNNET",
+          "clue": "Delilik",
+          "difficulty_tag": "hard",
+          "difficulty_score": 67
+        },
+        {
+          "answer": "UYUŞUK",
+          "clue": "Hareketleri yavaş ve ağır olan, çevik olmayan kimse",
+          "difficulty_tag": "hard",
+          "difficulty_score": 61
+        },
+        {
+          "answer": "DAHILI",
+          "clue": "İçle ilgili olan, içteki",
+          "difficulty_tag": "hard",
+          "difficulty_score": 62
+        },
+        {
+          "answer": "GRAFIK",
+          "clue": "Bir olayın veya sayının çizgilerle, şekillerle betimlenmesi",
+          "difficulty_tag": "hard",
+          "difficulty_score": 69
+        },
+        {
+          "answer": "ÇİVAVA",
+          "clue": "Meksika kökenli bedeni titreye titreye öfkelenen minyatur iriliği olan kulaklı köpek",
+          "difficulty_tag": "hard",
+          "difficulty_score": 63
+        },
+        {
+          "answer": "YILLIK",
+          "clue": "Her yıl",
+          "difficulty_tag": "hard",
+          "difficulty_score": 68
+        },
+        {
+          "answer": "BİKİNİ",
+          "clue": "Sahil ve tatil plaj modası 2 parça alt üst denize girme kıyafeti kadın",
+          "difficulty_tag": "hard",
+          "difficulty_score": 68
+        },
+        {
+          "answer": "SÜNNET",
+          "clue": "Gelenek",
+          "difficulty_tag": "hard",
+          "difficulty_score": 62
+        },
+        {
+          "answer": "HERKÜL",
+          "clue": "Yarı tanrı olan güçlü kahraman",
+          "difficulty_tag": "hard",
+          "difficulty_score": 69
         }
       ]
     },
@@ -6336,12 +6336,6 @@
           "difficulty_score": 43
         },
         {
-          "answer": "KIŞICE",
-          "clue": "Sözlük anlamı: 'kişice' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "MÜNHAL",
           "clue": "Boş, açık (kadro)",
           "difficulty_tag": "medium",
@@ -6350,24 +6344,6 @@
         {
           "answer": "EMEKÇİ",
           "clue": "Geçimini beden gücüyle sağlayan kimse",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "AKÜSOC",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "ÜJAÇÜĞ",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "UKUDAĞ",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -6396,12 +6372,6 @@
           "difficulty_score": 43
         },
         {
-          "answer": "OZEZÜL",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "BRİKET",
           "clue": "Linyit ve kömür tozundan basınçla elde edilen yakacak",
           "difficulty_tag": "medium",
@@ -6416,12 +6386,6 @@
         {
           "answer": "ÖVÜNTÜ",
           "clue": "Övünülecek tutum veya davranış",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "AĞAÇGI",
-          "clue": "Sözlük anlamı: 'ağaçgi' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -6456,26 +6420,8 @@
           "difficulty_score": 43
         },
         {
-          "answer": "TEOLOG",
-          "clue": "► tanrı bilimci",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "DENICE",
-          "clue": "Sözlük anlamı: 'denice' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "HAVACE",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "TATIGI",
-          "clue": "Sözlük anlamı: 'tatigi' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
+          "answer": "ÜYELIK",
+          "clue": "Bir dernek, parti veya kulübe resmi olarak katılmış olma durumu",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -6492,22 +6438,76 @@
           "difficulty_score": 43
         },
         {
-          "answer": "BOKSİT",
-          "clue": "► korindon",
+          "answer": "SEÇMEK",
+          "clue": "İki karpuz vb yadan veya iki ev partiliden ayırmak vb ayıklayarak vb iyisini kendine ayırıp gözünü kestrip vb almak veya vs pıt",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
         {
-          "answer": "EFOLÜG",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
+          "answer": "OLAĞAN",
+          "clue": "Her zaman olduğu gibi standart gerçekleşen, alışılmışın dışında olmayan, normal",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
         {
-          "answer": "İHTİFA",
-          "clue": "Gizlenme, saklanma (eski)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
+          "answer": "PİJAMA",
+          "clue": "Alttan genelde beli lastikli bol kesimli yatmak için dizayn günlük ikili takım halinde evde dolaşmalık yumuşak kumaş",
+          "difficulty_tag": "hard",
+          "difficulty_score": 68
+        },
+        {
+          "answer": "KIRBAÇ",
+          "clue": "Kırbaç ve kamçı, genellikle sopa gibi sert bir cismin ucuna ip veya sırım gibi esnek ve hareketli malzemeler iliştirilerek yapılmış dayak ve kontrol araçları",
+          "difficulty_tag": "hard",
+          "difficulty_score": 63
+        },
+        {
+          "answer": "MANİSA",
+          "clue": "Mesir şehri",
+          "difficulty_tag": "hard",
+          "difficulty_score": 68
+        },
+        {
+          "answer": "KUNDAK",
+          "clue": "Yeni doğmuş çocuğu ilk aylarda sıkıca sarıp sarmalamaya yarayan geniş bez; belek",
+          "difficulty_tag": "hard",
+          "difficulty_score": 64
+        },
+        {
+          "answer": "KANEPE",
+          "clue": "Üç kişinin sığdığı ve genelde açılınca yatıya kalma imkanı verek sırt yaslamalı vs salon koltuğu",
+          "difficulty_tag": "hard",
+          "difficulty_score": 71
+        },
+        {
+          "answer": "KÜNEFE",
+          "clue": "Hatay yöresi peynirli tatlısı şerbetli tel kadayıf",
+          "difficulty_tag": "hard",
+          "difficulty_score": 68
+        },
+        {
+          "answer": "İNİKAT",
+          "clue": "Toplanma; birleşim",
+          "difficulty_tag": "hard",
+          "difficulty_score": 70
+        },
+        {
+          "answer": "EVLİYA",
+          "clue": "Evliya (Arapça: أوْلِياء) Allah dostları",
+          "difficulty_tag": "hard",
+          "difficulty_score": 64
+        },
+        {
+          "answer": "FİLMİN",
+          "clue": "6 harfli Türkçe sözcük",
+          "difficulty_tag": "hard",
+          "difficulty_score": 64
+        },
+        {
+          "answer": "VAKVAK",
+          "clue": "Ördeğin takma adı veya çıkardığı sesten ona verilen isim komik tür nitelemesi (yukarıda çıkmıştı ama easy verelim)",
+          "difficulty_tag": "hard",
+          "difficulty_score": 63
         }
       ]
     },
@@ -6515,18 +6515,6 @@
       "chapter": 40,
       "target_band": "63-73",
       "items": [
-        {
-          "answer": "DOLUCI",
-          "clue": "Sözlük anlamı: 'doluci' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "AHİKOJ",
-          "clue": "Sözlük anlamı: 'ahi̇koj' (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
         {
           "answer": "PULCUK",
           "clue": "Küçük pul",
@@ -6552,20 +6540,8 @@
           "difficulty_score": 43
         },
         {
-          "answer": "KÖKUCI",
-          "clue": "Sözlük anlamı: 'kökuci' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "DİKLİK",
           "clue": "Dik olma durumu",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "KARLGI",
-          "clue": "Sözlük anlamı: 'karlgi' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -6594,62 +6570,14 @@
           "difficulty_score": 43
         },
         {
-          "answer": "IRÖDÖM",
-          "clue": "Sözlük anlamı: 'irödöm' (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "ÖRÜNTÜ",
           "clue": "Olay veya nesnelerin düzenli bir biçimde birbirini takip ederek gelişmesi",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
         {
-          "answer": "EĞLICE",
-          "clue": "Sözlük anlamı: 'eğlice' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "ECÜGAH",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "AĞAŞIJ",
-          "clue": "Sözlük anlamı: 'ağaşij' (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "GUNDCE",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "HAVAKI",
-          "clue": "Sözlük anlamı: 'havaki' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "ACÖROV",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "JULLÜK",
           "clue": "Bir jul değerinde olan",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "ICERAZ",
-          "clue": "Sözlük anlamı: 'iceraz' (Bilinmeyen veya eski Türkçe kökenli kelime)",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -6672,28 +6600,100 @@
           "difficulty_score": 43
         },
         {
-          "answer": "ŞAMATA",
-          "clue": "► gürültü patırtı",
+          "answer": "INAYET",
+          "clue": "Allah'ın veya çok saygın ulu birinin ihsan ettiği, yardımı esirgemediği rahmet, şefkat dolu lütufker yardım ve bağışı",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
         {
-          "answer": "KÖKUGI",
-          "clue": "Sözlük anlamı: 'kökugi' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
+          "answer": "SÜVARİ",
+          "clue": "Atlı asker",
+          "difficulty_tag": "hard",
+          "difficulty_score": 68
         },
         {
-          "answer": "KIŞIGI",
-          "clue": "Sözlük anlamı: 'kişigi' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
+          "answer": "ANASIL",
+          "clue": "Kökten, asıl olarak, esaslı bir biçimde",
+          "difficulty_tag": "hard",
+          "difficulty_score": 66
         },
         {
-          "answer": "TATIKI",
-          "clue": "Sözlük anlamı: 'tatiki' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
+          "answer": "ALYANS",
+          "clue": "Nişan veya evlilik yüzüğü",
+          "difficulty_tag": "hard",
+          "difficulty_score": 69
+        },
+        {
+          "answer": "OTOBAN",
+          "clue": "Şehirlerarasında hızlı ulaşıma uygun, genelde paralı geniş otoyol",
+          "difficulty_tag": "hard",
+          "difficulty_score": 64
+        },
+        {
+          "answer": "ODALIK",
+          "clue": "Bir erkeğin nikâhsız olarak aldığı kadın",
+          "difficulty_tag": "hard",
+          "difficulty_score": 72
+        },
+        {
+          "answer": "ZİLYET",
+          "clue": "Elde bulunduran",
+          "difficulty_tag": "hard",
+          "difficulty_score": 71
+        },
+        {
+          "answer": "ATALET",
+          "clue": "Tembellik, eylemsizlik",
+          "difficulty_tag": "hard",
+          "difficulty_score": 63
+        },
+        {
+          "answer": "SÜMBÜL",
+          "clue": "Güzel kokulu, soğanlı bir süs bitkisi",
+          "difficulty_tag": "hard",
+          "difficulty_score": 65
+        },
+        {
+          "answer": "YAHANI",
+          "clue": "Genelde kemikli koyun veya kuzu etiyle içerisine patates sogan konan ve uzun kaynayan lezzetli bir ana sulu ev yemeği / eti kavurma tenceresindendir",
+          "difficulty_tag": "hard",
+          "difficulty_score": 68
+        },
+        {
+          "answer": "BÜLBÜL",
+          "clue": "Ötücü küçük kuş",
+          "difficulty_tag": "hard",
+          "difficulty_score": 71
+        },
+        {
+          "answer": "AYIPLI",
+          "clue": "Ayıbı, kusuru olan",
+          "difficulty_tag": "hard",
+          "difficulty_score": 64
+        },
+        {
+          "answer": "SÜZGEÇ",
+          "clue": "Makarnayı veya pirinci yıkarken suyunu akan bolca delikli alet mutfak takımı",
+          "difficulty_tag": "hard",
+          "difficulty_score": 69
+        },
+        {
+          "answer": "KETÇAP",
+          "clue": "Temel maddesi baharat katılmış domates olan İngiliz sosu",
+          "difficulty_tag": "hard",
+          "difficulty_score": 64
+        },
+        {
+          "answer": "BERRAK",
+          "clue": "Duru, temiz, bulanık olmayan",
+          "difficulty_tag": "hard",
+          "difficulty_score": 71
+        },
+        {
+          "answer": "TASVIR",
+          "clue": "Sözle veya yazıyla olayların karakterin veya ortamın dinleyicinin gözü önüne canlandırması faaliyeti",
+          "difficulty_tag": "hard",
+          "difficulty_score": 71
         }
       ]
     },
@@ -6726,20 +6726,8 @@
           "difficulty_score": 43
         },
         {
-          "answer": "SANALI",
-          "clue": "Sözlük anlamı: 'sanali' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "MEYVGI",
-          "clue": "Sözlük anlamı: 'meyvgi' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "NEYYER",
-          "clue": "Işıklı cisim, güneş (eski)",
+          "answer": "GAZETE",
+          "clue": "Günlük haberleri makale ve röportajları barındıran okunan kağıt metaryel neşriyat",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -6768,38 +6756,14 @@
           "difficulty_score": 43
         },
         {
-          "answer": "FIRTCI",
-          "clue": "Sözlük anlamı: 'firtci' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "OYUVIC",
-          "clue": "Sözlük anlamı: 'oyuvic' (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "KRATER",
           "clue": "Yanardağların tepesindeki veya gökadaya düşen meteorun açtığı çöküntü çanağı",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
         {
-          "answer": "GÖKYLI",
-          "clue": "Sözlük anlamı: 'gökyli' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "ÜLÜCAŞ",
-          "clue": "Sözlük anlamı: (Bilinmeyen veya eski Türkçe kökenli kelime)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "DOMBAY",
-          "clue": "► manda (I)",
+          "answer": "NUMARA",
+          "clue": "Evlerin kapısına yâda formaların sırtına vurulan ardışık rakam ya da sahte davranış ve hileli tiyatro yalanı",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -6810,26 +6774,14 @@
           "difficulty_score": 43
         },
         {
-          "answer": "KABİNE",
-          "clue": "► bakanlar kurulu",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "DOLUKI",
-          "clue": "Sözlük anlamı: 'doluki' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
+          "answer": "NARKOZ",
+          "clue": "Ameliyat esnasında hastanın acı duymaması için genel veya lokal anesteziyle uyutucu/uyuşturucu ilaç verilme halidir",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
         {
           "answer": "MEDYUM",
           "clue": "Gelecek ten ruhlardan hislerden haber verdiğine de inanılan veya oküktizm kahin benzeri kişi",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
-          "answer": "OÇILUC",
-          "clue": "Sözlük anlamı: 'oçiluc' (Bilinmeyen veya eski Türkçe kökenli kelime)",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
@@ -6864,22 +6816,70 @@
           "difficulty_score": 43
         },
         {
-          "answer": "RESICI",
-          "clue": "Sözlük anlamı: 'resici' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
-        },
-        {
           "answer": "İCABET",
           "clue": "Bir çağrıyı yerine getirme, bir çağrıya gitme",
           "difficulty_tag": "medium",
           "difficulty_score": 43
         },
         {
-          "answer": "GUNDGI",
-          "clue": "Sözlük anlamı: 'gundgi' (Bilinmeyen veya eski Türkçe kökenli kelime 2. paket)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 43
+          "answer": "KUDRET",
+          "clue": "Güç, erk, iktidar; Tanrı yapısı",
+          "difficulty_tag": "hard",
+          "difficulty_score": 71
+        },
+        {
+          "answer": "TAVSİF",
+          "clue": "Nitelendirme, niteliklerini söyleme",
+          "difficulty_tag": "hard",
+          "difficulty_score": 68
+        },
+        {
+          "answer": "CERRAH",
+          "clue": "Ameliyat yapan doktor",
+          "difficulty_tag": "hard",
+          "difficulty_score": 72
+        },
+        {
+          "answer": "URFALI",
+          "clue": "Şanlıurfa ilinden olan veya oranın yerli halkından kimse",
+          "difficulty_tag": "hard",
+          "difficulty_score": 72
+        },
+        {
+          "answer": "MIKROP",
+          "clue": "Hastalıklara yol açan, gözle görülemeyen küçük organizma",
+          "difficulty_tag": "hard",
+          "difficulty_score": 71
+        },
+        {
+          "answer": "İBADET",
+          "clue": "Tapınma",
+          "difficulty_tag": "hard",
+          "difficulty_score": 63
+        },
+        {
+          "answer": "KIVRAK",
+          "clue": "Canlı, hareketli, atik olan",
+          "difficulty_tag": "hard",
+          "difficulty_score": 68
+        },
+        {
+          "answer": "UĞULTU",
+          "clue": "Rüzgardın fırtınanın yaktığı derin ve uzayıp dinleken kesik boğuk gürleşmiş ses inlemeli sesler yumağı",
+          "difficulty_tag": "hard",
+          "difficulty_score": 65
+        },
+        {
+          "answer": "HIÇBIR",
+          "clue": "Olumsuz cümlelerde yokluğu belirten veya herhangi biri anlamındaki zamir",
+          "difficulty_tag": "hard",
+          "difficulty_score": 71
+        },
+        {
+          "answer": "TABURE",
+          "clue": "Sandalye gibi ama sırtsız sırt yatı yeri olmayan ve dar ebatlı geçici kısa oturak (genelde mutfakta yuvarlak)",
+          "difficulty_tag": "hard",
+          "difficulty_score": 72
         }
       ]
     },
@@ -7266,14 +7266,14 @@
           "difficulty_score": 51
         },
         {
-          "answer": "EKİPMAN",
-          "clue": "► takım",
+          "answer": "KALKMAK",
+          "clue": "Sabahın körpünde yataktan veya vs sandalyden dikilerek vs yerinsdn doğrulma falan ayaklanmak falan şaşlanmak dik duruma vb eylemi ve falan gelmeişsi (7)",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
         {
-          "answer": "MASTİKA",
-          "clue": "► sakız rakısı",
+          "answer": "ELDİVEN",
+          "clue": "Ellerimizin cebe girmeden dışardaki karla donmaması pamuk vb kesici plastik tek veya iki el on tırnak giysisi",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -7314,8 +7314,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "İSPİRTO",
-          "clue": "► alkol",
+          "answer": "MÜEZZİN",
+          "clue": "Camide ezan okuyan görevli",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -7326,8 +7326,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "İSTİDAİ",
-          "clue": "Dilekçe (çekim)",
+          "answer": "İTHALAT",
+          "clue": "Dış alım",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -7368,8 +7368,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "IRGANMA",
-          "clue": "► sallanma",
+          "answer": "SİZİNKİ",
+          "clue": "Sizin olan, sizinle ilgili olan",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -7392,8 +7392,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "GÜNAHLI",
-          "clue": "► günahkâr",
+          "answer": "BUTİKÇİ",
+          "clue": "Butik işleten kimse",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -7530,8 +7530,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "İSTİRAİ",
-          "clue": "Satın alma (çekim)",
+          "answer": "TAPTAZE",
+          "clue": "Çok taze",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -7608,8 +7608,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "CİNSLİK",
-          "clue": "► cinsiyet",
+          "answer": "ERKEĞİM",
+          "clue": "Erkeğim ile şu maddeler kastedilmiş olabilir: Erkeğim (film, 1977) Erkeğim (film, 1996)",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -7788,14 +7788,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "ŞEYTKAR",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
-          "difficulty_tag": "medium",
-          "difficulty_score": 51
-        },
-        {
-          "answer": "UYARLIK",
-          "clue": "► uyumluluk",
+          "answer": "FERMUAR",
+          "clue": "Çekince srrtt diye cıvık bir ses açılıp kapanan birbirine sarılı metal plastik dişler geçmesi kolay kapanma türü kaban şortta vb",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -7810,6 +7804,12 @@
           "clue": "Babylon, İstanbul'da yer alan birçok amaçlı konser ve performans mekanı",
           "difficulty_tag": "medium",
           "difficulty_score": 51
+        },
+        {
+          "answer": "TAMİRCİ",
+          "clue": "Bozulan motor lamba ev eşya vs araba şeyleri yapıp onaran çalışır duruma koyan usta",
+          "difficulty_tag": "hard",
+          "difficulty_score": 69
         }
       ]
     },
@@ -7818,8 +7818,8 @@
       "target_band": "68-78",
       "items": [
         {
-          "answer": "MÜHLİYE",
-          "clue": "► mülhiye",
+          "answer": "BOŞANMA",
+          "clue": "Karı koca arasındaki yasal evlilik bağının mahkemece bitirilmesi",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -7860,8 +7860,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "TECİMEN",
-          "clue": "► tüccar",
+          "answer": "TAMPİCO",
+          "clue": "Tampico, Meksika'da yer alan Tamaulipas eyaletinde yer alan bir şehirdir",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -7878,8 +7878,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "KAŞALOT",
-          "clue": "► ispermeçet balinası",
+          "answer": "KISALIK",
+          "clue": "Uzun omayan boy",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -7932,8 +7932,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "ABUHAVA",
-          "clue": "► iklim",
+          "answer": "ACEMICE",
+          "clue": "İşin ustası olmayan birine yakışacak şekilde, toylukla yapılan",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -7986,14 +7986,14 @@
           "difficulty_score": 51
         },
         {
-          "answer": "PİGMENT",
-          "clue": "► boyar madde",
+          "answer": "KOLOFAN",
+          "clue": "Hidratlı doğal kalsiyum sülfat",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
         {
-          "answer": "EPİDEMİ",
-          "clue": "► salgın",
+          "answer": "ÇELİMLİ",
+          "clue": "Güçlü olan",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         }
@@ -8003,12 +8003,6 @@
       "chapter": 48,
       "target_band": "69-79",
       "items": [
-        {
-          "answer": "CAVIDAN",
-          "clue": "Sonsuz, ölümsüz, ebedi (eski dilde)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 51
-        },
         {
           "answer": "ASABİYE",
           "clue": "Sinir bilimi",
@@ -8118,8 +8112,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "PEKİTME",
-          "clue": "► tekit",
+          "answer": "AYIRMAK",
+          "clue": "İkili veya tümşlü bağlı şeyden karışık vb çürük fakan olanı bölüp ayıkleyıp vs vb diğerrinden uzağa çekmek veya fiil ayırmak ayık etmek hrf(7)",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -8182,6 +8176,12 @@
           "clue": "Gece olmayan zaman, güneşin gökyüzünde göründüğü aydınlık süreç",
           "difficulty_tag": "medium",
           "difficulty_score": 51
+        },
+        {
+          "answer": "ILIKLIK",
+          "clue": "Ilık olma durumu",
+          "difficulty_tag": "hard",
+          "difficulty_score": 78
         }
       ]
     },
@@ -8280,8 +8280,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "AKSIRMA",
-          "clue": "► hapşırma",
+          "answer": "MUHALİF",
+          "clue": "Muhalif, kurulu bir siyasi veya dini sistem, doktrin, inanç veya kuruma karşı aktif olarak meydan okuyan bir kişidir",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -8292,8 +8292,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "MESTURE",
-          "clue": "► gizli",
+          "answer": "PEGASUS",
+          "clue": "Kanatlı beyaz at",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -8316,8 +8316,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "İSTİKAİ",
-          "clue": "Şikayet (eski) (çekim)",
+          "answer": "EFLATUN",
+          "clue": "Açık mor renk",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -8424,8 +8424,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "KOLANCI",
-          "clue": "► yedekçi",
+          "answer": "GÖNÜLLÜ",
+          "clue": "Bir işi hiçbir zorlama olmadan, maaşsız yapan kişi",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -8454,8 +8454,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "İRSİYET",
-          "clue": "► kalıtım",
+          "answer": "VASIFLI",
+          "clue": "Aranan iş için gerekli nitelikleri ve beceriyi taşıyan, ehil uzman kişi",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -8478,8 +8478,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "GÖRGÜCÜ",
-          "clue": "► deneyci",
+          "answer": "BALABAN",
+          "clue": "İri, büyük olan",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -8550,10 +8550,10 @@
           "difficulty_score": 51
         },
         {
-          "answer": "UKDEKAR",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
-          "difficulty_tag": "medium",
-          "difficulty_score": 51
+          "answer": "ÜSTELIK",
+          "clue": "Bununla da kalmayıp, buna ek olarak anlamında bir bağlaç",
+          "difficulty_tag": "hard",
+          "difficulty_score": 72
         }
       ]
     },
@@ -8562,14 +8562,14 @@
       "target_band": "71-81",
       "items": [
         {
-          "answer": "BİLFİİL",
-          "clue": "► fiilen",
+          "answer": "MARAZLI",
+          "clue": "Hastalıklı, hasta",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
         {
-          "answer": "CELEPÇİ",
-          "clue": "► celep",
+          "answer": "ÖĞRENCI",
+          "clue": "Okula, kursa vb. bir eğitim kurumuna gidip eğitim alan kimse, talebe",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -8598,14 +8598,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "İSTİDAT",
-          "clue": "► yetenek",
-          "difficulty_tag": "medium",
-          "difficulty_score": 51
-        },
-        {
-          "answer": "ŞEYTLUK",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
+          "answer": "SAKINMA",
+          "clue": "Sakınmak işi; içtinap, tahaffuz, tevakki",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -8640,8 +8634,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "TÖRELCİ",
-          "clue": "► ahlakçı",
+          "answer": "GÜNDÜZÜ",
+          "clue": "Gece olmayan zaman, güneşin gökyüzünde göründüğü aydınlık süreç",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -8700,8 +8694,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "KÖKENLİ",
-          "clue": "► asıllı",
+          "answer": "IHTIYAÇ",
+          "clue": "Mutlaka varlığı veya tedariki gerekli eksiklik olan şeyler veya zaruri malzeme",
           "difficulty_tag": "medium",
           "difficulty_score": 51
         },
@@ -8740,6 +8734,12 @@
           "clue": "Komiser, Polis teşkilatında kullanılan bir rütbedir",
           "difficulty_tag": "medium",
           "difficulty_score": 51
+        },
+        {
+          "answer": "VAKUMLU",
+          "clue": "Vakumlanmış",
+          "difficulty_tag": "hard",
+          "difficulty_score": 77
         }
       ]
     },
@@ -8880,14 +8880,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "TEKABÜLİ",
-          "clue": "Karşılık gelme (çekim)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "ŞEYTENGI",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük: 'şeytengi'",
+          "answer": "DINLENME",
+          "clue": "Yorgunluk atmak için çalışmaya veya harekete bir süre ara veriş, istirahat",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -8910,8 +8904,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "İZDİVAÇİ",
-          "clue": "Evlilik (çekim)",
+          "answer": "SARIMSAK",
+          "clue": "Keskin kokulu, şifa kaynağı sayılan bir bitki",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -8926,6 +8920,12 @@
           "clue": "Poğaça ve böreklerin üzerine susamla atılan lezzetli siyah minik nokta taneler (2 kelimemsi ama yazzalım: ÇÖREK) CLUE: Poğaça ve böreklerin üzerine susamla atılan lezzetli siyah minik nokta tanelerden oluşan ve otu denilen tohum",
           "difficulty_tag": "medium",
           "difficulty_score": 59
+        },
+        {
+          "answer": "MANDALİNA",
+          "clue": "Kabuğu en kolay soyulan bol dilimli hoş kokulu kış narenciyesi (Sığmayabilir, MANDALİN yapsak veya LİMON yapalım)",
+          "difficulty_tag": "hard",
+          "difficulty_score": 77
         }
       ]
     },
@@ -8946,8 +8946,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "TEAKKULİ",
-          "clue": "Akıl etme (çekim)",
+          "answer": "ÇİKOLATA",
+          "clue": "Kakaodan yapılan, süt ve şeker içeren sevilen tatlı",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -8966,12 +8966,6 @@
         {
           "answer": "SANDALET",
           "clue": "Yaz sıcakta alt tabana üstten iki üç sırım ve cırtlak bağcıklı rahat deniz parmak altılık düz ayak giysisi (roma türü vb de)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "MUSTAKAR",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -9018,8 +9012,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "İNTİKAMİ",
-          "clue": "Öç alma (çekim)",
+          "answer": "KAYDIRAK",
+          "clue": "Çocukların tepesine tırmanıp aşağı yuvarlanarak değil sürtünerek kaydığı alet",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -9060,12 +9054,6 @@
           "difficulty_score": 59
         },
         {
-          "answer": "TASANDAR",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
           "answer": "ÜŞÜTÜYOR",
           "clue": "8 harfli Türkçe sözcük",
           "difficulty_tag": "medium",
@@ -9084,8 +9072,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "İHTİŞAMİ",
-          "clue": "Görkem (çekim)",
+          "answer": "AMELIYAT",
+          "clue": "Cerrahların hastayı keserek yaptığı tedavi işlemi",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -9112,6 +9100,18 @@
           "clue": "Türklük",
           "difficulty_tag": "medium",
           "difficulty_score": 59
+        },
+        {
+          "answer": "GARNIZON",
+          "clue": "Bir şehrin veya bölgenin askerlerin barındığı yer",
+          "difficulty_tag": "hard",
+          "difficulty_score": 80
+        },
+        {
+          "answer": "MÜNECCİM",
+          "clue": "Yıldız falcısı",
+          "difficulty_tag": "hard",
+          "difficulty_score": 76
         }
       ]
     },
@@ -9126,8 +9126,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "İNFİLAKİ",
-          "clue": "Patlama (çekim)",
+          "answer": "GARDIYAN",
+          "clue": "Hapishanelerde tutukluları gözetleyen görevli, infaz koruma",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -9198,12 +9198,6 @@
           "difficulty_score": 59
         },
         {
-          "answer": "IFRITDAR",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük: 'ifritdar'",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
           "answer": "MARMELAT",
           "clue": "Meyve ezmesinin şekerle kaynatılmasıyla yapılan ezme tatlı",
           "difficulty_tag": "medium",
@@ -9230,18 +9224,6 @@
         {
           "answer": "ANAKONDA",
           "clue": "Amazon ormanlarında nehir yakınında bulunan devasa ebatlara varabilen dehşetengiz yılan",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "LALUBLUK",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "LALUBTIR",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük: 'lalubtir'",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -9298,6 +9280,24 @@
           "clue": "İçinden çıkılması veya doğru yolun bulunması çok zor olan, içi dolambaçlı çapraşık yollar yapısı",
           "difficulty_tag": "medium",
           "difficulty_score": 59
+        },
+        {
+          "answer": "HOPARLÖR",
+          "clue": "Besi veya müziği dışarı yüksek desibelle yansıtan ses çıkışı donanımı",
+          "difficulty_tag": "hard",
+          "difficulty_score": 77
+        },
+        {
+          "answer": "DONDURMA",
+          "clue": "Süt, şeker, meyve vb ile yapılan, soğutularak elde edilen tatlı",
+          "difficulty_tag": "hard",
+          "difficulty_score": 75
+        },
+        {
+          "answer": "MUKAVELE",
+          "clue": "Sözleşme",
+          "difficulty_tag": "hard",
+          "difficulty_score": 81
         }
       ]
     },
@@ -9306,14 +9306,8 @@
       "target_band": "75-85",
       "items": [
         {
-          "answer": "MUAMELEİ",
-          "clue": "İşlem (çekim)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "ŞEYTIYET",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük: 'şeytiyet'",
+          "answer": "GÖRMEDİM",
+          "clue": "8 harfli Türkçe sözcük",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -9342,24 +9336,6 @@
           "difficulty_score": 59
         },
         {
-          "answer": "IFRITDAŞ",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük: 'ifritdaş'",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "UKDEBAHŞ",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "DERYALUK",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
           "answer": "ONAYLAMA",
           "clue": "Onaylama (Latince: ratificatio), bir antlaşma veya sözleşmenin nihai olarak kabul edilmesi ve yürürlüğe konulmasıdır",
           "difficulty_tag": "medium",
@@ -9368,12 +9344,6 @@
         {
           "answer": "ÇAĞLAYAN",
           "clue": "Kayalardan hoplaya zıplaya, genellikle küçük çaptan aşağıya coşkun dökülen su",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "SUKUTDAR",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -9456,12 +9426,6 @@
           "difficulty_score": 59
         },
         {
-          "answer": "TASANLUK",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
           "answer": "KİLOGRAM",
           "clue": "Kilogram (sembolü kg) Uluslararası Birimler Sistemi'nde (SI, Fransızca Le Système International d’Unités 'den kısaltma) kütlenin temel birimidir",
           "difficulty_tag": "medium",
@@ -9474,8 +9438,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "TENAKUZİ",
-          "clue": "Çelişki (çekim)",
+          "answer": "SNAPCHAT",
+          "clue": "Snapchat, Snap Inc",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -9484,6 +9448,42 @@
           "clue": "Savaşa yatkın, savaşçı ruhlu yiğit",
           "difficulty_tag": "medium",
           "difficulty_score": 59
+        },
+        {
+          "answer": "MAYDANOZ",
+          "clue": "Yemek ve salatalarda çokça kullanılan ot",
+          "difficulty_tag": "hard",
+          "difficulty_score": 82
+        },
+        {
+          "answer": "YELKENLİ",
+          "clue": "Rüzgar gücüyle giden deniz taşıtı",
+          "difficulty_tag": "hard",
+          "difficulty_score": 82
+        },
+        {
+          "answer": "KAHVALTI",
+          "clue": "Günün ilk öğünü; sabah yemeği",
+          "difficulty_tag": "hard",
+          "difficulty_score": 76
+        },
+        {
+          "answer": "GÜNAHKAR",
+          "clue": "Dinin emirlerine karşı gelen, yasaklarını çiğneyen, suç işlemiş (günahı bol) kişi",
+          "difficulty_tag": "hard",
+          "difficulty_score": 75
+        },
+        {
+          "answer": "HİDROJEN",
+          "clue": "Evrende en çok bulunan element (H)",
+          "difficulty_tag": "hard",
+          "difficulty_score": 83
+        },
+        {
+          "answer": "SALTANAT",
+          "clue": "Hükümdarlık, bolluk",
+          "difficulty_tag": "hard",
+          "difficulty_score": 80
         }
       ]
     },
@@ -9498,8 +9498,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "İHTİYATİ",
-          "clue": "Tedbir (çekim)",
+          "answer": "MÜKEMMEL",
+          "clue": "Kusursuz",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -9510,8 +9510,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "TEKAMÜLİ",
-          "clue": "Olgunlaşma (çekim)",
+          "answer": "ELEŞTİRİ",
+          "clue": "Bir eserin ya da sanatın iyi veya kötü değer yargılarını uzman veya halk diliyle tenkit hali yargısına açılması",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -9524,18 +9524,6 @@
         {
           "answer": "ÇAĞRIŞIM",
           "clue": "Çağrışım, psikoloji ve pazarlamada bir olayın başka bir olaya birkaç kez sebep olması anlamına gelen kavramdır",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "TASANTIR",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük: 'tasantir'",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "TASANKAR",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -9618,18 +9606,6 @@
           "difficulty_score": 59
         },
         {
-          "answer": "IFRITKAR",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük: 'ifritkar'",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "UKDEZADE",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
           "answer": "AYAKKABI",
           "clue": "Ayağı korumak için giyilen giyecek",
           "difficulty_tag": "medium",
@@ -9648,14 +9624,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "ŞEYTYANE",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "TEVELLİİ",
-          "clue": "Yönetme (çekim)",
+          "answer": "AKÇAAĞAÇ",
+          "clue": "Kerestesi mobilyacılıkta kullanılan, geniş yapraklı bir süs ve orman ağacı",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -9670,6 +9640,36 @@
           "clue": "8 harfli Türkçe sözcük",
           "difficulty_tag": "medium",
           "difficulty_score": 59
+        },
+        {
+          "answer": "YANARDAĞ",
+          "clue": "Volkan",
+          "difficulty_tag": "hard",
+          "difficulty_score": 78
+        },
+        {
+          "answer": "SARSINTI",
+          "clue": "Ağır veya hafif derecede olan anlık titreşimler, deprem ya da darbenin yer titreşimi sarsması hissi",
+          "difficulty_tag": "hard",
+          "difficulty_score": 83
+        },
+        {
+          "answer": "TEREYAĞI",
+          "clue": "Sütten çıkarılan, yüksek kalorili, katı kıvamlı yağ",
+          "difficulty_tag": "hard",
+          "difficulty_score": 82
+        },
+        {
+          "answer": "ADALETLİ",
+          "clue": "Hakkı gözeten",
+          "difficulty_tag": "hard",
+          "difficulty_score": 82
+        },
+        {
+          "answer": "ASIMETRI",
+          "clue": "İki yarının veya parçanın birbirine boyut, biçim olarak uyumsuz, denk olmaması",
+          "difficulty_tag": "hard",
+          "difficulty_score": 81
         }
       ]
     },
@@ -9702,8 +9702,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "MUAZZEZİ",
-          "clue": "Saygın (çekim)",
+          "answer": "ALÇAKLIK",
+          "clue": "Yer seviyesine yakın veya düşük olma (şahsiyet vb) durumu",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -9798,8 +9798,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "İNTİHARİ",
-          "clue": "Kendini öldürme (çekim)",
+          "answer": "MANYETIK",
+          "clue": "Mıknatıs özelliği taşıyan, çekim gücü olan",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -9828,8 +9828,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "TENASÜPİ",
-          "clue": "Uygunluk (çekim)",
+          "answer": "MİMARLIK",
+          "clue": "Yapı tasarlama sanatı ve bilimi",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -9840,22 +9840,22 @@
           "difficulty_score": 59
         },
         {
-          "answer": "UKDEPERV",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
           "answer": "MUHTEŞEM",
           "clue": "Görkemli",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
         {
-          "answer": "MUSTADAŞ",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
+          "answer": "NEOZİRTA",
+          "clue": "Neozirta Ectrichodiini oymağına bağlı bir cinstir",
+          "difficulty_tag": "hard",
+          "difficulty_score": 76
+        },
+        {
+          "answer": "SANDALET",
+          "clue": "Yaz sıcakta alt tabana üstten iki üç sırım ve cırtlak bağcıklı rahat deniz parmak altılık düz ayak giysisi (roma türü vb de)",
+          "difficulty_tag": "hard",
+          "difficulty_score": 79
         }
       ]
     },
@@ -9866,12 +9866,6 @@
         {
           "answer": "EDEBIYAT",
           "clue": "Duygu ve düşünceleri kelimelerin estetiği ile anlatan sanat dalı",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "MUSTADAR",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -9900,12 +9894,6 @@
           "difficulty_score": 59
         },
         {
-          "answer": "DERYADAŞ",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
           "answer": "TELESKOP",
           "clue": "Gök cisimlerini incelemeye yarayan alet, ırakgörür",
           "difficulty_tag": "medium",
@@ -9930,20 +9918,14 @@
           "difficulty_score": 59
         },
         {
-          "answer": "TEKAVÜLİ",
-          "clue": "Sözleşme (çekim)",
+          "answer": "FOTOKOPI",
+          "clue": "Bir yazının, kitabın resim yardımıyla cihaz üzerinde makine kopyası",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
         {
           "answer": "ASABIYET",
           "clue": "Sinirlilik, çabuk öfkelenme durumu",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "BIGANTIR",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük: 'bigantir'",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -9966,20 +9948,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "UKDEIYET",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük: 'ukdeiyet'",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "ŞEYTZADE",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "İNHİTATİ",
-          "clue": "Gerileme (çekim)",
+          "answer": "KAZANMAK",
+          "clue": "Karşılaşmayı galip bitirmek veya bir şeyi emekle ele geçirmek",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -9992,18 +9962,6 @@
         {
           "answer": "HİSAHİTO",
           "clue": "Hisahito (悠仁親王, Hisahito Shinnō, doğum 6 Eylül 2006) Prens Fumihito ve Prenses Kiko'nun üçüncü çocukları ve tek oğullarıdır",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "IFRITTIR",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük: 'ifrittir'",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "BIGANDAŞ",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük: 'bigandaş'",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -10042,6 +10000,48 @@
           "clue": "Hafriyat kazı işlerinin tümüne verilen addır",
           "difficulty_tag": "medium",
           "difficulty_score": 59
+        },
+        {
+          "answer": "SENTETİK",
+          "clue": "Sentetik, birden fazla parça ile oluşturulmuş, genellikle yapaylık iması taşıyan bir terimdir",
+          "difficulty_tag": "hard",
+          "difficulty_score": 85
+        },
+        {
+          "answer": "ORKESTRA",
+          "clue": "Genellikle tiyatro yâda geniş konser salonlarında şefin küçük el çubuğu (baget) ile asimetrik hızla yönettiği dört ana müzik enstrümanı grubundan klarnetli piyanolu vb. oluşmuş sahnede oturmuş yâda ayakta kemancıların toplu senfonik dev takım müzisi",
+          "difficulty_tag": "hard",
+          "difficulty_score": 84
+        },
+        {
+          "answer": "ARMATÜRÜ",
+          "clue": "8 harfli Türkçe sözcük",
+          "difficulty_tag": "hard",
+          "difficulty_score": 78
+        },
+        {
+          "answer": "NEPOTİZM",
+          "clue": "Nepotizm, kayırmacılık veya akraba kayırma, öznel ve adil olmayan şekilde yapılan ayrımcılık",
+          "difficulty_tag": "hard",
+          "difficulty_score": 83
+        },
+        {
+          "answer": "ORTAKLIK",
+          "clue": "Ortaklık, 2 veya daha fazla kişi veya kuruluşun yarattıkları iş birliğidir",
+          "difficulty_tag": "hard",
+          "difficulty_score": 77
+        },
+        {
+          "answer": "GÜZERGAH",
+          "clue": "Belli bir yere gitmek için izlenmesi gereken belirli yol, rota",
+          "difficulty_tag": "hard",
+          "difficulty_score": 82
+        },
+        {
+          "answer": "ÜRKÜTÜCÜ",
+          "clue": "Korku, ürperti veya çekinme hissi veren durum veya nesne",
+          "difficulty_tag": "hard",
+          "difficulty_score": 79
         }
       ]
     },
@@ -10086,20 +10086,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "MUSTATIR",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük: 'mustatir'",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
           "answer": "YELERİNE",
           "clue": "8 harfli Türkçe sözcük",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "MUSTALUK",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -10128,8 +10116,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "TENAZÜLİ",
-          "clue": "İnme (çekim)",
+          "answer": "TRENÇKOT",
+          "clue": "Su geçirmeyen ve bahar aylarında serinlikten veya yağmurdan giyilen kuşağı da olan meşhur yağmurluk (Ingiliz tarzı)",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -10182,8 +10170,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "İHTİRASİ",
-          "clue": "Aşırı istek (çekim)",
+          "answer": "İSTAVRİT",
+          "clue": "Küçük avcı balıklar arasında çok bilinen bir deniz balığı",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -10206,28 +10194,40 @@
           "difficulty_score": 59
         },
         {
-          "answer": "UKDEYANE",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
           "answer": "ELEKTRIK",
           "clue": "Atmosferden, rüzgardan veya sudan elde edilerek sanayide/evde kullanılan ana enerji dalı",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
         {
-          "answer": "TESELLİİ",
-          "clue": "Avunma (çekim)",
+          "answer": "ILAHIYAT",
+          "clue": "Allah'ın varlığını, dinlerin felsefesini, inanç sistemini ve Kur'an vb kutsal metinleri detaylıca inceleyen din bilimi/fakültesi",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
         {
-          "answer": "İHTİRAMİ",
-          "clue": "Saygı (çekim)",
+          "answer": "SAKLAMAK",
+          "clue": "Kayıp olmaması çürümesi çalınmaması için güvendiği yer vb yere koyup muhafaza edip gömemek falan (Saklambaçın kökü de vs)",
           "difficulty_tag": "medium",
           "difficulty_score": 59
+        },
+        {
+          "answer": "GÜVERCİN",
+          "clue": "Barışın simgesi sayılan beyazı ünlü kuş",
+          "difficulty_tag": "hard",
+          "difficulty_score": 79
+        },
+        {
+          "answer": "ORTALAMA",
+          "clue": "Ortalama veya merkezsel konum ölçüleri, istatistik bilim dalında ve veri analizinde kullanılan bir veri dizisinin orta konumunu, tek bir sayı ile ifade eden betimsel istatistik ölçüsüdür",
+          "difficulty_tag": "hard",
+          "difficulty_score": 78
+        },
+        {
+          "answer": "BATAKLIK",
+          "clue": "Suyun toprağa karışarak çamur haline getirdiği tehlikeli bölge",
+          "difficulty_tag": "hard",
+          "difficulty_score": 78
         }
       ]
     },
@@ -10248,8 +10248,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "İNHİSARİ",
-          "clue": "Tekel (çekim)",
+          "answer": "ALATURKA",
+          "clue": "Eski Türk gelenek ve göreneklerine uygun, Doğu usulü olan",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -10290,18 +10290,6 @@
           "difficulty_score": 59
         },
         {
-          "answer": "SUKUTKAR",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "ŞEYTHANE",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
           "answer": "TEFEKKÜR",
           "clue": "Düşünme",
           "difficulty_tag": "medium",
@@ -10332,12 +10320,6 @@
           "difficulty_score": 59
         },
         {
-          "answer": "SUKUTDAŞ",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
           "answer": "AKSESUAR",
           "clue": "Ana parçayı tamamlayan, daha güzel görünmesini sağlayan ek süs veya eşya",
           "difficulty_tag": "medium",
@@ -10350,20 +10332,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "UKDEHANE",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "DERYAKAR",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "İMTİHANİ",
-          "clue": "Sınav (çekim)",
+          "answer": "MÜRETTEP",
+          "clue": "Düzenli",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -10376,18 +10346,6 @@
         {
           "answer": "GRUPLAMA",
           "clue": "Gruplama, bilişsel psikolojide bir bilgi kümesinin bireysel parçalarının ayrıldığı ve daha sonra anlamlı bir bütün halinde gruplandırıldığı bir süreçtir",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "SUKUTTIR",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük: 'sukuttir'",
-          "difficulty_tag": "medium",
-          "difficulty_score": 59
-        },
-        {
-          "answer": "ŞEYTBAHŞ",
-          "clue": "Osmanlıca veya eski Türkçe kökenli edebi bir sözcük:",
           "difficulty_tag": "medium",
           "difficulty_score": 59
         },
@@ -10414,6 +10372,48 @@
           "clue": "Bileklik, bilek etrafına takılan süs eşyası",
           "difficulty_tag": "medium",
           "difficulty_score": 59
+        },
+        {
+          "answer": "POSANGES",
+          "clue": "Posanges, Fransa'nın doğusundaki Côte-d'Or ilinde bulunan bir komündür",
+          "difficulty_tag": "hard",
+          "difficulty_score": 79
+        },
+        {
+          "answer": "SEKRETER",
+          "clue": "Müdürlere veya başkana özel ofis evrak/yazışma randevu trafiği hazırlayıcısı, yazmanı büro elemanı",
+          "difficulty_tag": "hard",
+          "difficulty_score": 82
+        },
+        {
+          "answer": "YAPTIRIM",
+          "clue": "Müeyyide",
+          "difficulty_tag": "hard",
+          "difficulty_score": 79
+        },
+        {
+          "answer": "ZENOFOBİ",
+          "clue": "Zenofobi, yabancı korkusu ve nefreti anlamında olup, Yunanca ξένος (xenos,yabancı) ve φόβος (phobos,korku) kelimelerinin birleşiminden oluşmuştur",
+          "difficulty_tag": "hard",
+          "difficulty_score": 88
+        },
+        {
+          "answer": "SONBAHAR",
+          "clue": "Güz",
+          "difficulty_tag": "hard",
+          "difficulty_score": 82
+        },
+        {
+          "answer": "SİPAKAPA",
+          "clue": "Sipakapa ya da Sipakapense/Sipacapense şu anlamlara gelebilir: Sipakapalar = los sipakapenses/sipacapenses, Guatemala'da Sipacapa yöresinde yaşayan bir Maya halkı",
+          "difficulty_tag": "hard",
+          "difficulty_score": 86
+        },
+        {
+          "answer": "KOKLAMAK",
+          "clue": "Çiçeği parfümü vs veya gazı vb derinden burnuna içine alıp havayla vs içine burnundan süzdürüp oh be falan kokuyu alma eylemi esansı vs fark hissiyat ciyeri ciyer / (8 HARFLİ ÇOK UZUN ... ) KOKU (4 Harf). KOKU diyelim",
+          "difficulty_tag": "hard",
+          "difficulty_score": 79
         }
       ]
     }

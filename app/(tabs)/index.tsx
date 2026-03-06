@@ -388,7 +388,7 @@ export default function HomeScreen() {
   const t = useTheme();
   const ui = useUIProfile();
   const fs = ui.fontScale;
-  const isDark = t.id === 'black';
+  const isDark = t.id !== 'light';
   const isBig = ui.mode === 'accessible';
 
   // ── Stores ──
@@ -504,105 +504,200 @@ export default function HomeScreen() {
         {/* ╔══════════════════════════════════╗
             ║        HERO SECTION (40%)        ║
             ╚══════════════════════════════════╝ */}
-        <LinearGradient
-          colors={isDark
-            ? ['#1A1040', '#0F1D40', '#0B1020'] as const
-            : [...t.gradientPrimary, t.primaryDark] as readonly [string, string, string]}
-          start={{ x: 0, y: 0 }}
-          end={{ x: 0.8, y: 1 }}
-          style={s.hero}
-        >
-          <FloatingParticles />
-          <SafeAreaView edges={['top']} style={s.heroSafe}>
-            <Animated.View style={{ opacity: heroFade, transform: [{ translateY: heroSlide }], alignItems: 'center', width: '100%' }}>
-              {/* Top Bar */}
-              <View style={s.topBar}>
-                <TouchableOpacity
-                  style={s.coinPill}
-                  activeOpacity={0.7}
-                  onLongPress={() => IS_DEV && setDevPanelVisible(true)}
-                  delayLongPress={2000}
-                >
-                  <Ionicons name="wallet" size={13} color="#FFD700" />
-                  <Text style={s.coinPillText}>{coins}</Text>
-                </TouchableOpacity>
-                <View style={{ flexDirection: 'row', gap: 8 }}>
+        {isDark ? (
+          <LinearGradient
+            colors={[...t.gradientHero] as [string, string, string]}
+            start={{ x: 0, y: 0 }}
+            end={{ x: 0.8, y: 1 }}
+            style={s.hero}
+          >
+            <FloatingParticles />
+            <SafeAreaView edges={['top']} style={s.heroSafe}>
+              <Animated.View style={{ opacity: heroFade, transform: [{ translateY: heroSlide }], alignItems: 'center', width: '100%' }}>
+                {/* Top Bar */}
+                <View style={s.topBar}>
                   <TouchableOpacity
-                    style={s.shopPill}
+                    style={s.coinPill}
                     activeOpacity={0.7}
-                    onPress={() => {
-                      Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
-                      router.push('/achievements');
-                    }}
+                    onLongPress={() => IS_DEV && setDevPanelVisible(true)}
+                    delayLongPress={2000}
                   >
-                    <Ionicons name="trophy" size={15} color="#FFD700" />
-                    {achTotal > 0 && (
-                      <View style={s.achBadge}>
-                        <Text style={s.achBadgeText}>{achUnlockedCount}</Text>
+                    <Ionicons name="wallet" size={13} color="#FFD700" />
+                    <Text style={s.coinPillText}>{coins}</Text>
+                  </TouchableOpacity>
+                  <View style={{ flexDirection: 'row', gap: 8 }}>
+                    <TouchableOpacity
+                      style={s.shopPill}
+                      activeOpacity={0.7}
+                      onPress={() => {
+                        Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
+                        router.push('/achievements');
+                      }}
+                    >
+                      <Ionicons name="trophy" size={15} color="#FFD700" />
+                      {achTotal > 0 && (
+                        <View style={s.achBadge}>
+                          <Text style={s.achBadgeText}>{achUnlockedCount}</Text>
+                        </View>
+                      )}
+                    </TouchableOpacity>
+                    <TouchableOpacity
+                      style={s.shopPill}
+                      activeOpacity={0.7}
+                      onPress={() => {
+                        Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
+                        setMissionsModalVisible(true);
+                      }}
+                    >
+                      <Ionicons name="checkbox-outline" size={15} color="rgba(255,255,255,0.85)" />
+                      <View style={[s.achBadge, completedMissions >= missions.length && completedMissions > 0 ? { backgroundColor: '#34C759' } : {}]}>
+                        <Text style={s.achBadgeText}>
+                          {completedMissions >= missions.length && completedMissions > 0 ? '✓' : `${completedMissions}`}
+                        </Text>
                       </View>
-                    )}
-                  </TouchableOpacity>
+                    </TouchableOpacity>
+                    <TouchableOpacity style={s.shopPill} onPress={() => setShopVisible(true)}>
+                      <Ionicons name="bag-outline" size={15} color="rgba(255,255,255,0.85)" />
+                    </TouchableOpacity>
+                  </View>
+                </View>
+
+                {/* XP Ring + Level */}
+                <XPRing
+                  level={playerLevel}
+                  progress={levelProgress}
+                  size={isBig ? 104 : 90}
+                  isDark={true}
+                  primaryColor={t.primary}
+                />
+
+                {/* XP Text */}
+                <Text style={[s.xpText, { fontSize: Math.round(12 * fs) }]}>
+                  {totalXP - prevLevelXP} / {nextLevelXP - prevLevelXP} XP
+                </Text>
+
+                {/* Motivational microcopy */}
+                <Text style={[s.motivation, { fontSize: Math.round(14 * fs) }]}>{motivation}</Text>
+
+                {/* Badge Chips */}
+                <View style={s.chips}>
+                  <View style={[s.chip, currentStreak > 0 && { backgroundColor: 'rgba(255,103,35,0.2)' }]}>
+                    <Ionicons name="flame" size={Math.round(14 * fs)} color="#FF6723" />
+                    <Text style={[s.chipText, { fontSize: Math.round(11 * fs) }]}>
+                      {currentStreak > 0 ? `${currentStreak} Gün Seri` : 'Seri Başlat'}
+                    </Text>
+                  </View>
+                  <View style={s.chip}>
+                    <Ionicons name="star" size={Math.round(13 * fs)} color="#FFD700" />
+                    <Text style={[s.chipText, { fontSize: Math.round(12 * fs) }]}>{totalStars}</Text>
+                  </View>
+                  <View style={[s.chip, { backgroundColor: leagueMeta.color + '22' }]}>
+                    <Ionicons name={leagueMeta.icon as any} size={Math.round(13 * fs)} color={leagueMeta.color} />
+                    <Text style={[s.chipText, { fontSize: Math.round(11 * fs), color: leagueMeta.color }]}>#{leagueRank}</Text>
+                  </View>
+                </View>
+              </Animated.View>
+            </SafeAreaView>
+          </LinearGradient>
+        ) : (
+          /* ── LIGHT MODE HERO — White, clean, minimal ── */
+          <View style={[s.hero, { backgroundColor: '#FFFFFF', borderBottomWidth: 1, borderBottomColor: '#E5E5E5' }]}>
+            <SafeAreaView edges={['top']} style={s.heroSafe}>
+              <Animated.View style={{ opacity: heroFade, transform: [{ translateY: heroSlide }], alignItems: 'center', width: '100%' }}>
+                {/* Top Bar — Light */}
+                <View style={s.topBar}>
                   <TouchableOpacity
-                    style={s.shopPill}
+                    style={[s.coinPill, { backgroundColor: '#F7F7F7' }]}
                     activeOpacity={0.7}
-                    onPress={() => {
-                      Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
-                      setMissionsModalVisible(true);
-                    }}
+                    onLongPress={() => IS_DEV && setDevPanelVisible(true)}
+                    delayLongPress={2000}
                   >
-                    <Ionicons name="checkbox-outline" size={15} color="rgba(255,255,255,0.85)" />
-                    <View style={[s.achBadge, completedMissions >= missions.length && completedMissions > 0 ? { backgroundColor: '#34C759' } : {}]}>
-                      <Text style={s.achBadgeText}>
-                        {completedMissions >= missions.length && completedMissions > 0 ? '✓' : `${completedMissions}`}
-                      </Text>
-                    </View>
+                    <Ionicons name="wallet" size={13} color="#F59E0B" />
+                    <Text style={[s.coinPillText, { color: '#000000' }]}>{coins}</Text>
                   </TouchableOpacity>
-                  <TouchableOpacity style={s.shopPill} onPress={() => setShopVisible(true)}>
-                    <Ionicons name="bag-outline" size={15} color="rgba(255,255,255,0.85)" />
-                  </TouchableOpacity>
+                  <View style={{ flexDirection: 'row', gap: 8 }}>
+                    <TouchableOpacity
+                      style={[s.shopPill, { backgroundColor: '#F7F7F7' }]}
+                      activeOpacity={0.7}
+                      onPress={() => {
+                        Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
+                        router.push('/achievements');
+                      }}
+                    >
+                      <Ionicons name="trophy" size={15} color="#F59E0B" />
+                      {achTotal > 0 && (
+                        <View style={s.achBadge}>
+                          <Text style={s.achBadgeText}>{achUnlockedCount}</Text>
+                        </View>
+                      )}
+                    </TouchableOpacity>
+                    <TouchableOpacity
+                      style={[s.shopPill, { backgroundColor: '#F7F7F7' }]}
+                      activeOpacity={0.7}
+                      onPress={() => {
+                        Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
+                        setMissionsModalVisible(true);
+                      }}
+                    >
+                      <Ionicons name="checkbox-outline" size={15} color="#6B7280" />
+                      <View style={[s.achBadge, completedMissions >= missions.length && completedMissions > 0 ? { backgroundColor: '#34C759' } : {}]}>
+                        <Text style={s.achBadgeText}>
+                          {completedMissions >= missions.length && completedMissions > 0 ? '✓' : `${completedMissions}`}
+                        </Text>
+                      </View>
+                    </TouchableOpacity>
+                    <TouchableOpacity style={[s.shopPill, { backgroundColor: '#F7F7F7' }]} onPress={() => setShopVisible(true)}>
+                      <Ionicons name="bag-outline" size={15} color="#6B7280" />
+                    </TouchableOpacity>
+                  </View>
                 </View>
-              </View>
 
-              {/* XP Ring + Level */}
-              <XPRing
-                level={playerLevel}
-                progress={levelProgress}
-                size={isBig ? 104 : 90}
-                isDark={isDark}
-                primaryColor={t.primary}
-              />
-
-              {/* XP Text */}
-              <Text style={[s.xpText, { fontSize: Math.round(12 * fs) }]}>
-                {totalXP - prevLevelXP} / {nextLevelXP - prevLevelXP} XP
-              </Text>
-
-              {/* Motivational microcopy */}
-              <Text style={[s.motivation, { fontSize: Math.round(14 * fs) }]}>{motivation}</Text>
-
-              {/* Badge Chips */}
-              <View style={s.chips}>
-                {/* Streak */}
-                <View style={[s.chip, currentStreak > 0 && { backgroundColor: 'rgba(255,103,35,0.2)' }]}>
-                  <Ionicons name="flame" size={Math.round(14 * fs)} color="#FF6723" />
-                  <Text style={[s.chipText, { fontSize: Math.round(11 * fs) }]}>
-                    {currentStreak > 0 ? `${currentStreak} Gün Seri` : 'Seri Başlat'}
-                  </Text>
+                {/* XP Ring — Light mode version */}
+                <View style={{ alignItems: 'center', justifyContent: 'center' }}>
+                  <View style={{
+                    width: isBig ? 104 : 90,
+                    height: isBig ? 104 : 90,
+                    borderRadius: (isBig ? 104 : 90) / 2,
+                    borderWidth: 4,
+                    borderColor: levelProgress > 0 ? '#3B82F6' : '#E5E5E5',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    backgroundColor: '#F7F7F7',
+                  }}>
+                    <Text style={{ fontSize: 30, fontWeight: '900', color: '#000000', letterSpacing: -1 }}>{playerLevel}</Text>
+                    <Text style={{ fontSize: 8, fontWeight: '700', color: '#9CA3AF', letterSpacing: 2, marginTop: -2 }}>SEVİYE</Text>
+                  </View>
                 </View>
-                {/* Stars */}
-                <View style={s.chip}>
-                  <Ionicons name="star" size={Math.round(13 * fs)} color="#FFD700" />
-                  <Text style={[s.chipText, { fontSize: Math.round(12 * fs) }]}>{totalStars}</Text>
+
+                {/* XP Text — Light */}
+                <Text style={[s.xpText, { color: '#555555', fontSize: Math.round(12 * fs) }]}>
+                  {totalXP - prevLevelXP} / {nextLevelXP - prevLevelXP} XP
+                </Text>
+
+                {/* Motivational — Light */}
+                <Text style={[s.motivation, { color: '#000000', fontSize: Math.round(14 * fs) }]}>{motivation}</Text>
+
+                {/* Badge Chips — Light */}
+                <View style={s.chips}>
+                  <View style={[s.chip, { backgroundColor: '#FEF3C7' }]}>
+                    <Ionicons name="flame" size={Math.round(14 * fs)} color="#F59E0B" />
+                    <Text style={[s.chipText, { color: '#92400E', fontSize: Math.round(11 * fs) }]}>
+                      {currentStreak > 0 ? `${currentStreak} Gün Seri` : 'Seri Başlat'}
+                    </Text>
+                  </View>
+                  <View style={[s.chip, { backgroundColor: '#F7F7F7' }]}>
+                    <Ionicons name="star" size={Math.round(13 * fs)} color="#F59E0B" />
+                    <Text style={[s.chipText, { color: '#000000', fontSize: Math.round(12 * fs) }]}>{totalStars}</Text>
+                  </View>
+                  <View style={[s.chip, { backgroundColor: leagueMeta.color + '15' }]}>
+                    <Ionicons name={leagueMeta.icon as any} size={Math.round(13 * fs)} color={leagueMeta.color} />
+                    <Text style={[s.chipText, { fontSize: Math.round(11 * fs), color: leagueMeta.color }]}>#{leagueRank}</Text>
+                  </View>
                 </View>
-                {/* League */}
-                <View style={[s.chip, { backgroundColor: leagueMeta.color + '22' }]}>
-                  <Ionicons name={leagueMeta.icon as any} size={Math.round(13 * fs)} color={leagueMeta.color} />
-                  <Text style={[s.chipText, { fontSize: Math.round(11 * fs), color: leagueMeta.color }]}>#{leagueRank}</Text>
-                </View>
-              </View>
-            </Animated.View>
-          </SafeAreaView>
-        </LinearGradient>
+              </Animated.View>
+            </SafeAreaView>
+          </View>
+        )}
 
         {/* ╔══════════════════════════════════╗
             ║       CONTINUE CTA (dominant)    ║
@@ -636,6 +731,7 @@ export default function HomeScreen() {
           <TouchableOpacity
             style={[s.playCard, { backgroundColor: isDark ? t.surface2 : t.card, borderColor: isDark ? 'rgba(255,255,255,0.05)' : t.border },
             isDark && ui.glow && { shadowColor: t.primary, shadowOpacity: 0.12, shadowRadius: 14, shadowOffset: { width: 0, height: 6 } },
+            !isDark && { shadowColor: '#1A1D40', shadowOpacity: 0.06, shadowRadius: 16, shadowOffset: { width: 0, height: 4 }, elevation: 3 },
             ]}
             activeOpacity={0.82}
             onPress={() => router.push('/(tabs)/chapters')}
@@ -650,6 +746,7 @@ export default function HomeScreen() {
           <TouchableOpacity
             style={[s.playCard, { backgroundColor: isDark ? t.surface2 : t.card, borderColor: isDark ? 'rgba(255,255,255,0.05)' : t.border },
             isDark && ui.glow && { shadowColor: t.accent, shadowOpacity: 0.12, shadowRadius: 14, shadowOffset: { width: 0, height: 6 } },
+            !isDark && { shadowColor: '#1A1D40', shadowOpacity: 0.06, shadowRadius: 16, shadowOffset: { width: 0, height: 4 }, elevation: 3 },
             ]}
             activeOpacity={0.82}
             onPress={() => router.push('/big-puzzle')}
@@ -664,6 +761,7 @@ export default function HomeScreen() {
           <TouchableOpacity
             style={[s.playCard, { backgroundColor: isDark ? t.surface2 : t.card, borderColor: isDark ? 'rgba(255,255,255,0.05)' : t.border },
             isDark && ui.glow && { shadowColor: '#34C759', shadowOpacity: 0.12, shadowRadius: 14, shadowOffset: { width: 0, height: 6 } },
+            !isDark && { shadowColor: '#1A1D40', shadowOpacity: 0.06, shadowRadius: 16, shadowOffset: { width: 0, height: 4 }, elevation: 3 },
             ]}
             activeOpacity={0.82}
             onPress={() => router.push('/practice')}
@@ -684,6 +782,7 @@ export default function HomeScreen() {
           <Text style={[s.sectionTitle, { color: t.text, fontSize: Math.round(16 * fs) }]}>İlerleme Haritası</Text>
           <View style={[s.mapCard, { backgroundColor: isDark ? t.surface2 : t.card, borderColor: isDark ? 'rgba(255,255,255,0.04)' : t.border },
           isDark && ui.glow && { shadowColor: t.primary, shadowOpacity: 0.08, shadowRadius: 12, shadowOffset: { width: 0, height: 4 } },
+          !isDark && { shadowColor: '#1A1D40', shadowOpacity: 0.05, shadowRadius: 14, shadowOffset: { width: 0, height: 3 }, elevation: 2 },
           ]}>
             <MiniMap
               progress={progress}
@@ -705,6 +804,7 @@ export default function HomeScreen() {
           <TouchableOpacity
             style={[s.depthCard, { backgroundColor: isDark ? t.surface2 : t.card, borderColor: isDark ? 'rgba(255,255,255,0.04)' : t.border },
             isDark && ui.glow && { shadowColor: t.accent, shadowOpacity: 0.1, shadowRadius: 12, shadowOffset: { width: 0, height: 4 } },
+            !isDark && { shadowColor: '#1A1D40', shadowOpacity: 0.05, shadowRadius: 14, shadowOffset: { width: 0, height: 3 }, elevation: 2 },
             ]}
             activeOpacity={0.85}
             onPress={() => !completedToday && router.push('/daily')}
@@ -740,6 +840,7 @@ export default function HomeScreen() {
           <Text style={[s.sectionTitle, { color: t.text, fontSize: Math.round(16 * fs) }]}>Haftalık Lig</Text>
           <View style={[s.depthCard, { backgroundColor: isDark ? t.surface2 : t.card, borderColor: isDark ? 'rgba(255,255,255,0.04)' : t.border },
           isDark && ui.glow && { shadowColor: leagueMeta.color, shadowOpacity: 0.1, shadowRadius: 12, shadowOffset: { width: 0, height: 4 } },
+          !isDark && { shadowColor: '#1A1D40', shadowOpacity: 0.05, shadowRadius: 14, shadowOffset: { width: 0, height: 3 }, elevation: 2 },
           ]}>
             <View style={s.dcRow}>
               <View style={[s.dcIcon, { backgroundColor: leagueMeta.color + '14' }]}>
@@ -782,6 +883,7 @@ export default function HomeScreen() {
         <Animated.View style={[s.section, { opacity: bodyFade, transform: [{ translateY: bodySlide }] }]}>
           <View style={[s.depthCard, { backgroundColor: isDark ? t.surface2 : t.card, borderColor: isDark ? 'rgba(255,255,255,0.04)' : t.border },
           isDark && ui.glow && { shadowColor: '#FF6723', shadowOpacity: 0.08, shadowRadius: 12, shadowOffset: { width: 0, height: 4 } },
+          !isDark && { shadowColor: '#1A1D40', shadowOpacity: 0.05, shadowRadius: 14, shadowOffset: { width: 0, height: 3 }, elevation: 2 },
           ]}>
             <View style={s.dcRow}>
               <View style={[s.dcIcon, { backgroundColor: '#FF672314' }]}>

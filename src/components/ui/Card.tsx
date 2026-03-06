@@ -19,7 +19,7 @@ export default function Card({
 }: CardProps) {
     const t = useTheme();
     const ui = useUIProfile();
-    const isDark = t.id === 'black';
+    const isDark = t.id !== 'light';
     return (
         <View
             style={[

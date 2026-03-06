@@ -161,7 +161,7 @@ export default function ResultScreen() {
   const router = useRouter();
   const t = useTheme();
   const ui = useUIProfile();
-  const isDark = t.id === 'black';
+  const isDark = t.id !== 'light';
   const fs = ui.fontScale;
 
   const rawId = params.id ?? '1';

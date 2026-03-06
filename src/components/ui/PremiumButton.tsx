@@ -94,7 +94,7 @@ export default function PremiumButton({
         );
     }
 
-    const isDark = t.id === 'black';
+    const isDark = t.id !== 'light';
     const finalHeight = isDark ? height + 8 : height;
     const finalRadius = isDark ? 28 : borderRadius;
     const useGlow = ui.glow && isDark;

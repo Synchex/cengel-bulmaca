@@ -13,7 +13,7 @@ function TabBarIcon({ name, color }: { name: keyof typeof Ionicons.glyphMap; col
 export default function TabsLayout() {
     const themeId = useSettingsStore((s) => s.themeId);
     const th = themes[themeId] ?? themes.purple;
-    const isDark = themeId === 'black';
+    const isDark = themeId !== 'light';
 
     return (
         <Tabs
@@ -25,20 +25,23 @@ export default function TabsLayout() {
                 tabBarLabelStyle: styles.tabLabel,
                 tabBarStyle: [
                     styles.tabBar,
-                    isDark && {
-                        borderTopColor: 'rgba(255,255,255,0.04)',
-                    },
+                    isDark
+                        ? { borderTopColor: 'rgba(255,255,255,0.04)' }
+                        : { borderTopColor: '#E5E7EB' },
                 ],
-                tabBarBackground: () => (
-                    <BlurView
-                        intensity={isDark ? 50 : 80}
-                        tint={isDark ? 'dark' : 'systemChromeMaterial'}
-                        style={[
-                            StyleSheet.absoluteFill,
-                            isDark && { backgroundColor: 'rgba(10,15,30,0.85)' },
-                        ]}
-                    />
-                ),
+                tabBarBackground: () =>
+                    isDark ? (
+                        <BlurView
+                            intensity={50}
+                            tint="dark"
+                            style={[
+                                StyleSheet.absoluteFill,
+                                { backgroundColor: 'rgba(10,15,30,0.85)' },
+                            ]}
+                        />
+                    ) : (
+                        <View style={[StyleSheet.absoluteFill, { backgroundColor: '#FFFFFF' }]} />
+                    ),
             }}
         >
             <Tabs.Screen

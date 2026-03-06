@@ -378,8 +378,8 @@
       {
         "number": 5,
         "direction": "across",
-        "answer": "DİREN",
-        "clue": "► dirgen",
+        "answer": "LODOS",
+        "clue": "Güneybatı rüzgarı",
         "startRow": 1,
         "startCol": 8,
         "difficulty_score": 44
@@ -558,8 +558,8 @@
       {
         "number": 22,
         "direction": "down",
-        "answer": "GAYYA",
-        "clue": "► kuyusu",
+        "answer": "AŞAĞI",
+        "clue": "Bir şeyin alt tarafında olan yön",
         "startRow": 10,
         "startCol": 1,
         "difficulty_score": 44
@@ -576,8 +576,8 @@
       {
         "number": 24,
         "direction": "across",
-        "answer": "KOLANCI",
-        "clue": "► yedekçi",
+        "answer": "MİLİTAN",
+        "clue": "Bir düşüncenin, bir görüşün başarı kazanması için savaşan, mücadele eden kimse",
         "startRow": 10,
         "startCol": 10,
         "difficulty_score": 60
@@ -675,8 +675,8 @@
       {
         "number": 34,
         "direction": "across",
-        "answer": "MESKEN",
-        "clue": "► konut (I)",
+        "answer": "JEOLOG",
+        "clue": "Yer bilimci",
         "startRow": 16,
         "startCol": 10,
         "difficulty_score": 54
@@ -1095,8 +1095,8 @@
       {
         "number": 8,
         "direction": "down",
-        "answer": "REAKTİF",
-        "clue": "► ayıraç",
+        "answer": "ANLAMAK",
+        "clue": "Bilginin zihinde idrak edilmesi ve kavranması idraki",
         "startRow": 2,
         "startCol": 13,
         "difficulty_score": 60
@@ -1749,8 +1749,8 @@
       {
         "number": 8,
         "direction": "across",
-        "answer": "SAYRI",
-        "clue": "► hasta",
+        "answer": "TAKSİ",
+        "clue": "Ticari araç",
         "startRow": 2,
         "startCol": 0,
         "difficulty_score": 44
@@ -1767,8 +1767,8 @@
       {
         "number": 9,
         "direction": "down",
-        "answer": "İNKITA",
-        "clue": "► kesinti",
+        "answer": "ŞİFALI",
+        "clue": "Sağlığa yararlı olan",
         "startRow": 4,
         "startCol": 8,
         "difficulty_score": 52
@@ -1830,8 +1830,8 @@
       {
         "number": 15,
         "direction": "down",
-        "answer": "SAHAR",
-        "clue": "Sabahın tan yeri ağarmadan hemen önceki vakti (eski sözcük).",
+        "answer": "SAHIL",
+        "clue": "Deniz veya bu gibi suların kumsallı kıyısı tarafı",
         "startRow": 8,
         "startCol": 0,
         "difficulty_score": 58
@@ -2349,8 +2349,8 @@
       {
         "number": 1,
         "direction": "down",
-        "answer": "KAPELA",
-        "clue": "► şapka",
+        "answer": "HARAMI",
+        "clue": "Yol kesip kervan soyan, dağlarda gezerek silah zoruyla eşya gasp eden soyguncu",
         "startRow": 0,
         "startCol": 0,
         "difficulty_score": 52
@@ -2520,8 +2520,8 @@
       {
         "number": 18,
         "direction": "across",
-        "answer": "KODES",
-        "clue": "► cezaevi",
+        "answer": "SANAL",
+        "clue": "Gerçek olmayan, virtüel",
         "startRow": 6,
         "startCol": 10,
         "difficulty_score": 44
@@ -4716,8 +4716,8 @@
       {
         "number": 33,
         "direction": "across",
-        "answer": "TERMİT",
-        "clue": "► akkarınca",
+        "answer": "LAHLAH",
+        "clue": "Sürekli dedikodu yapan veya boş boş laflayan geveze (argo kelime)",
         "startRow": 15,
         "startCol": 1,
         "difficulty_score": 52
@@ -4725,8 +4725,8 @@
       {
         "number": 34,
         "direction": "across",
-        "answer": "ÇEKBERİ",
-        "clue": "► gelberi",
+        "answer": "ŞEFTALİ",
+        "clue": "Tüylü sulu meyve",
         "startRow": 15,
         "startCol": 8,
         "difficulty_score": 60
@@ -5826,8 +5826,8 @@
       {
         "number": 6,
         "direction": "across",
-        "answer": "BOTANİK",
-        "clue": "► bitki bilimi",
+        "answer": "ARKADAŞ",
+        "clue": "Birbirini tanıyan beraber vakit geçiren dost ve tanıdık, yaren",
         "startRow": 1,
         "startCol": 3,
         "difficulty_score": 62
@@ -6042,8 +6042,8 @@
       {
         "number": 29,
         "direction": "across",
-        "answer": "VİKAYE",
-        "clue": "► koruma",
+        "answer": "DEFNES",
+        "clue": "Yaz kış yapraklarını dökmeyen, kokulu yapraklı Akdeniz bitkisi",
         "startRow": 10,
         "startCol": 10,
         "difficulty_score": 52
@@ -6579,8 +6579,8 @@
       {
         "number": 12,
         "direction": "across",
-        "answer": "UYARLI",
-        "clue": "► uyumlu",
+        "answer": "MEDYUM",
+        "clue": "Gelecek ten ruhlardan hislerden haber verdiğine de inanılan veya oküktizm kahin benzeri kişi",
         "startRow": 4,
         "startCol": 9,
         "difficulty_score": 52
@@ -6642,8 +6642,8 @@
       {
         "number": 18,
         "direction": "across",
-        "answer": "TULUK",
-        "clue": "► tulum",
+        "answer": "SURUN",
+        "clue": "Duvarla kale etrafını kuşatan yüksek duvar engeli veya büyük savaş korunma barikat örgesi (surlar zinciri vs)",
         "startRow": 8,
         "startCol": 6,
         "difficulty_score": 44
@@ -6714,8 +6714,8 @@
       {
         "number": 26,
         "direction": "down",
-        "answer": "MABERA",
-        "clue": "Öte yanı, arka tarafı (eski dilde).",
+        "answer": "SİYGAN",
+        "clue": "Zehirsiz fakat büyük güçlü sıkan bir Amerikan yılanı( boa vs de var ama genelleme , es geçelim)",
         "startRow": 11,
         "startCol": 9,
         "difficulty_score": 60
@@ -6750,8 +6750,8 @@
       {
         "number": 30,
         "direction": "across",
-        "answer": "MEVZULU",
-        "clue": "► konulu",
+        "answer": "ANADOLU",
+        "clue": "Asya kıtasındaki topraklarımız",
         "startRow": 13,
         "startCol": 1,
         "difficulty_score": 60
@@ -7296,8 +7296,8 @@
       {
         "number": 19,
         "direction": "across",
-        "answer": "KABAŞİŞ",
-        "clue": "► kabakulak",
+        "answer": "SAVUNMA",
+        "clue": "Savunma saldırıyı önleme için yapılan harekettir",
         "startRow": 6,
         "startCol": 6,
         "difficulty_score": 60
@@ -7851,8 +7851,8 @@
       {
         "number": 5,
         "direction": "down",
-        "answer": "ŞAMATA",
-        "clue": "► gürültü patırtı",
+        "answer": "MILLET",
+        "clue": "Aynı topraklar üzerinde yaşayan, dili ve kültürü ortak olan insan topluluğu",
         "startRow": 1,
         "startCol": 7,
         "difficulty_score": 54
@@ -7860,8 +7860,8 @@
       {
         "number": 6,
         "direction": "across",
-        "answer": "BARHANA",
-        "clue": "► barhane (II)",
+        "answer": "ASANSÖR",
+        "clue": "Katlara inme işini yürümek vb değil halat düğme vb sistem motor kutu ile saniyede çıkaran otomatik inçık makine cihaz elektrik falan götüren taşıyıcı dikey çekici",
         "startRow": 2,
         "startCol": 6,
         "difficulty_score": 62
@@ -8022,8 +8022,8 @@
       {
         "number": 22,
         "direction": "down",
-        "answer": "NEZAFET",
-        "clue": "► temizlik",
+        "answer": "AYSBERK",
+        "clue": "Kutuplardan kopup okyanus akıntılarıyla güneye inen çok büyük buzul kütlesi, buzdağı",
         "startRow": 9,
         "startCol": 16,
         "difficulty_score": 60
@@ -10065,8 +10065,8 @@
       {
         "number": 20,
         "direction": "across",
-        "answer": "KODES",
-        "clue": "► cezaevi",
+        "answer": "KORKU",
+        "clue": "Tehlike veya tehdit karşısında duyulan endişe, ürküntü",
         "startRow": 10,
         "startCol": 3,
         "difficulty_score": 44
@@ -10620,8 +10620,8 @@
       {
         "number": 10,
         "direction": "across",
-        "answer": "KABİNE",
-        "clue": "► bakanlar kurulu",
+        "answer": "TEMKİN",
+        "clue": "Ağırbaşlılık; davranmadan önce düşünme",
         "startRow": 3,
         "startCol": 3,
         "difficulty_score": 54
@@ -10638,8 +10638,8 @@
       {
         "number": 12,
         "direction": "across",
-        "answer": "VASIF",
-        "clue": "► nitelik",
+        "answer": "GİZLİ",
+        "clue": "Açık ve aşikar edilmemiş saklı sırlı kalan durum",
         "startRow": 4,
         "startCol": 10,
         "difficulty_score": 44
@@ -11229,8 +11229,8 @@
       {
         "number": 1,
         "direction": "across",
-        "answer": "BOKSİT",
-        "clue": "► korindon",
+        "answer": "BAHŞIŞ",
+        "clue": "Şifreli ipucu: 'bahşiş' kelimesinin kökeni, anlamı veya mecaz kullanımı",
         "startRow": 0,
         "startCol": 3,
         "difficulty_score": 52
@@ -11883,8 +11883,8 @@
       {
         "number": 1,
         "direction": "across",
-        "answer": "KORTEKS",
-        "clue": "► beyin kabuğu",
+        "answer": "PARASIZ",
+        "clue": "Yanında ufak bozuk yâda nakiti (parası banknotu veya cüzdan züğürt falan olan pulu) hiç bulunmayan, (cepte / evde kuruş olmayan işsiz veya o gün harçlıgı olmayan pulu olmayan kimse ile mülkü/parası fukara muhtaçı anlamındaki meteliğe falan kurşun atıp iflas vey parasz yoksul garib geda fakir ve aç kişi vs duruma der)",
         "startRow": 0,
         "startCol": 6,
         "difficulty_score": 62
@@ -12717,8 +12717,8 @@
       {
         "number": 14,
         "direction": "down",
-        "answer": "VİKAYE",
-        "clue": "► koruma",
+        "answer": "YUKARI",
+        "clue": "Üst taraf",
         "startRow": 6,
         "startCol": 0,
         "difficulty_score": 52
@@ -12825,8 +12825,8 @@
       {
         "number": 24,
         "direction": "across",
-        "answer": "HÜNSA",
-        "clue": "► erdişi",
+        "answer": "KAYIR",
+        "clue": "Nehir veya çay sularının sürükleyip getirdiği kum ve çakıl taşları",
         "startRow": 12,
         "startCol": 4,
         "difficulty_score": 44
@@ -13434,8 +13434,8 @@
       {
         "number": 18,
         "direction": "down",
-        "answer": "BELETME",
-        "clue": "► kundaklatma",
+        "answer": "MERAKLI",
+        "clue": "Her şeyi anlamak ve bilmek isteyen; araştırıcı, mütecessis",
         "startRow": 7,
         "startCol": 8,
         "difficulty_score": 60
@@ -13962,8 +13962,8 @@
       {
         "number": 2,
         "direction": "down",
-        "answer": "UYARLI",
-        "clue": "► uyumlu",
+        "answer": "KAYMAK",
+        "clue": "Sütün kaynatılması sırasında yüzeyinde toplanan yağlı tabaka",
         "startRow": 0,
         "startCol": 8,
         "difficulty_score": 52
@@ -13998,8 +13998,8 @@
       {
         "number": 6,
         "direction": "down",
-        "answer": "KIŞIR",
-        "clue": "► kabuk",
+        "answer": "SABIR",
+        "clue": "Zorluklara karşı ses çıkarmadan dayanma gücü",
         "startRow": 2,
         "startCol": 3,
         "difficulty_score": 44
@@ -14106,8 +14106,8 @@
       {
         "number": 18,
         "direction": "across",
-        "answer": "MEVZULU",
-        "clue": "► konulu",
+        "answer": "MANIDAR",
+        "clue": "Sıradan gibi görünse de arkasında çok ince, düşündürücü yâda mecazi bir amaç, çok anlamlılık saklayan söz",
         "startRow": 8,
         "startCol": 5,
         "difficulty_score": 60
@@ -14142,8 +14142,8 @@
       {
         "number": 21,
         "direction": "down",
-        "answer": "KARABET",
-        "clue": "► yakınlık",
+        "answer": "HÜVEYDA",
+        "clue": "Açıkça belli olan",
         "startRow": 10,
         "startCol": 14,
         "difficulty_score": 60
@@ -14625,8 +14625,8 @@
       {
         "number": 5,
         "direction": "across",
-        "answer": "İNTİHARİ",
-        "clue": "Kendini öldürme (çekim)",
+        "answer": "ŞEMPANZE",
+        "clue": "Alet kullanabilen insana dna sı çok benzeyen genelde laboratuvar hayvanı veya sirk zekisi",
         "startRow": 1,
         "startCol": 9,
         "difficulty_score": 70
@@ -14778,8 +14778,8 @@
       {
         "number": 21,
         "direction": "down",
-        "answer": "SAMNUR",
-        "clue": "Samur kürk (eski)",
+        "answer": "KAİNAT",
+        "clue": "Evren, yaratılanlar",
         "startRow": 9,
         "startCol": 16,
         "difficulty_score": 54
@@ -14832,8 +14832,8 @@
       {
         "number": 27,
         "direction": "across",
-        "answer": "CAVIDAN",
-        "clue": "Sonsuz, ölümsüz, ebedi (eski dilde).",
+        "answer": "SOLUNUM",
+        "clue": "Nefes alıp verme",
         "startRow": 13,
         "startCol": 2,
         "difficulty_score": 66
@@ -15243,8 +15243,8 @@
       {
         "number": 4,
         "direction": "down",
-        "answer": "TEBESSÜMİ",
-        "clue": "Gülümseme (çekim)",
+        "answer": "GİDERLERİ",
+        "clue": "9 harfli Türkçe sözcük",
         "startRow": 1,
         "startCol": 16,
         "difficulty_score": 76
@@ -15351,8 +15351,8 @@
       {
         "number": 15,
         "direction": "across",
-        "answer": "GÖRGÜCÜ",
-        "clue": "► deneyci",
+        "answer": "KAMELYA",
+        "clue": "Kamelya, (Japonca: 椿; romaji: Tsubaki) çaygiller (Theaceae) familyasından Camellia cinsine mensup çiçek açan bitki türlerinin ortak adı",
         "startRow": 7,
         "startCol": 10,
         "difficulty_score": 60
@@ -15879,8 +15879,8 @@
       {
         "number": 8,
         "direction": "down",
-        "answer": "LİBAS",
-        "clue": "► giysi",
+        "answer": "SOYLU",
+        "clue": "Ailesini uzun yıllardır temiz sicille, bey, hanım efendi titizliği ve asaleti ile donatmış kişi ve elitliği (aristokrat vb)",
         "startRow": 2,
         "startCol": 9,
         "difficulty_score": 44
@@ -16578,8 +16578,8 @@
       {
         "number": 15,
         "direction": "down",
-        "answer": "PATADAK",
-        "clue": "► ansızın",
+        "answer": "MANZARA",
+        "clue": "Doğa güzelliklerinin görünümü, peyzaj",
         "startRow": 8,
         "startCol": 3,
         "difficulty_score": 60
@@ -17151,8 +17151,8 @@
       {
         "number": 9,
         "direction": "down",
-        "answer": "TULUK",
-        "clue": "► tulum",
+        "answer": "DİNEK",
+        "clue": "Dinlenmek için durulan yer",
         "startRow": 2,
         "startCol": 5,
         "difficulty_score": 44
@@ -18432,8 +18432,8 @@
       {
         "number": 10,
         "direction": "down",
-        "answer": "TEKASÜRİ",
-        "clue": "Çoğalma (çekim)",
+        "answer": "PERŞEMBE",
+        "clue": "Haftanın dördüncü, çarşamba ile cuma arasında kalan günü",
         "startRow": 4,
         "startCol": 14,
         "difficulty_score": 68
@@ -19059,8 +19059,8 @@
       {
         "number": 10,
         "direction": "down",
-        "answer": "GÖRGÜCÜ",
-        "clue": "► deneyci",
+        "answer": "ÇIZELGE",
+        "clue": "Sayıları, bilgileri belirli bir düzende gösteren tablo",
         "startRow": 4,
         "startCol": 12,
         "difficulty_score": 60
@@ -19203,8 +19203,8 @@
       {
         "number": 25,
         "direction": "across",
-        "answer": "İNSİRAF",
-        "clue": "► büküm",
+        "answer": "ADANMAK",
+        "clue": "Kutsal bir amaç veya kişi uğruna kendi varlığını feda etmeye söz vermek",
         "startRow": 15,
         "startCol": 7,
         "difficulty_score": 60
@@ -19560,8 +19560,8 @@
       {
         "number": 1,
         "direction": "down",
-        "answer": "ABUHAVA",
-        "clue": "► iklim",
+        "answer": "İHTİSAR",
+        "clue": "Kısaltma, özetleme",
         "startRow": 0,
         "startCol": 4,
         "difficulty_score": 60
@@ -19704,8 +19704,8 @@
       {
         "number": 15,
         "direction": "across",
-        "answer": "NEYYER",
-        "clue": "Işıklı cisim, güneş (eski)",
+        "answer": "HAZINE",
+        "clue": "Toprakta saklı gömü veya devletin altın/para depoladığı yer",
         "startRow": 8,
         "startCol": 5,
         "difficulty_score": 56
@@ -20223,8 +20223,8 @@
       {
         "number": 6,
         "direction": "across",
-        "answer": "ÇAKER",
-        "clue": "► köle",
+        "answer": "KREDİ",
+        "clue": "Bankadan borç olarak çekilen geri ödemeli para tutarı",
         "startRow": 1,
         "startCol": 11,
         "difficulty_score": 44
@@ -20232,8 +20232,8 @@
       {
         "number": 7,
         "direction": "down",
-        "answer": "HUNRİZ",
-        "clue": "► kanlı",
+        "answer": "OFSAYT",
+        "clue": "Futbolda rakip kaleye savunmacılardan daha yakın olma kural ihlali",
         "startRow": 2,
         "startCol": 2,
         "difficulty_score": 52
@@ -21075,8 +21075,8 @@
       {
         "number": 28,
         "direction": "across",
-        "answer": "KÖKENLİ",
-        "clue": "► asıllı",
+        "answer": "OKSIJEN",
+        "clue": "Suda (%88) veya havada çok serbest bulunan, renksiz, kokusuz, canlıların yaşamı için en büyük nefes ve yanma (O) gazıdır",
         "startRow": 14,
         "startCol": 4,
         "difficulty_score": 60
@@ -21486,8 +21486,8 @@
       {
         "number": 5,
         "direction": "down",
-        "answer": "KUÇUŞMA",
-        "clue": "► kucaklaşma",
+        "answer": "ŞİKAYET",
+        "clue": "Yakınma",
         "startRow": 1,
         "startCol": 4,
         "difficulty_score": 60
@@ -21702,8 +21702,8 @@
       {
         "number": 28,
         "direction": "across",
-        "answer": "İRSİYET",
-        "clue": "► kalıtım",
+        "answer": "SEVGİLİ",
+        "clue": "Romantik olarak aşk beslenip sevilen kişi",
         "startRow": 13,
         "startCol": 9,
         "difficulty_score": 60
@@ -22338,8 +22338,8 @@
       {
         "number": 27,
         "direction": "across",
-        "answer": "KALAVRA",
-        "clue": "► yemeni",
+        "answer": "HAKİKAT",
+        "clue": "Gerçek",
         "startRow": 16,
         "startCol": 3,
         "difficulty_score": 60
@@ -23358,8 +23358,8 @@
       {
         "number": 6,
         "direction": "down",
-        "answer": "EPİDEMİ",
-        "clue": "► salgın",
+        "answer": "KIYIDAŞ",
+        "clue": "Aynı denizde kıyısı olan ülke veya şehirlerden her biri; sahildar",
         "startRow": 1,
         "startCol": 4,
         "difficulty_score": 60
@@ -23376,8 +23376,8 @@
       {
         "number": 8,
         "direction": "down",
-        "answer": "TEKAMÜLİ",
-        "clue": "Olgunlaşma (çekim)",
+        "answer": "BİSİKLET",
+        "clue": "İki tekerlekli, pedalla giden motorsoz araç",
         "startRow": 3,
         "startCol": 14,
         "difficulty_score": 68
@@ -24012,8 +24012,8 @@
       {
         "number": 10,
         "direction": "down",
-        "answer": "TEKAMÜLİ",
-        "clue": "Olgunlaşma (çekim)",
+        "answer": "İSTASYON",
+        "clue": "Trenlerin durduğu ve kalktığı yer, gar",
         "startRow": 3,
         "startCol": 12,
         "difficulty_score": 68
@@ -24066,8 +24066,8 @@
       {
         "number": 16,
         "direction": "down",
-        "answer": "KALİTE",
-        "clue": "► nitelik",
+        "answer": "ÇİNİCİ",
+        "clue": "Çini yapan veya satan kimse",
         "startRow": 7,
         "startCol": 10,
         "difficulty_score": 52
@@ -24147,8 +24147,8 @@
       {
         "number": 25,
         "direction": "down",
-        "answer": "KIŞIR",
-        "clue": "► kabuk",
+        "answer": "YAKIT",
+        "clue": "Motorlarda pistonları tahrikletmek ve mekaik aksamı yürüttürüp enerjsin çıkarmak üzere otomobilerde kullanılan dizel petrol lpğ tarzı benzinli maddesine genel (taşır endüstirisinde) verilen ad yanıcı ürün grubudur enerji hammaddeisidir falandır filnadır",
         "startRow": 12,
         "startCol": 8,
         "difficulty_score": 44
@@ -24585,8 +24585,8 @@
       {
         "number": 6,
         "direction": "across",
-        "answer": "SİSTEM",
-        "clue": "► düzen",
+        "answer": "İZAHAT",
+        "clue": "Açıklamalar",
         "startRow": 1,
         "startCol": 11,
         "difficulty_score": 52
@@ -24711,8 +24711,8 @@
       {
         "number": 19,
         "direction": "across",
-        "answer": "CİKLET",
-        "clue": "► sakız",
+        "answer": "SARKIT",
+        "clue": "Mağaraların tavanında aşağıya doğru oluşan, genellikle koni biçiminde kalker birikintisi; damla taş, stalaktit",
         "startRow": 10,
         "startCol": 1,
         "difficulty_score": 52
@@ -24765,8 +24765,8 @@
       {
         "number": 25,
         "direction": "down",
-        "answer": "IŞIMA",
-        "clue": "► aydınlanma",
+        "answer": "TONYA",
+        "clue": "Trabzon iline bağlı ilçelerden biri",
         "startRow": 12,
         "startCol": 2,
         "difficulty_score": 44
@@ -25239,8 +25239,8 @@
       {
         "number": 7,
         "direction": "across",
-        "answer": "ÜRYANİ",
-        "clue": "► üryani eriği",
+        "answer": "SATÜRN",
+        "clue": "Etrafında belirgin buzlu ve kaya parçalı büyük dairesel halkaları olan gezegen",
         "startRow": 2,
         "startCol": 11,
         "difficulty_score": 54
@@ -25257,8 +25257,8 @@
       {
         "number": 9,
         "direction": "down",
-        "answer": "İNTİFA",
-        "clue": "► asılanma",
+        "answer": "HIÇBIR",
+        "clue": "Olumsuz cümlelerde yokluğu belirten veya herhangi biri anlamındaki zamir",
         "startRow": 3,
         "startCol": 6,
         "difficulty_score": 52
@@ -25266,8 +25266,8 @@
       {
         "number": 10,
         "direction": "across",
-        "answer": "ILGIM",
-        "clue": "► serap",
+        "answer": "SİLAH",
+        "clue": "Savunmak ya da saldırmak için kullanılan patlayıcı kesici vb araç",
         "startRow": 4,
         "startCol": 11,
         "difficulty_score": 44
@@ -25284,8 +25284,8 @@
       {
         "number": 12,
         "direction": "across",
-        "answer": "ŞAKUL",
-        "clue": "► çekül",
+        "answer": "YAŞLI",
+        "clue": "Genç karşıtı, yaşı büyük fani",
         "startRow": 5,
         "startCol": 0,
         "difficulty_score": 44
@@ -25347,8 +25347,8 @@
       {
         "number": 17,
         "direction": "across",
-        "answer": "PATADAK",
-        "clue": "► ansızın",
+        "answer": "HASMANE",
+        "clue": "Düşmanca, düşmanlık taşıyan bir tutumla, kin besleyerek yapılan eylem",
         "startRow": 8,
         "startCol": 5,
         "difficulty_score": 60
@@ -25866,8 +25866,8 @@
       {
         "number": 8,
         "direction": "across",
-        "answer": "TEŞEKKÜRİ",
-        "clue": "Minnet (çekim)",
+        "answer": "BATTANİYE",
+        "clue": "Kalın örtü",
         "startRow": 2,
         "startCol": 1,
         "difficulty_score": 76
@@ -26565,8 +26565,8 @@
       {
         "number": 15,
         "direction": "across",
-        "answer": "KIŞIR",
-        "clue": "► kabuk",
+        "answer": "ZEHİR",
+        "clue": "Ağu, toksin",
         "startRow": 8,
         "startCol": 6,
         "difficulty_score": 44
@@ -26583,8 +26583,8 @@
       {
         "number": 17,
         "direction": "down",
-        "answer": "VEFAT",
-        "clue": "► ölüm",
+        "answer": "ŞAPKA",
+        "clue": "Başa takılan siperlikli giysi",
         "startRow": 9,
         "startCol": 5,
         "difficulty_score": 44
@@ -27192,8 +27192,8 @@
       {
         "number": 17,
         "direction": "down",
-        "answer": "EMSAL",
-        "clue": "► benzer",
+        "answer": "ÇIĞIR",
+        "clue": "Şifreli ipucu: 'çiğir' kelimesinin kökeni, anlamı veya mecaz kullanımı",
         "startRow": 8,
         "startCol": 8,
         "difficulty_score": 44
@@ -27657,8 +27657,8 @@
       {
         "number": 3,
         "direction": "across",
-        "answer": "MEVZULU",
-        "clue": "► konulu",
+        "answer": "CELADET",
+        "clue": "Yiğitlik, kahramanlık, sertlik",
         "startRow": 1,
         "startCol": 10,
         "difficulty_score": 60
@@ -27675,8 +27675,8 @@
       {
         "number": 5,
         "direction": "across",
-        "answer": "ÇAKER",
-        "clue": "► köle",
+        "answer": "DOĞRU",
+        "clue": "Gerçeğe uygun, şaşmaz kural veya düz çizgi",
         "startRow": 3,
         "startCol": 1,
         "difficulty_score": 44
@@ -27765,8 +27765,8 @@
       {
         "number": 15,
         "direction": "across",
-        "answer": "MERAM",
-        "clue": "► istek",
+        "answer": "OPERA",
+        "clue": "Sözlerinin bütünü müzikli şarkı formunda söylenen yüksek sesli büyük sahne gösterisi (5H)",
         "startRow": 8,
         "startCol": 0,
         "difficulty_score": 44
@@ -28329,8 +28329,8 @@
       {
         "number": 11,
         "direction": "across",
-        "answer": "VALÖR",
-        "clue": "► değer",
+        "answer": "KÜLOT",
+        "clue": "Belden alta giyinen temel kadın kız veya erkek altlık iç bezi çamaşırı tür",
         "startRow": 3,
         "startCol": 2,
         "difficulty_score": 44
@@ -28392,8 +28392,8 @@
       {
         "number": 18,
         "direction": "down",
-        "answer": "MENUS",
-        "clue": "► öğür",
+        "answer": "GİTAR",
+        "clue": "Telli, saplı çalgı",
         "startRow": 8,
         "startCol": 2,
         "difficulty_score": 44
@@ -28401,8 +28401,8 @@
       {
         "number": 19,
         "direction": "across",
-        "answer": "YALAMUK",
-        "clue": "► soymuk",
+        "answer": "POSTANE",
+        "clue": "Mektup ve kargoların gönderildiği kurum",
         "startRow": 8,
         "startCol": 5,
         "difficulty_score": 60
@@ -28830,8 +28830,8 @@
       {
         "number": 1,
         "direction": "down",
-        "answer": "ÇAPAR",
-        "clue": "► postacı",
+        "answer": "ÇAKAL",
+        "clue": "Aslanın ve kaplanın artıklarıyla veya leşlerle karnını doyuran fırsatçı kurda yakın boy",
         "startRow": 0,
         "startCol": 0,
         "difficulty_score": 44
@@ -28992,8 +28992,8 @@
       {
         "number": 18,
         "direction": "across",
-        "answer": "HAVZA",
-        "clue": "► bölge",
+        "answer": "SEVGI",
+        "clue": "Kalbin bir eşyaya veya birey/anneye doğru kurduğu sıcak bağlılık şefkat duygusu veya aşka benzeyen ilgi muhabbeti",
         "startRow": 8,
         "startCol": 12,
         "difficulty_score": 44
@@ -29019,8 +29019,8 @@
       {
         "number": 21,
         "direction": "across",
-        "answer": "NİSYAN",
-        "clue": "► unutma",
+        "answer": "GARİUS",
+        "clue": "Garius (Grekçe: Γάριος) veya Garios, antik Paflagonya'da, Callistratia'nın 80 stadia doğusunda yer alan bir kenttir",
         "startRow": 11,
         "startCol": 2,
         "difficulty_score": 52
@@ -29520,8 +29520,8 @@
       {
         "number": 12,
         "direction": "down",
-        "answer": "DADAİST",
-        "clue": "► Dadacı",
+        "answer": "İNFİLAK",
+        "clue": "Patlama",
         "startRow": 5,
         "startCol": 2,
         "difficulty_score": 60
@@ -30201,8 +30201,8 @@
       {
         "number": 18,
         "direction": "across",
-        "answer": "İBDAİ",
-        "clue": "► özgün",
+        "answer": "KABLO",
+        "clue": "İçinden elektrik geçen dışı plastik yalıtımlı tel örgü",
         "startRow": 8,
         "startCol": 6,
         "difficulty_score": 44
@@ -30273,8 +30273,8 @@
       {
         "number": 26,
         "direction": "across",
-        "answer": "KIYGI",
-        "clue": "► gadir",
+        "answer": "GITAR",
+        "clue": "Altı telli, parmak veya penayla çalınan müzik aleti",
         "startRow": 15,
         "startCol": 8,
         "difficulty_score": 44
@@ -31221,8 +31221,8 @@
       {
         "number": 1,
         "direction": "down",
-        "answer": "ABİYE",
-        "clue": "► gece kıyafeti",
+        "answer": "SAVAŞ",
+        "clue": "Ulusların silahlı olarak uzun süreli çarpışması, harp",
         "startRow": 0,
         "startCol": 0,
         "difficulty_score": 46
@@ -31248,8 +31248,8 @@
       {
         "number": 4,
         "direction": "down",
-        "answer": "MAHCUR",
-        "clue": "► kısıtlı",
+        "answer": "PUSULA",
+        "clue": "Yön bulma aracı",
         "startRow": 1,
         "startCol": 8,
         "difficulty_score": 52
@@ -31383,8 +31383,8 @@
       {
         "number": 18,
         "direction": "down",
-        "answer": "KORTEKS",
-        "clue": "► beyin kabuğu",
+        "answer": "KEVELCİ",
+        "clue": "Deri ve kürk satan kimse",
         "startRow": 8,
         "startCol": 9,
         "difficulty_score": 62
@@ -31956,8 +31956,8 @@
       {
         "number": 18,
         "direction": "across",
-        "answer": "BEDBİN",
-        "clue": "► kötümser",
+        "answer": "BİLMEK",
+        "clue": "Öğrenmiş bulunmak, malumata sahip olmak, haberdar olmak",
         "startRow": 8,
         "startCol": 5,
         "difficulty_score": 52
@@ -32412,8 +32412,8 @@
       {
         "number": 1,
         "direction": "down",
-        "answer": "DİREN",
-        "clue": "► dirgen",
+        "answer": "MÜZİK",
+        "clue": "Seslerin uyumlu ve estetik bir araya gelmesiyle oluşan işitsel sanat",
         "startRow": 0,
         "startCol": 0,
         "difficulty_score": 44
@@ -33246,8 +33246,8 @@
       {
         "number": 28,
         "direction": "across",
-        "answer": "LİBAS",
-        "clue": "► giysi",
+        "answer": "HANDE",
+        "clue": "Hande (Farsça: خنده; gülme veya gülüş), kadınlara verilen Türkçe bir isim ve şu anlamlara gelebilir:",
         "startRow": 15,
         "startCol": 5,
         "difficulty_score": 44
@@ -33738,8 +33738,8 @@
       {
         "number": 15,
         "direction": "down",
-        "answer": "AKSIRMA",
-        "clue": "► hapşırma",
+        "answer": "MALATYA",
+        "clue": "Kayısı diyarı",
         "startRow": 6,
         "startCol": 15,
         "difficulty_score": 60
@@ -33783,8 +33783,8 @@
       {
         "number": 19,
         "direction": "down",
-        "answer": "HASSET",
-        "clue": "Duygu, his (eski)",
+        "answer": "DALGIN",
+        "clue": "Düşüncelere dalıp çevresini fark etmeyen, dikkatsiz kişi",
         "startRow": 11,
         "startCol": 1,
         "difficulty_score": 54
@@ -33819,8 +33819,8 @@
       {
         "number": 23,
         "direction": "across",
-        "answer": "KODES",
-        "clue": "► cezaevi",
+        "answer": "BELKİ",
+        "clue": "Olabilir",
         "startRow": 13,
         "startCol": 4,
         "difficulty_score": 44
@@ -34248,8 +34248,8 @@
       {
         "number": 6,
         "direction": "across",
-        "answer": "TESLİMİYETİ",
-        "clue": "Teslim olma (çekim)",
+        "answer": "CUMOECHİDAE",
+        "clue": "Cumoechidae, Isopoda takımına bağlı bir hayvan familyasıdır",
         "startRow": 2,
         "startCol": 6,
         "difficulty_score": 94
@@ -34311,8 +34311,8 @@
       {
         "number": 13,
         "direction": "across",
-        "answer": "KODES",
-        "clue": "► cezaevi",
+        "answer": "İHLAS",
+        "clue": "Samimiyet temiz kalplilik dinde vs (5)",
         "startRow": 6,
         "startCol": 3,
         "difficulty_score": 44
@@ -34365,8 +34365,8 @@
       {
         "number": 18,
         "direction": "across",
-        "answer": "ÇAKER",
-        "clue": "► köle",
+        "answer": "YARAR",
+        "clue": "Fayda",
         "startRow": 8,
         "startCol": 12,
         "difficulty_score": 44
@@ -34794,8 +34794,8 @@
       {
         "number": 2,
         "direction": "down",
-        "answer": "MATUH",
-        "clue": "► bunak",
+        "answer": "ÇILEK",
+        "clue": "Şifreli ipucu: 'çilek' kelimesinin kökeni, anlamı veya mecaz kullanımı",
         "startRow": 0,
         "startCol": 4,
         "difficulty_score": 44
@@ -34848,8 +34848,8 @@
       {
         "number": 8,
         "direction": "across",
-        "answer": "MAHKUMİYETİ",
-        "clue": "Hükümlülük (çekim)",
+        "answer": "ÇEKİNGENLİK",
+        "clue": "Çekingenlik veya utangaçlık, bazı insanların diğerleriyle beraberken, konuşurken veya yardım isterken yaşadığı güven yetersizliğidir",
         "startRow": 3,
         "startCol": 0,
         "difficulty_score": 92
@@ -35385,8 +35385,8 @@
       {
         "number": 2,
         "direction": "down",
-        "answer": "HÜNSA",
-        "clue": "► erdişi",
+        "answer": "KABIR",
+        "clue": "5 harfli Türkçe sözcük",
         "startRow": 0,
         "startCol": 3,
         "difficulty_score": 44
@@ -35601,8 +35601,8 @@
       {
         "number": 25,
         "direction": "across",
-        "answer": "MATEMLİ",
-        "clue": "► yaslı",
+        "answer": "ALABORA",
+        "clue": "Küçük deniz araçlarının veya kayıkların fırtınada ters dönmesi, batması",
         "startRow": 13,
         "startCol": 1,
         "difficulty_score": 60
@@ -36003,8 +36003,8 @@
       {
         "number": 5,
         "direction": "across",
-        "answer": "TEKAVÜLİ",
-        "clue": "Sözleşme (çekim)",
+        "answer": "MERHAMET",
+        "clue": "Birinin acısına veya zor durumuna üzülüp yardım etme duygusu, acıma",
         "startRow": 1,
         "startCol": 9,
         "difficulty_score": 68
@@ -36684,8 +36684,8 @@
       {
         "number": 15,
         "direction": "across",
-        "answer": "CEZİR",
-        "clue": "► alçalma, met (I) karşıtı",
+        "answer": "HATİM",
+        "clue": "Hatim, Kur'an'ın bakarak veya ezberden baştan sona okunmasıdır",
         "startRow": 7,
         "startCol": 12,
         "difficulty_score": 50
@@ -36783,8 +36783,8 @@
       {
         "number": 26,
         "direction": "across",
-        "answer": "HÜNSA",
-        "clue": "► erdişi",
+        "answer": "GEVEN",
+        "clue": "5 harfli Türkçe sözcük",
         "startRow": 13,
         "startCol": 0,
         "difficulty_score": 44
@@ -36810,8 +36810,8 @@
       {
         "number": 29,
         "direction": "across",
-        "answer": "GÜNAHLI",
-        "clue": "► günahkâr",
+        "answer": "PEŞİNEN",
+        "clue": "Peşin olarak",
         "startRow": 16,
         "startCol": 1,
         "difficulty_score": 60
@@ -37293,8 +37293,8 @@
       {
         "number": 16,
         "direction": "across",
-        "answer": "VALÖR",
-        "clue": "► değer",
+        "answer": "KEMİK",
+        "clue": "Vücudumuzu içiilikli ayakta kalmasını dik dış kırılmaz iskeleti kuran kireç sert maddesi eti saran doku dik direği parça",
         "startRow": 8,
         "startCol": 6,
         "difficulty_score": 44
@@ -37875,8 +37875,8 @@
       {
         "number": 15,
         "direction": "across",
-        "answer": "SIYANET",
-        "clue": "► koruma",
+        "answer": "HAYALCİ",
+        "clue": "Bir şeyi gerçekleşmiş gibi kabul edip zihninde tasarlayan kimse; ütopist",
         "startRow": 8,
         "startCol": 5,
         "difficulty_score": 60
@@ -37938,8 +37938,8 @@
       {
         "number": 21,
         "direction": "down",
-        "answer": "MÜVEZZİ",
-        "clue": "► dağıtıcı",
+        "answer": "RİYAZET",
+        "clue": "Nefsin isteklerini kırma, perhiz",
         "startRow": 10,
         "startCol": 4,
         "difficulty_score": 60
@@ -37947,8 +37947,8 @@
       {
         "number": 22,
         "direction": "down",
-        "answer": "SİSTEM",
-        "clue": "► düzen",
+        "answer": "MANSUR",
+        "clue": "Allahın yardımıyla galip gelen",
         "startRow": 10,
         "startCol": 16,
         "difficulty_score": 52
@@ -37992,8 +37992,8 @@
       {
         "number": 27,
         "direction": "across",
-        "answer": "İNSANİYETİ",
-        "clue": "İnsanlık (çekim)",
+        "answer": "KUYRUKTAKİ",
+        "clue": "10 harfli Türkçe sözcük",
         "startRow": 16,
         "startCol": 4,
         "difficulty_score": 84

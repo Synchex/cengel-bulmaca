@@ -122,7 +122,7 @@ export default function PracticeScreen() {
     const t = useTheme();
     const ui = useUIProfile();
     const fs = ui.fontScale;
-    const isDark = t.id === 'black';
+    const isDark = t.id !== 'light';
 
     // ── Stores ──
     const addXP = useGamificationStore((s) => s.addXP);

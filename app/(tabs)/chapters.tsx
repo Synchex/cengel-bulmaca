@@ -39,7 +39,7 @@ export default function ChaptersScreen() {
     const router = useRouter();
     const theme = useTheme();
     const scrollRef = useRef<ScrollView>(null);
-    const isDark = theme.id === 'black';
+    const isDark = theme.id !== 'light';
 
     const progress = usePuzzleProgressStore((s) => s.progress);
     const { currentStreak, weeklyXP } = useGamificationStore();

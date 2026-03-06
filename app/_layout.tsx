@@ -24,7 +24,7 @@ function AppContent() {
 
   return (
     <>
-      <StatusBar style={t.id === 'black' ? 'light' : 'dark'} />
+      <StatusBar style={t.id !== 'light' ? 'light' : 'dark'} />
       <Stack
         screenOptions={{
           headerShown: false,

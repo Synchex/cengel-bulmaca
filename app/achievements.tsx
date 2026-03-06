@@ -158,7 +158,7 @@ export default function AchievementsScreen() {
     const t = useTheme();
     const ui = useUIProfile();
     const fs = ui.fontScale;
-    const isDark = t.id === 'black';
+    const isDark = t.id !== 'light';
 
     const achProgress = useAchievementsStore((s) => s.progress);
     const unlockedIds = useAchievementsStore((s) => s.unlockedIds);

@@ -72,7 +72,7 @@ function formatTime(sec: number): string {
 // ── Main Stats Screen ──
 export default function StatsScreen() {
     const t = useTheme();
-    const isDark = t.id === 'black';
+    const isDark = t.id !== 'light';
 
     const stats = useStatsStore();
     const { currentStreak, longestStreak, totalXP, currentLevel } = useGamificationStore();

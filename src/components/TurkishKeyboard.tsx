@@ -142,10 +142,10 @@ export default function TurkishKeyboard({
   // Theme-derived key colors
   const keyBg = isNewspaper ? '#FFFFFF' : t.surface;
   const keyTextColor = isNewspaper ? NP_INK : t.text;
-  const backspaceBg = isNewspaper ? '#FFFFFF' : (t.id === 'black' ? '#2A1A1A' : '#FFE8E8');
+  const backspaceBg = isNewspaper ? '#FFFFFF' : (t.id !== 'light' ? '#2A1A1A' : '#FFE8E8');
   const backspaceBorderColor = isNewspaper ? NP_BORDER : (t.secondary + '40');
-  const backspaceTextColor = isNewspaper ? NP_INK : (t.id === 'black' ? '#FF6B6B' : '#C0392B');
-  const containerBg = isNewspaper ? NP_PAPER : (t.id === 'black' ? t.surface2 : '#F2F0F7');
+  const backspaceTextColor = isNewspaper ? NP_INK : (t.id !== 'light' ? '#FF6B6B' : '#C0392B');
+  const containerBg = isNewspaper ? NP_PAPER : (t.id !== 'light' ? t.surface2 : '#F2F0F7');
   const containerBorder = isNewspaper ? '#CCCCCC' : t.borderLight;
 
   // Key widths calculated per row for balanced sizing
@@ -259,7 +259,7 @@ export default function TurkishKeyboard({
               },
             ]}
           >
-            <Text style={isNewspaper ? npStyles.actionBtnOutlineText : [styles.hintText, { fontSize: gp.actionFontSize, color: t.id === 'black' ? t.accent : '#C67700' }]}>
+            <Text style={isNewspaper ? npStyles.actionBtnOutlineText : [styles.hintText, { fontSize: gp.actionFontSize, color: t.id !== 'light' ? t.accent : '#C67700' }]}>
               {isNewspaper ? 'İPUCU' : (ui.mode === 'accessible' ? 'İpucu Al' : '💡 İpucu')}
             </Text>
           </Animated.View>

@@ -1,7 +1,7 @@
 /**
  * Deterministic layout for the Candy Crush–style level map.
  *
- * 200 nodes placed along a sinusoidal wave path, bottom to top.
+ * 300 nodes placed along a sinusoidal wave path, bottom to top.
  * Every 5th node is a "boss" node (larger, visually distinct).
  */
 
@@ -28,8 +28,8 @@ function seededRandom(seed: number): number {
 
 // ── World config ──
 export const LEVELS_PER_WORLD = 5;
-export const TOTAL_LEVELS = 200;
-export const TOTAL_WORLDS = TOTAL_LEVELS / LEVELS_PER_WORLD; // 40
+export const TOTAL_LEVELS = 300;
+export const TOTAL_WORLDS = TOTAL_LEVELS / LEVELS_PER_WORLD; // 60
 
 export const WORLD_NAMES = [
     // Part 1–8 (ch1–ch40)
@@ -76,6 +76,29 @@ export const WORLD_NAMES = [
     'Pergamon',
     'Olimpos',
     'Zeugma',
+    'Büyük Sınav',
+    // Part 41–48 (ch201–ch240)
+    'Anka Kuşu',
+    'Simurg',
+    'Kaf Dağı',
+    'Hazar',
+    'İpek Yolu',
+    'Boğaziçi',
+    'Galata',
+    'Pera',
+    // Part 49–56 (ch241–ch280)
+    'Topkapı',
+    'Dolmabahçe',
+    'Sultanahmet',
+    'Ayasofya',
+    'Maiden Tower',
+    'Rumeli Hisarı',
+    'Çamlıca',
+    'Sapanca',
+    // Part 57–60 (ch281–ch300)
+    'Abant',
+    'Uludağ',
+    'Erciyes',
     'Efsanevi Son',
 ];
 
@@ -100,7 +123,7 @@ export interface NodePosition {
 }
 
 /**
- * Generate all 200 node positions, bottom-to-top.
+ * Generate all 300 node positions, bottom-to-top.
  * The first node is at the BOTTOM of the map, the last at the top.
  */
 export function generateNodePositions(): NodePosition[] {

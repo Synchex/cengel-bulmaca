@@ -1,28 +1,17 @@
-import React, { useEffect, useRef, useState, useCallback } from 'react';
+import React, { useEffect, useRef, useCallback } from 'react';
 import {
     View,
     Text,
     TouchableOpacity,
     StyleSheet,
     Animated,
-    ScrollView,
-    Dimensions,
-    LayoutAnimation,
-    Platform,
-    UIManager,
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { Entry } from '../cengel/types';
 import { useUIProfile, useTheme } from '../theme/ThemeContext';
 import { useSpeech } from '../hooks/useSpeech';
 
-// Enable LayoutAnimation on Android
-if (Platform.OS === 'android' && UIManager.setLayoutAnimationEnabledExperimental) {
-    UIManager.setLayoutAnimationEnabledExperimental(true);
-}
 
-const { height: SCREEN_H } = Dimensions.get('window');
-const MAX_EXPANDED_HEIGHT = Math.round(SCREEN_H * 0.30);
 
 interface ClueBarProps {
     entry: Entry | null;
@@ -37,17 +26,14 @@ export default function ClueBar({ entry, canToggle, onToggle, onClose }: ClueBar
     const gp = ui.gameplay;
     const { speak, stop, isSpeaking } = useSpeech();
 
-    const [expanded, setExpanded] = useState(false);
-    const [needsExpand, setNeedsExpand] = useState(false);
+
 
     // Animations
     const fadeAnim = useRef(new Animated.Value(1)).current;
     const ttsScale = useRef(new Animated.Value(1)).current;
 
-    // Collapse when clue changes
+    // Fade in when clue changes
     useEffect(() => {
-        setExpanded(false);
-        setNeedsExpand(false);
         fadeAnim.setValue(0);
         Animated.timing(fadeAnim, {
             toValue: 1,
@@ -68,19 +54,9 @@ export default function ClueBar({ entry, canToggle, onToggle, onClose }: ClueBar
         Animated.spring(ttsScale, { toValue: 1, friction: 4, tension: 200, useNativeDriver: true }).start();
     };
 
-    const toggleExpand = useCallback(() => {
-        LayoutAnimation.configureNext(LayoutAnimation.Presets.easeInEaseOut);
-        setExpanded((e) => !e);
-    }, []);
 
-    const onTextLayout = useCallback((e: any) => {
-        const lines = e.nativeEvent.lines?.length ?? 0;
-        if (lines > 2) {
-            setNeedsExpand(true);
-        }
-    }, []);
 
-    const isDark = t.id === 'black';
+    const isDark = t.id !== 'light';
 
     // ── Empty state ──
     if (!entry) {
@@ -171,46 +147,13 @@ export default function ClueBar({ entry, canToggle, onToggle, onClose }: ClueBar
                 </View>
 
                 {/* ── Clue Text ── */}
-                {expanded ? (
-                    <TouchableOpacity activeOpacity={0.8} onPress={toggleExpand}>
-                        <ScrollView
-                            style={{ maxHeight: MAX_EXPANDED_HEIGHT }}
-                            showsVerticalScrollIndicator={false}
-                            bounces={false}
-                        >
-                            <Text style={[styles.clueText, {
-                                color: isDark ? '#EEEDF5' : '#1A1A2E',
-                            }]}>
-                                {entry.clueText}
-                            </Text>
-                        </ScrollView>
-                        <View style={styles.collapseHint}>
-                            <Ionicons name="chevron-up" size={14} color={isDark ? 'rgba(255,255,255,0.3)' : 'rgba(0,0,0,0.25)'} />
-                        </View>
-                    </TouchableOpacity>
-                ) : (
-                    <TouchableOpacity
-                        activeOpacity={needsExpand ? 0.7 : 1}
-                        onPress={needsExpand ? toggleExpand : undefined}
-                        disabled={!needsExpand}
-                    >
-                        <Text
-                            style={[styles.clueText, {
-                                color: isDark ? '#EEEDF5' : '#1A1A2E',
-                            }]}
-                            numberOfLines={2}
-                            onTextLayout={onTextLayout}
-                        >
-                            {entry.clueText}
-                        </Text>
-                        {needsExpand && (
-                            <View style={styles.expandHint}>
-                                <Text style={[styles.expandText, { color: '#818CF8' }]}>Daha fazla</Text>
-                                <Ionicons name="chevron-down" size={12} color="#818CF8" />
-                            </View>
-                        )}
-                    </TouchableOpacity>
-                )}
+                <Text
+                    style={[styles.clueText, {
+                        color: isDark ? '#EEEDF5' : '#1A1A2E',
+                    }]}
+                >
+                    {entry.clueText}
+                </Text>
             </View>
         </Animated.View>
     );

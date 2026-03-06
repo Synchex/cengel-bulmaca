@@ -17,7 +17,7 @@ export const IS_DEV =
  * Set to false for production-ready behaviour. Use Developer Panel
  * "Unlock All" button when testing level access during development.
  */
-export const DEV_UNLOCK_ALL: boolean = false;
+export const DEV_UNLOCK_ALL: boolean = true;
 
 if (DEV_UNLOCK_ALL) {
     console.log('DEV MODE: All levels unlocked');

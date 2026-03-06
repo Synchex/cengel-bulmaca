@@ -114,7 +114,7 @@ const overlayS = StyleSheet.create({
 export default function BigPuzzleScreen() {
     const router = useRouter();
     const t = useTheme();
-    const isDark = t.id === 'black';
+    const isDark = t.id !== 'light';
 
     const config = useBigPuzzleStore((s) => s.config);
     const setConfig = useBigPuzzleStore((s) => s.setConfig);

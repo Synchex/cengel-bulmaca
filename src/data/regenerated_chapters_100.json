@@ -3372,12 +3372,6 @@
           "difficulty_score": 37
         },
         {
-          "answer": "ŞARK",
-          "clue": "Doğu (eski dilde)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 37
-        },
-        {
           "answer": "AVİZE",
           "clue": "Tavan aydınlatması",
           "difficulty_tag": "medium",
@@ -3532,6 +3526,12 @@
           "clue": "Doğru düşünme yolu",
           "difficulty_tag": "medium",
           "difficulty_score": 38
+        },
+        {
+          "answer": "TEĞET",
+          "clue": "Teğet, iki geometrik cismin, birbirlerine sadece bir noktadan temas ettiklerinde oluşan geometrik durum",
+          "difficulty_tag": "easy",
+          "difficulty_score": 28
         }
       ]
     },
@@ -4626,8 +4626,8 @@
           "difficulty_score": 40
         },
         {
-          "answer": "İBATE",
-          "clue": "► barındırma",
+          "answer": "RAMPA",
+          "clue": "Eğimli yol",
           "difficulty_tag": "medium",
           "difficulty_score": 40
         },
@@ -6150,8 +6150,8 @@
           "difficulty_score": 44
         },
         {
-          "answer": "SAMNUR",
-          "clue": "Samur kürk (eski)",
+          "answer": "TELSİZ",
+          "clue": "Teli olmayan",
           "difficulty_tag": "medium",
           "difficulty_score": 44
         },
@@ -6204,8 +6204,8 @@
           "difficulty_score": 44
         },
         {
-          "answer": "FAİDE",
-          "clue": "Yarar (eski)",
+          "answer": "DIKEN",
+          "clue": "5 harfli Türkçe sözcük",
           "difficulty_tag": "medium",
           "difficulty_score": 44
         },
@@ -6756,8 +6756,8 @@
           "difficulty_score": 45
         },
         {
-          "answer": "CEZİR",
-          "clue": "► alçalma, met (I) karşıtı",
+          "answer": "AKLAN",
+          "clue": "Sularını bir denize veya göle gönderen su havzası; maile",
           "difficulty_tag": "medium",
           "difficulty_score": 45
         },
@@ -6954,8 +6954,8 @@
           "difficulty_score": 45
         },
         {
-          "answer": "ALEGAR",
-          "clue": "Gösterişli, süslü püslü, dikkati çeken (eski/bazı yörelerde)",
+          "answer": "TEMBEL",
+          "clue": "Çalışmayı sevmeyen, işten kaçan kimse",
           "difficulty_tag": "medium",
           "difficulty_score": 45
         },
@@ -7284,8 +7284,8 @@
           "difficulty_score": 46
         },
         {
-          "answer": "KUÇMAK",
-          "clue": "► kucaklamak",
+          "answer": "TÜRBAN",
+          "clue": "İnce kumaştan yapılmış, başı sıkıca kavrayan bir tür başörtüsü",
           "difficulty_tag": "medium",
           "difficulty_score": 46
         },
@@ -7374,12 +7374,6 @@
           "difficulty_score": 46
         },
         {
-          "answer": "MABERA",
-          "clue": "Öte yanı, arka tarafı (eski dilde)",
-          "difficulty_tag": "medium",
-          "difficulty_score": 46
-        },
-        {
           "answer": "MACERA",
           "clue": "Baştan geçen ilginç, heyecanlı ve tehlikeli olaylar zinciri",
           "difficulty_tag": "medium",
@@ -7438,6 +7432,12 @@
           "clue": "Yere dik olarak duran, dikey konumda bulunan (eski mimari terim/geometri)",
           "difficulty_tag": "medium",
           "difficulty_score": 46
+        },
+        {
+          "answer": "KÜREK",
+          "clue": "Todt hs hs b c hs nb mb g cg fc bc vf mb s vs nb ) \"5 hr",
+          "difficulty_tag": "medium",
+          "difficulty_score": 43
         }
       ]
     },
@@ -7644,8 +7644,8 @@
           "difficulty_score": 47
         },
         {
-          "answer": "KÜNNET",
-          "clue": "Kuvvet (eski)",
+          "answer": "DURMAK",
+          "clue": "Hareket halindekinin hareketini bitirip sabit sükunet durumuna geçmesi",
           "difficulty_tag": "medium",
           "difficulty_score": 47
         },
@@ -7746,8 +7746,8 @@
           "difficulty_score": 47
         },
         {
-          "answer": "ABİYE",
-          "clue": "► gece kıyafeti",
+          "answer": "BATIM",
+          "clue": "Güneşin yeryüzünden kaybolması (...ı) (5)",
           "difficulty_tag": "medium",
           "difficulty_score": 47
         },
@@ -7824,8 +7824,8 @@
           "difficulty_score": 47
         },
         {
-          "answer": "IŞIMA",
-          "clue": "► aydınlanma",
+          "answer": "SERİN",
+          "clue": "Hafif üşütecek derecedeki ferah havadar durum",
           "difficulty_tag": "medium",
           "difficulty_score": 47
         },
@@ -8094,8 +8094,8 @@
           "difficulty_score": 48
         },
         {
-          "answer": "SEYYAL",
-          "clue": "Akıcı sıvı (eski)",
+          "answer": "GERÇEK",
+          "clue": "Yalan veya hayal olmayan, var olan, hakikat",
           "difficulty_tag": "medium",
           "difficulty_score": 48
         },
@@ -8334,8 +8334,8 @@
           "difficulty_score": 48
         },
         {
-          "answer": "TEOLOG",
-          "clue": "► tanrı bilimci",
+          "answer": "IPOTEK",
+          "clue": "Alınan krediye yahut uzun vadeli büyük borca karşılık teminat olarak yasal yollarla bir gayrimenkulü bankaya rehin verme akdi senedidir",
           "difficulty_tag": "medium",
           "difficulty_score": 48
         },
@@ -8406,8 +8406,8 @@
           "difficulty_score": 48
         },
         {
-          "answer": "SAHAR",
-          "clue": "Sabahın tan yeri ağarmadan hemen önceki vakti (eski sözcük)",
+          "answer": "KARIN",
+          "clue": "Beden göğsü ile vs alt kasık alan göbek vs yeri arası yumuşak kısım şişen acıkan ve şiş alan yer vb",
           "difficulty_tag": "medium",
           "difficulty_score": 48
         },
@@ -8754,8 +8754,8 @@
           "difficulty_score": 49
         },
         {
-          "answer": "KISKA",
-          "clue": "► arpacık soğanı",
+          "answer": "ŞARAP",
+          "clue": "Üzüm suyunun mayalanmasıyla elde edilen içki",
           "difficulty_tag": "medium",
           "difficulty_score": 49
         },
@@ -8784,8 +8784,8 @@
           "difficulty_score": 49
         },
         {
-          "answer": "ALIŞKI",
-          "clue": "► alışkanlık",
+          "answer": "ZÜRAFA",
+          "clue": "Çok uzun boyunlu, benekli Afrika hayvanı",
           "difficulty_tag": "medium",
           "difficulty_score": 49
         },
@@ -8814,8 +8814,8 @@
           "difficulty_score": 49
         },
         {
-          "answer": "TAPUCU",
-          "clue": "► tapu memuru",
+          "answer": "DANSÖZ",
+          "clue": "Oryantal veya çeşitli müziklerde kıvrak figürlerle göbek atan kadın",
           "difficulty_tag": "medium",
           "difficulty_score": 49
         },
@@ -9624,8 +9624,8 @@
           "difficulty_score": 51
         },
         {
-          "answer": "HASSET",
-          "clue": "Duygu, his (eski)",
+          "answer": "TİMSAH",
+          "clue": "Sularda ve karada yaşayan güçlü çeneli büyük sürüngen",
           "difficulty_tag": "hard",
           "difficulty_score": 51
         },
@@ -10140,8 +10140,8 @@
           "difficulty_score": 52
         },
         {
-          "answer": "MİKYAS",
-          "clue": "Ölçek (eski)",
+          "answer": "ŞERİAT",
+          "clue": "Şeriat (Arapça: شَرِيعَة, şarīʿa), Kur'an âyetleri ile Muhammed'in söz ve fiillerinden oluşan nasslardan alimler sınıfının (Fukaha) çıkarımları (istinbat) ile oluşturulan dinî kanunlar toplamıdır",
           "difficulty_tag": "hard",
           "difficulty_score": 52
         },
@@ -10686,8 +10686,8 @@
           "difficulty_score": 53
         },
         {
-          "answer": "NEYYER",
-          "clue": "Işıklı cisim, güneş (eski)",
+          "answer": "ALIĞIN",
+          "clue": "6 harfli Türkçe sözcük",
           "difficulty_tag": "hard",
           "difficulty_score": 53
         },
@@ -10872,8 +10872,8 @@
           "difficulty_score": 53
         },
         {
-          "answer": "ARASAT",
-          "clue": "► mahşer yeri",
+          "answer": "KİMLİK",
+          "clue": "Toplumsal bir varlık olarak insanın nasıl bir kimse olduğunu gösteren belirti, nitelik ve özelliklerin bütünü; etiket",
           "difficulty_tag": "hard",
           "difficulty_score": 53
         },
@@ -11250,8 +11250,8 @@
           "difficulty_score": 54
         },
         {
-          "answer": "İHTİFA",
-          "clue": "Gizlenme, saklanma (eski)",
+          "answer": "SALTÇI",
+          "clue": "Saltçılığı benimseyen; mutlakçı",
           "difficulty_tag": "hard",
           "difficulty_score": 54
         },
@@ -11280,8 +11280,8 @@
           "difficulty_score": 54
         },
         {
-          "answer": "İSTİLAİ",
-          "clue": "Yayılma (çekim)",
+          "answer": "BULAMAK",
+          "clue": "Bir nesnenin her yanını bir şeye değdirerek üstünü onunla kaplamak; belemek",
           "difficulty_tag": "hard",
           "difficulty_score": 54
         },
@@ -11502,8 +11502,8 @@
           "difficulty_score": 54
         },
         {
-          "answer": "BOTANİK",
-          "clue": "► bitki bilimi",
+          "answer": "BİREBİR",
+          "clue": "Etkisi kesin olan",
           "difficulty_tag": "hard",
           "difficulty_score": 54
         },
@@ -11784,14 +11784,14 @@
           "difficulty_score": 55
         },
         {
-          "answer": "İSTİKA",
-          "clue": "Şikayet (eski)",
+          "answer": "ECNEBI",
+          "clue": "6 harfli Türkçe sözcük",
           "difficulty_tag": "hard",
           "difficulty_score": 55
         },
         {
-          "answer": "İSTİDAİ",
-          "clue": "Dilekçe (çekim)",
+          "answer": "VİZİYER",
+          "clue": "Kasket siperi",
           "difficulty_tag": "hard",
           "difficulty_score": 55
         },
@@ -11964,8 +11964,8 @@
           "difficulty_score": 55
         },
         {
-          "answer": "ATEİZM",
-          "clue": "► tanrıtanımazlık",
+          "answer": "CEMŞAT",
+          "clue": "Basketbolda rakibe yüklenip aniden geri çekilerek ve dönerken zıplayarak atılan şut",
           "difficulty_tag": "hard",
           "difficulty_score": 55
         },
@@ -11994,8 +11994,8 @@
           "difficulty_score": 55
         },
         {
-          "answer": "BELETME",
-          "clue": "► kundaklatma",
+          "answer": "KİBİRLİ",
+          "clue": "Kendini büyük gören, büyüklenen; gururlu, mütekebbir",
           "difficulty_tag": "hard",
           "difficulty_score": 55
         },
@@ -12042,8 +12042,8 @@
           "difficulty_score": 55
         },
         {
-          "answer": "ŞAMATA",
-          "clue": "► gürültü patırtı",
+          "answer": "EMEKLI",
+          "clue": "Belirli bir yaşa ve hizmet gününe ulaşıp çalışma hayatını bitirip maaş alan kimse",
           "difficulty_tag": "hard",
           "difficulty_score": 55
         },
@@ -12378,8 +12378,8 @@
           "difficulty_score": 56
         },
         {
-          "answer": "KABİNE",
-          "clue": "► bakanlar kurulu",
+          "answer": "DÜRÜST",
+          "clue": "Sözünde, davranışında yalanı, hilesi olmayan; doğruluğu ilke edinmiş doğru kimse",
           "difficulty_tag": "hard",
           "difficulty_score": 56
         },
@@ -12414,8 +12414,8 @@
           "difficulty_score": 56
         },
         {
-          "answer": "MASTİKA",
-          "clue": "► sakız rakısı",
+          "answer": "OMFAZİT",
+          "clue": "Piroksen grubundan, yeşil renkli doğal silikat",
           "difficulty_tag": "hard",
           "difficulty_score": 56
         },
@@ -12438,8 +12438,8 @@
           "difficulty_score": 56
         },
         {
-          "answer": "KUÇUŞMA",
-          "clue": "► kucaklaşma",
+          "answer": "İÇLENME",
+          "clue": "İçlenmek işi veya durumu",
           "difficulty_tag": "hard",
           "difficulty_score": 56
         },
@@ -12714,8 +12714,8 @@
           "difficulty_score": 57
         },
         {
-          "answer": "TAYYAR",
-          "clue": "Uçan, uçucu (eski)",
+          "answer": "DERHAL",
+          "clue": "Hemen falan zamsan kaybı olmadan şipşalı o dakkaya flen ansız seri olan emrivi vs filana acelece (6 rhfdl)",
           "difficulty_tag": "hard",
           "difficulty_score": 57
         },
@@ -12876,8 +12876,8 @@
           "difficulty_score": 57
         },
         {
-          "answer": "KOKPİT",
-          "clue": "► pilot kabini",
+          "answer": "BANDAJ",
+          "clue": "Yarayı sarmak veya korumak için kullanılan sargı bezi",
           "difficulty_tag": "hard",
           "difficulty_score": 57
         },
@@ -12972,8 +12972,8 @@
           "difficulty_score": 57
         },
         {
-          "answer": "KORTEKS",
-          "clue": "► beyin kabuğu",
+          "answer": "ÇATIŞMA",
+          "clue": "Silahtan silahşa veya karşıt görüşlerin vuruşması, ahenksizlik",
           "difficulty_tag": "hard",
           "difficulty_score": 57
         },
@@ -13188,20 +13188,20 @@
           "difficulty_score": 58
         },
         {
-          "answer": "İHTİYATİ",
-          "clue": "Tedbir (çekim)",
+          "answer": "GEOMETRİ",
+          "clue": "Şekilleri inceleyen matematik dalı",
           "difficulty_tag": "hard",
           "difficulty_score": 58
         },
         {
-          "answer": "İMTİYAZİ",
-          "clue": "Ayrıcalık (çekim)",
+          "answer": "MEMLEKET",
+          "clue": "Doğulan yeri ya vatanı temsil eden diyar sıla ülke veya vs yöresi genel adı (kök)",
           "difficulty_tag": "hard",
           "difficulty_score": 58
         },
         {
-          "answer": "İSTİFAİ",
-          "clue": "Ayrılma (çekim)",
+          "answer": "KOLAYCA",
+          "clue": "Oldukça kolay",
           "difficulty_tag": "hard",
           "difficulty_score": 58
         }
@@ -13212,8 +13212,8 @@
       "target_band": "65-77",
       "items": [
         {
-          "answer": "İSTİRAİ",
-          "clue": "Satın alma (çekim)",
+          "answer": "KARYOLA",
+          "clue": "Yatağı yerin hizasından koruyacak vb yerden kesip yüksekte tutan yatak demiri tahtası suntası",
           "difficulty_tag": "hard",
           "difficulty_score": 58
         },
@@ -13686,26 +13686,26 @@
           "difficulty_score": 59
         },
         {
-          "answer": "İSTİKAİ",
-          "clue": "Şikayet (eski) (çekim)",
+          "answer": "KOMUTAN",
+          "clue": "Bir birliği komuta eden subay, kumandan",
           "difficulty_tag": "hard",
           "difficulty_score": 59
         },
         {
-          "answer": "TESELLİİ",
-          "clue": "Avunma (çekim)",
+          "answer": "ONKOLOJİ",
+          "clue": "Onkoloji kanserin oluşumu, nedenleri, kalıtımla ilişkisi, tanısı, tedavisi, kanserle ilgili istatisikler ve kanserden korunmayla ilgilenen tıp dalıdır",
           "difficulty_tag": "hard",
           "difficulty_score": 59
         },
         {
-          "answer": "TEKAVÜLİ",
-          "clue": "Sözleşme (çekim)",
+          "answer": "ORTALAMA",
+          "clue": "Ortalama veya merkezsel konum ölçüleri, istatistik bilim dalında ve veri analizinde kullanılan bir veri dizisinin orta konumunu, tek bir sayı ile ifade eden betimsel istatistik ölçüsüdür",
           "difficulty_tag": "hard",
           "difficulty_score": 59
         },
         {
-          "answer": "TENASÜPİ",
-          "clue": "Uygunluk (çekim)",
+          "answer": "EDEBİYAT",
+          "clue": "Söz ve yazı sanatı, yazın",
           "difficulty_tag": "hard",
           "difficulty_score": 59
         },
@@ -13824,8 +13824,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "MATADOR",
-          "clue": "► boğa güreşçisi",
+          "answer": "KEFENCİ",
+          "clue": "Cenaze gereçleri satan kimse",
           "difficulty_tag": "hard",
           "difficulty_score": 59
         },
@@ -13836,8 +13836,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "PİGMENT",
-          "clue": "► boyar madde",
+          "answer": "AĞUSTOS",
+          "clue": "30 ... Zafer Bayramı kutlaması olan sıcak ay",
           "difficulty_tag": "hard",
           "difficulty_score": 59
         },
@@ -13896,8 +13896,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "CAKASIZ",
-          "clue": "► gösterişsiz",
+          "answer": "PLASTİK",
+          "clue": "Petrol filn fason oyuncak ucuza sanayi üretmeli doğada çok yüzyıl kalann zor eriyen pet şişe filan vs kanserojen kova leğen kap vs lastikli vb naylon vs kimya mddesi çöp falan ucuz fason sarmal pütür pürüzlü dayanıklı falan materal kalıp vb petrol türedi / plastk vs",
           "difficulty_tag": "hard",
           "difficulty_score": 59
         },
@@ -13974,8 +13974,8 @@
           "difficulty_score": 59
         },
         {
-          "answer": "SÜTLÜCE",
-          "clue": "► düğün çiçeği",
+          "answer": "HATIRAT",
+          "clue": "Kişinin hayatında iz bırakan geçmiş olayları ve anılarını kaleme aldığı yazılar (anı)",
           "difficulty_tag": "hard",
           "difficulty_score": 59
         },
@@ -14160,26 +14160,26 @@
           "difficulty_score": 60
         },
         {
-          "answer": "İMTİHANİ",
-          "clue": "Sınav (çekim)",
+          "answer": "SONBAHAR",
+          "clue": "Güz",
           "difficulty_tag": "hard",
           "difficulty_score": 60
         },
         {
-          "answer": "İZDİHAMİ",
-          "clue": "Kalabalık (çekim)",
+          "answer": "LASTIKLI",
+          "clue": "İçinde esnek lastik ip geçirilmiş olan yâda mecaz olarak farklı anlamlara çekilebilen (söz/cümle)",
           "difficulty_tag": "hard",
           "difficulty_score": 60
         },
         {
-          "answer": "TEAKKULİ",
-          "clue": "Akıl etme (çekim)",
+          "answer": "ASTSUBAY",
+          "clue": "Subaydan kıdemsiz rütbeli asker",
           "difficulty_tag": "hard",
           "difficulty_score": 60
         },
         {
-          "answer": "MUAMELEİ",
-          "clue": "İşlem (çekim)",
+          "answer": "DÜŞÜNMEK",
+          "clue": "Akıoıl ile zihnine kurculamak bir karara taslak vs kuramk kafasında falan hayalle vs fikrini akıl yürürte zihinle eylemleşşi şry faland (8 hrdrı)",
           "difficulty_tag": "hard",
           "difficulty_score": 60
         },
@@ -14238,8 +14238,8 @@
           "difficulty_score": 60
         },
         {
-          "answer": "BARHANA",
-          "clue": "► barhane (II)",
+          "answer": "SEÇENEK",
+          "clue": "Birinin yerine seçilebilecek bir başka yol, yöntem, tutum; şık, alternatif, opsiyon",
           "difficulty_tag": "hard",
           "difficulty_score": 60
         },
@@ -14412,8 +14412,8 @@
           "difficulty_score": 60
         },
         {
-          "answer": "ELMABAŞ",
-          "clue": "► tepeli dalgıç",
+          "answer": "AEROBIK",
+          "clue": "Müzik eşliğinde, oksijen tüketimini artırmak için yapılan hızlı ritmik jimnastik",
           "difficulty_tag": "hard",
           "difficulty_score": 60
         },
@@ -14466,12 +14466,6 @@
           "difficulty_score": 60
         },
         {
-          "answer": "MAHBUB",
-          "clue": "Çok sevilmiş, muhabbete mazhar olmuş, sevilen ve sayılan sevgili veya dost kimse (eskimiş söz)",
-          "difficulty_tag": "hard",
-          "difficulty_score": 60
-        },
-        {
           "answer": "MAHCUP",
           "clue": "Yaptığı bir yersiz hareketten ötürü utanıp sıkılan, yüzü kızaran, utangaç ve çekingen olan",
           "difficulty_tag": "hard",
@@ -14506,6 +14500,12 @@
           "clue": "Bir işin yapılması için verilen süre",
           "difficulty_tag": "hard",
           "difficulty_score": 61
+        },
+        {
+          "answer": "ISKELET",
+          "clue": "Kas ve derilerin iç kısımlarında yer alarak canlının dik duruşunu veren birbirine kaynaşmış hareketli yâda kilitli (omurga-kaburga falan) tüm vücut eklentili kemikler çatısı / bütünü",
+          "difficulty_tag": "hard",
+          "difficulty_score": 79
         }
       ]
     },
@@ -14520,8 +14520,8 @@
           "difficulty_score": 61
         },
         {
-          "answer": "İNFİLAKİ",
-          "clue": "Patlama (çekim)",
+          "answer": "AÇIKLAMA",
+          "clue": "Bir konuyu anlaşılabilecek şekilde detaylarıyla anlatma izahatı",
           "difficulty_tag": "hard",
           "difficulty_score": 61
         },
@@ -14940,26 +14940,26 @@
           "difficulty_score": 62
         },
         {
-          "answer": "İHTİRASİ",
-          "clue": "Aşırı istek (çekim)",
+          "answer": "CERDEVAN",
+          "clue": "Rêxa golikê tirka çêtire",
           "difficulty_tag": "hard",
           "difficulty_score": 62
         },
         {
-          "answer": "İZDİVAÇİ",
-          "clue": "Evlilik (çekim)",
+          "answer": "NEOZİRTA",
+          "clue": "Neozirta Ectrichodiini oymağına bağlı bir cinstir",
           "difficulty_tag": "hard",
           "difficulty_score": 62
         },
         {
-          "answer": "TEVELLİİ",
-          "clue": "Yönetme (çekim)",
+          "answer": "MUKAVELE",
+          "clue": "Sözleşme",
           "difficulty_tag": "hard",
           "difficulty_score": 62
         },
         {
-          "answer": "TENAZÜLİ",
-          "clue": "İnme (çekim)",
+          "answer": "YILDIRIM",
+          "clue": "Buluttan yüksekliğe veya hedefe boşalan ve yakan güçlü elektrik yükü",
           "difficulty_tag": "hard",
           "difficulty_score": 62
         },
@@ -15108,8 +15108,8 @@
           "difficulty_score": 62
         },
         {
-          "answer": "KAŞALOT",
-          "clue": "► ispermeçet balinası",
+          "answer": "POSTACI",
+          "clue": "Mektup pusula kart veya mahkeme zarflarını ptt yoluyla sokak sokak evlere çantayla dağıtan adam",
           "difficulty_tag": "hard",
           "difficulty_score": 62
         },
@@ -15234,12 +15234,6 @@
           "difficulty_score": 62
         },
         {
-          "answer": "AFERIST",
-          "clue": "Sadece kendi çıkarını düşünen, çıkarcı, fırsatçı (eskimiş söz)",
-          "difficulty_tag": "hard",
-          "difficulty_score": 62
-        },
-        {
           "answer": "ANEMIK",
           "clue": "Kandaki alyuvar sayısı normalin altında olan, cansız, solgun ve kanı az olan kansız halsiz kimse/durum",
           "difficulty_tag": "hard",
@@ -15250,6 +15244,12 @@
           "clue": "Bütün yapılan fedakarlıklara ve lütuflara rağmen iyiliği unutan veya hiçe sayan vefasız nankör kişi (namkör)",
           "difficulty_tag": "hard",
           "difficulty_score": 62
+        },
+        {
+          "answer": "BİLİŞİM",
+          "clue": "Bilgi işlem",
+          "difficulty_tag": "hard",
+          "difficulty_score": 79
         }
       ]
     },
@@ -15312,14 +15312,14 @@
           "difficulty_score": 63
         },
         {
-          "answer": "İHTİRAMİ",
-          "clue": "Saygı (çekim)",
+          "answer": "MERCİMEK",
+          "clue": "Çorbası meşhur baklagil",
           "difficulty_tag": "hard",
           "difficulty_score": 63
         },
         {
-          "answer": "MUAZZEZİ",
-          "clue": "Saygın (çekim)",
+          "answer": "LACİVERT",
+          "clue": "Çok koyu mavi",
           "difficulty_tag": "hard",
           "difficulty_score": 63
         },
@@ -15666,26 +15666,26 @@
           "difficulty_score": 64
         },
         {
-          "answer": "İNTİHARİ",
-          "clue": "Kendini öldürme (çekim)",
+          "answer": "BUĞULAMA",
+          "clue": "Buğulama yemeklerin su buharı yardımıyla pişirilmesidir",
           "difficulty_tag": "hard",
           "difficulty_score": 64
         },
         {
-          "answer": "İNHİSARİ",
-          "clue": "Tekel (çekim)",
+          "answer": "GREYFURT",
+          "clue": "Portakala benzeyen ama içi daha kan kırmızı pembemsi, tadı biraz acımsı olan kış vitamini",
           "difficulty_tag": "hard",
           "difficulty_score": 64
         },
         {
-          "answer": "TEKABÜLİ",
-          "clue": "Karşılık gelme (çekim)",
+          "answer": "MUHTEREM",
+          "clue": "Saygıdeğer",
           "difficulty_tag": "hard",
           "difficulty_score": 64
         },
         {
-          "answer": "TEKASÜRİ",
-          "clue": "Çoğalma (çekim)",
+          "answer": "AFFETMEK",
+          "clue": "Bir suçu bağışlamak, cezadan vazgeçmek",
           "difficulty_tag": "hard",
           "difficulty_score": 64
         },
@@ -15912,8 +15912,8 @@
           "difficulty_score": 65
         },
         {
-          "answer": "TENASÜHİ",
-          "clue": "Ruh göçü (çekim)",
+          "answer": "MALVAGNA",
+          "clue": "Malvagna, İtalya'nın Sicilya bölgesine bağlı Messina ilinde bulunan bir komündür",
           "difficulty_tag": "hard",
           "difficulty_score": 65
         },
@@ -16260,38 +16260,38 @@
           "difficulty_score": 66
         },
         {
-          "answer": "İNHİTATİ",
-          "clue": "Gerileme (çekim)",
+          "answer": "INTERNET",
+          "clue": "Küresel bilgisayar ağı",
           "difficulty_tag": "hard",
           "difficulty_score": 66
         },
         {
-          "answer": "TEŞEKKÜRİ",
-          "clue": "Minnet (çekim)",
+          "answer": "MUSAHABET",
+          "clue": "Sohbet",
           "difficulty_tag": "hard",
           "difficulty_score": 66
         },
         {
-          "answer": "TEKAMÜLİ",
-          "clue": "Olgunlaşma (çekim)",
+          "answer": "KIRKAYAK",
+          "clue": "Rulo halinde kıvrılan uzun bacaklarıyla çok sayıda (30-300) adımı bulunan yavaş haşeremsi",
           "difficulty_tag": "hard",
           "difficulty_score": 66
         },
         {
-          "answer": "TENAKUZİ",
-          "clue": "Çelişki (çekim)",
+          "answer": "ACAIPLIK",
+          "clue": "Yadırganacak durum, garip ve tuhaf olma hâli",
           "difficulty_tag": "hard",
           "difficulty_score": 66
         },
         {
-          "answer": "MUKAVELEİ",
-          "clue": "Sözleşme (çekim)",
+          "answer": "DİPLOMASİ",
+          "clue": "Devletlerarası ilişkileri yürütme sanatı",
           "difficulty_tag": "hard",
           "difficulty_score": 66
         },
         {
-          "answer": "MUNTAZAMİ",
-          "clue": "Düzenli (çekim)",
+          "answer": "BÜTÜNÜDÜR",
+          "clue": "9 harfli Türkçe sözcük",
           "difficulty_tag": "hard",
           "difficulty_score": 66
         },
@@ -16458,12 +16458,6 @@
           "difficulty_score": 66
         },
         {
-          "answer": "CAVIDAN",
-          "clue": "Sonsuz, ölümsüz, ebedi (eski dilde)",
-          "difficulty_tag": "hard",
-          "difficulty_score": 66
-        },
-        {
           "answer": "CELLAAT",
           "clue": "Ölüm cezasını infaz eden görevli",
           "difficulty_tag": "hard",
@@ -16552,6 +16546,12 @@
           "clue": "Adalar dışında kalan, okyanusların çoğunu kaplayan büyük yer parçası, kıta",
           "difficulty_tag": "hard",
           "difficulty_score": 66
+        },
+        {
+          "answer": "NEDAMET",
+          "clue": "Pişmanlık",
+          "difficulty_tag": "hard",
+          "difficulty_score": 81
         }
       ]
     },
@@ -16602,32 +16602,32 @@
           "difficulty_score": 67
         },
         {
-          "answer": "İHTİŞAMİ",
-          "clue": "Görkem (çekim)",
+          "answer": "MÜNECCİM",
+          "clue": "Yıldız falcısı",
           "difficulty_tag": "hard",
           "difficulty_score": 67
         },
         {
-          "answer": "İNKILAPİ",
-          "clue": "Devrim (çekim)",
+          "answer": "AKSESUAR",
+          "clue": "Ana parçayı tamamlayan, daha güzel görünmesini sağlayan ek süs veya eşya",
           "difficulty_tag": "hard",
           "difficulty_score": 67
         },
         {
-          "answer": "MUAZZAMİ",
-          "clue": "Büyük (çekim)",
+          "answer": "ANGAJMAN",
+          "clue": "Belli konularda karşılıklı olarak bağlayıcı maddelere söz verip anlaşma yâda nişanlanma durumu, bağlanma",
           "difficulty_tag": "hard",
           "difficulty_score": 67
         },
         {
-          "answer": "MUHTEŞEMİ",
-          "clue": "Görkemli (çekim)",
+          "answer": "COSMOSOMA",
+          "clue": "Cosmosoma, Arctiidae familyasına bağlı bir hayvan cinsidir",
           "difficulty_tag": "hard",
           "difficulty_score": 67
         },
         {
-          "answer": "ZİHNİYETİ",
-          "clue": "Anlayış (çekim)",
+          "answer": "KARTVİZİT",
+          "clue": "Kartvizit, genel olarak sahibinin adı ve soyadı, bağlı bulunduğu kurum, ünvanı ve iletişim bilgilerinin yer aldığı tasarımlardır",
           "difficulty_tag": "hard",
           "difficulty_score": 67
         },
@@ -16896,14 +16896,14 @@
           "difficulty_score": 68
         },
         {
-          "answer": "TECELLİİ",
-          "clue": "Belirme (çekim)",
+          "answer": "KARAMBOL",
+          "clue": "Bilardoda veya futbolda karışıklık",
           "difficulty_tag": "hard",
           "difficulty_score": 68
         },
         {
-          "answer": "TEVEKKÜLİ",
-          "clue": "Tanrıya güven (çekim)",
+          "answer": "MÜNAZARAİ",
+          "clue": "Tartışma",
           "difficulty_tag": "hard",
           "difficulty_score": 68
         },
@@ -17142,14 +17142,14 @@
           "difficulty_score": 69
         },
         {
-          "answer": "İNTİKAMİ",
-          "clue": "Öç alma (çekim)",
+          "answer": "ÇARPIŞMA",
+          "clue": "Savaşta iki kuvvetin şiddetle birbirine girmesi, vuruşma",
           "difficulty_tag": "hard",
           "difficulty_score": 69
         },
         {
-          "answer": "TEBESSÜMİ",
-          "clue": "Gülümseme (çekim)",
+          "answer": "ALAMAZLAR",
+          "clue": "9 harfli Türkçe sözcük",
           "difficulty_tag": "hard",
           "difficulty_score": 69
         },
@@ -17376,8 +17376,8 @@
           "difficulty_score": 70
         },
         {
-          "answer": "HAYSİYETİ",
-          "clue": "Saygınlık (çekim)",
+          "answer": "STAJYERLİ",
+          "clue": "9 harfli Türkçe sözcük",
           "difficulty_tag": "expert",
           "difficulty_score": 70
         },
@@ -17628,32 +17628,32 @@
           "difficulty_score": 71
         },
         {
-          "answer": "TEFEKKÜRİ",
-          "clue": "Düşünme (çekim)",
+          "answer": "HÜKÜMETLE",
+          "clue": "9 harfli Türkçe sözcük",
           "difficulty_tag": "expert",
           "difficulty_score": 71
         },
         {
-          "answer": "MUHABBETİ",
-          "clue": "Sevgi (çekim)",
+          "answer": "MÜREKKEPİ",
+          "clue": "Yazı sıvısı",
           "difficulty_tag": "expert",
           "difficulty_score": 71
         },
         {
-          "answer": "MUHTEREMİ",
-          "clue": "Saygıdeğer (çekim)",
+          "answer": "MATEMATİK",
+          "clue": "Sayılar ve şekiller bilimi",
           "difficulty_tag": "expert",
           "difficulty_score": 71
         },
         {
-          "answer": "ŞAHSİYETİ",
-          "clue": "Kişilik (çekim)",
+          "answer": "MÜTEAHHİT",
+          "clue": "Müteahhit ya da yüklenici ya da üstlenici; sözleşme ve kontrat ile yüklenilen işi veya projeyi gerekli yöntemle temin ve tamamlamayı tahahhüt eden özel veya tüzel kişiye verilen addır",
           "difficulty_tag": "expert",
           "difficulty_score": 71
         },
         {
-          "answer": "MEMURİYETİ",
-          "clue": "Memurluk (çekim)",
+          "answer": "GAESİSCHİA",
+          "clue": "Gaesischia Eucerina altoymağına bağlı bir cinstir",
           "difficulty_tag": "expert",
           "difficulty_score": 71
         },
@@ -17916,8 +17916,8 @@
           "difficulty_score": 72
         },
         {
-          "answer": "MUKADDESİ",
-          "clue": "Kutsal (çekim)",
+          "answer": "DEODORANT",
+          "clue": "Deodorant, vücudun koltuk altı, ayak ve diğer bölgelerinde terlemenin bakteriyel arzından kaynaklanan vücut kokusunu önlemek için vücuda uygulanan bir maddedir",
           "difficulty_tag": "expert",
           "difficulty_score": 72
         },
@@ -17928,8 +17928,8 @@
           "difficulty_score": 72
         },
         {
-          "answer": "TÜRKİYETİ",
-          "clue": "Türklük (çekim)",
+          "answer": "SNOWBOARD",
+          "clue": "Snowboard, snowboard tahtası ile karda yapılan bir spor dalıdır",
           "difficulty_tag": "expert",
           "difficulty_score": 72
         },
@@ -18210,8 +18210,8 @@
           "difficulty_score": 73
         },
         {
-          "answer": "İNSANİYETİ",
-          "clue": "İnsanlık (çekim)",
+          "answer": "TELEVİZYON",
+          "clue": "Görüntüleri kanallarla havadan veya uydudan renkli odayı sinemaya çeviren seyirlik cihaz yayın izleti (TV vs vb )",
           "difficulty_tag": "expert",
           "difficulty_score": 73
         },
@@ -18474,8 +18474,8 @@
           "difficulty_score": 74
         },
         {
-          "answer": "İZMİHLALİ",
-          "clue": "Yok oluş (çekim)",
+          "answer": "ÜZÜNTÜNÜN",
+          "clue": "9 harfli Türkçe sözcük",
           "difficulty_tag": "expert",
           "difficulty_score": 74
         },
@@ -18486,14 +18486,14 @@
           "difficulty_score": 74
         },
         {
-          "answer": "KABİLİYETİ",
-          "clue": "Yetenek (çekim)",
+          "answer": "HOLZMİNDEN",
+          "clue": "Holzminden, Almanya'da Aşağı Saksonya eyaletinde yer alan bir şehirdir",
           "difficulty_tag": "expert",
           "difficulty_score": 74
         },
         {
-          "answer": "MESULİYETİ",
-          "clue": "Sorumluluk (çekim)",
+          "answer": "MÜTEVELLİİ",
+          "clue": "Vakıf yöneticisi",
           "difficulty_tag": "expert",
           "difficulty_score": 74
         },
